@@ -1,6 +1,6 @@
-#Youtube en JAWS
+# Youtube en JAWS
 
-###[General Navigation in YouTube with JAWS](https://www.youtube.com/watch?v=oMzXAV0ZEsE)
+### [General Navigation in YouTube with JAWS](https://www.youtube.com/watch?v=oMzXAV0ZEsE)
 
 1. start chrome  
 1. youtube.com  
@@ -9,7 +9,7 @@
 1. ga door de links met pijltjes  
 1. kies een link en type enter  
 
-###[How to play videos on youtube](https://www.youtube.com/watch?v=jqvxKLbp6CI)  
+### [How to play videos on youtube](https://www.youtube.com/watch?v=jqvxKLbp6CI)  
 
 **virtual cursor** (CTRL+Z - toggle virtual cursor)
 
