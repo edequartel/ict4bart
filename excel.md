@@ -10,6 +10,7 @@ download example excel sheet
 | Video | Functie                           | Sneltoets               |
 |---|---------------------------------|------------------------|
 | 1 |CTRL+WT+K | cel markering (alleen 1 per werkblad) |
+| | ALT+WT+K | spring naar de gemarkeerde cel |
 
 
 
