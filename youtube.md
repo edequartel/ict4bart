@@ -41,10 +41,10 @@
 9. 10 seconden terugspoelen: J
 10. 10 seconden vooruitspoelen: L
 11. Volgende video in afspeellijst (indien beschikbaar): Shift + N
-12. Vorige video in afspeellijst (indien beschikbaar): Shift + P
-13. Naar het volgende hoofdstuksmarkering gaan (indien beschikbaar): . (punt)
-14. Naar de vorige hoofdstuksmarkering gaan (indien beschikbaar): , (komma)
-15. Gesloten ondertiteling in- of uitschakelen (indien beschikbaar): C
-16. Afspeelsnelheid verhogen: Shift + >
-17. Afspeelsnelheid verlagen: Shift + <
-18. Normale afspeelsnelheid: Shift + 0
+12. ?Vorige video in afspeellijst (indien beschikbaar): Shift + P
+15. Naar het volgende hoofdstuksmarkering gaan (indien beschikbaar): . (punt)
+16. Naar de vorige hoofdstuksmarkering gaan (indien beschikbaar): , (komma)
+17. Gesloten ondertiteling in- of uitschakelen (indien beschikbaar): C
+18. Afspeelsnelheid verhogen: > , SHIFT + N
+19. Afspeelsnelheid verlagen: < , Shift + ,
+20. ?Normale afspeelsnelheid: Shift + 0
