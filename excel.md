@@ -15,8 +15,6 @@ download example excel sheet
 
 
 ## Sneltoetsen
-jump rechts worksheet CTRL+PGDN
-jump links worksheet CTRL+UP
 
 | Functie                           | Sneltoets               |
 |-----------------------------------|------------------------|
@@ -80,21 +78,10 @@ Hier zijn de sneltoetsen voor het werken met werkbladen in Excel, gepresenteerd 
 | Voeg Nieuw Blad In                      | Shift + F11 of Ctrl + Shift + N    |
 | Verwijder Huidig Blad                   | Alt + E, L, S, V                   |
 | Hernoem Huidig Blad                     | Alt + O, H, R                      |
-| Verplaats/Kopieer Huidig Blad           | Alt + E, V                          |
-| Ga Rechts Binnen Blad                   | Ctrl + Rechter Pijl                |
-| Ga Links Binnen Blad                    | Ctrl + Linker Pijl                 |
-| Ga Omhoog Binnen Blad                   | Ctrl + Omhoog Pijl                 |
-| Ga Omlaag Binnen Blad                   | Ctrl + Omlaag Pijl                 |
-| Ga naar Begin van Gegevens in Kolom     | Ctrl + Home                        |
-| Ga naar Einde van Gegevens in Kolom      | Ctrl + End                         |
-| Ga naar Laatst Gebruikte Cel in Rij     | Ctrl + Rechter Pijl                |
-| Selecteer Volledig Blad                 | Ctrl + A                           |
+| Verplaats/Kopieer Huidig Blad           | Alt + E, V                         |
 | Selecteer Huidige Regio                 | Ctrl + Shift + Spatiebalk          |
 | Selecteer Volledige Kolom               | Ctrl + Spatiebalk                  |
 | Selecteer Volledige Rij                 | Shift + Spatiebalk                 |
-| Kopiëren                                | Ctrl + C                           |
-| Knippen                                 | Ctrl + X                           |
-| Plakken                                 | Ctrl + V                           |
 | Plakken Speciaal                        | Ctrl + Alt + V                     |
 | Verberg Huidige Rij                     | Ctrl + 9                           |
 | Maak Rijen Weer Zichtbaar               | Ctrl + Shift + 9                   |
