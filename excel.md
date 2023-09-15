@@ -15,6 +15,8 @@ download example excel sheet
 
 
 ## Sneltoetsen
+jump rechts worksheet CTRL+PGDN
+jump links worksheet CTRL+UP
 
 | Functie                           | Sneltoets               |
 |-----------------------------------|------------------------|
