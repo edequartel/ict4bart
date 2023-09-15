@@ -94,19 +94,5 @@ jump links worksheet CTRL+UP
 | Ctrl + X                          | Knip de geselecteerde cellen uit |
 | Ctrl + V                          | Plak de inhoud van het klembord |
 
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 50%;
-}
-table th:nth-of-type(4) {
-    width: 30%;
-}
-</style>
 
 
