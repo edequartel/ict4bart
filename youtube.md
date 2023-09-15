@@ -1,3 +1,4 @@
+
 # Youtube en JAWS
 
 ### [General Navigation in YouTube with JAWS](https://www.youtube.com/watch?v=oMzXAV0ZEsE)
@@ -33,8 +34,8 @@
 2. Geluid aan/uit: M
 3. Volume omhoog: Pijl omhoog
 4. Volume omlaag: Pijl omlaag
-5. 10 seconden terugspoelen: Pijl naar links
-6. 10 seconden vooruitspoelen: Pijl naar rechts
+5. 5 seconden terugspoelen: Pijl naar links
+6. 5 seconden vooruitspoelen: Pijl naar rechts
 7. Volledig scherm: F
 8. Volledig scherm afsluiten: Esc
 9. 10 seconden terugspoelen: J
