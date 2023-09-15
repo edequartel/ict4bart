@@ -4,7 +4,7 @@
 
 1. start chrome (WT+Chrome/ WT+Edge)
 1. youtube.com  
-2. CTRL+L-focus on adddress edit box
+2. CTRL+L-focus on adddress edit box of ALT+D
 1. e - search edit box  
 1. INS-F7 - for a list of links (lw linklijst)  
 1. ga door de links met pijltjes  
