@@ -80,13 +80,7 @@ Hier zijn de sneltoetsen voor het werken met werkbladen in Excel, gepresenteerd 
 | Hernoem Huidig Blad                     | Alt + O, H, R                      |
 | Verplaats/Kopieer Huidig Blad           | Alt + E, V                         |
 | Selecteer Huidige Regio                 | Ctrl + Shift + Spatiebalk          |
-| Selecteer Volledige Kolom               | Ctrl + Spatiebalk                  |
-| Selecteer Volledige Rij                 | Shift + Spatiebalk                 |
 | Plakken Speciaal                        | Ctrl + Alt + V                     |
-| Verberg Huidige Rij                     | Ctrl + 9                           |
-| Maak Rijen Weer Zichtbaar               | Ctrl + Shift + 9                   |
-| Verberg Huidige Kolom                   | Ctrl + 0                           |
-| Maak Kolommen Weer Zichtbaar            | Ctrl + Shift + 0                   |
 
 | Functie                           | Sneltoets               |
 |-----------------------------------|------------------------|
@@ -104,6 +98,7 @@ Hier zijn de sneltoetsen voor het werken met werkbladen in Excel, gepresenteerd 
 | Ctrl + A                          | Open het dialoogvenster Functie-argumenten |
 | Ctrl + Shift + A                  | Voeg de functie in |
 | Ctrl + \` (Backquote)            | Wissel tussen het weergeven van celwaarden en formules |
+
 
 | Functie                           | Sneltoets               |
 |-----------------------------------|------------------------|
