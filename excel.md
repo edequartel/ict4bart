@@ -68,10 +68,9 @@ download example excel sheet
 | Ctrl + W                          | Sluit het huidige werkboek |
 | Ctrl + F4                         | Sluit Excel |
 
-Hier zijn de sneltoetsen voor het werken met werkbladen in Excel, gepresenteerd in een Markdown-tabel:
-
 | Functie                        | Sneltoets                      |
 |-----------------------------------------|-----------------------------------|
+| **laden**  | |
 | Volgend Blad                            | Ctrl + Pagina Omlaag               |
 | Vorig Blad                             | Ctrl + Pagina Omhoog                |
 | Ga naar Specifiek Blad (1-9)            | Ctrl + (1, 2, 3, ... 9)            |
