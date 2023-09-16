@@ -7,7 +7,7 @@ download example excel sheet
 [Playlist Excel with JAWS](https://www.youtube.com/playlist?list=PLk-npwu4WEBQdYMYTYimHr8fe42_hYpDa)
 
 
-| Video | Functie                           | 8Sneltoets               |  |
+| Video | Sneltoets                        | Functie               |  |
 |---|---------------------------------|------------------------|-----|
 | 1 |CTRL+WT+K | cel markering (alleen 1 per werkblad) | JAWS |
 | | ALT+WT+K | spring naar de gemarkeerde cel | JAWS |
