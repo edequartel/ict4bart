@@ -16,7 +16,9 @@ download example excel sheet
 | | alt + ctrl + ins + c | definieer kolom titels |
 | | control space | select kolom |
 | | alt + ctrl + ins + r | definieer rij titels |
-
+| | | |
+| | | |
+||||
 
 
 ## Sneltoetsen
