@@ -12,6 +12,10 @@ download example excel sheet
 | 1 |CTRL+WT+K | cel markering (alleen 1 per werkblad) | JAWS |
 | | ALT+WT+K | spring naar de gemarkeerde cel | JAWS |
 |2| |Definieer titels kolommen en rijen|
+| | shift space | selecteer row |
+| | alt + ctrl + ins + c |
+| | control space | select kolom |
+| | alt + ctrl + ins + r |
 
 
 
