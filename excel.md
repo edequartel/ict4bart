@@ -10,7 +10,7 @@ download example excel sheet
 | Video | Sneltoets                        | Functie               |  |
 |---|---------------------------------|------------------------|-----|
 | 1 | | cel markering , zet een anker | |
-| 1 |CTRL+WT+K | cel markering (alleen 1 per werkblad) | JAWS |
+| |CTRL+WT+K | cel markering (alleen 1 per werkblad) | JAWS |
 | | ALT+WT+K | spring naar de gemarkeerde cel | JAWS |
 |2| |Definieer titels kolommen en rijen|
 | | shift space | selecteer row |
