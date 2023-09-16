@@ -13,9 +13,9 @@ download example excel sheet
 | | ALT+WT+K | spring naar de gemarkeerde cel | JAWS |
 |2| |Definieer titels kolommen en rijen|
 | | shift space | selecteer row |
-| | alt + ctrl + ins + c |
+| | alt + ctrl + ins + c | definieer kolom titels |
 | | control space | select kolom |
-| | alt + ctrl + ins + r |
+| | alt + ctrl + ins + r | definieer rij titels |
 
 
 
