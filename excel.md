@@ -70,7 +70,7 @@ download example excel sheet
 
 | Functie                        | Sneltoets                      |
 |-----------------------------------------|-----------------------------------|
-| **laden**  | |
+| **Bladen**  | |
 | Volgend Blad                            | Ctrl + Pagina Omlaag               |
 | Vorig Blad                             | Ctrl + Pagina Omhoog                |
 | Ga naar Specifiek Blad (1-9)            | Ctrl + (1, 2, 3, ... 9)            |
