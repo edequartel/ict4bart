@@ -6,7 +6,7 @@
 * [Youtube](youtube.md)
 * [Excel](excel.md)
 * [Word](word.md)
-* [Explorer - Verkenner](verkenner.md)
+* [Explorer - Verkenner](explorer.md)
 
 
 
