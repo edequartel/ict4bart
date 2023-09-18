@@ -42,6 +42,4 @@
 | Paste | Ctrl + V | Cmd + V |
 | Undo | Ctrl + Z | Cmd + Z |
 | Redo | Ctrl + Y | Cmd + Shift + Z |
-```
 
-This Markdown code will generate a table with the provided browser shortcuts information.
