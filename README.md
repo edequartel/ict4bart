@@ -5,7 +5,8 @@
 * [Browsers Chrome/Edge](browsers.md)
 * [Youtube](youtube.md)
 * [Excel](excel.md)
-
+* [Word](word.md)
+* [Explorer - Verkenner](verkenner.md)
 
 
 
