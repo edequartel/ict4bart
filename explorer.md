@@ -6,6 +6,7 @@
 | Sneltoets | Actie |
 | --- | --- |
 | `Win + E` | Open een nieuw Verkenner venster |
+| `Ctrl + F10` | Popup knop |
 | `Shift + Klik op Taakbalkpictogram` | Open een nieuwe instantie van het geselecteerde programma |
 | `Ctrl + Shift + Klik op Taakbalkpictogram` | Open een nieuwe instantie van het programma met beheerdersrechten |
 | `Alt + Enter` of `Alt + Dubbelklik` | Open het eigenschappenvenster voor het geselecteerde item |

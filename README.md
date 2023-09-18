@@ -7,6 +7,7 @@
 * [Excel](excel.md)
 * [Word](word.md)
 * [Explorer - Verkenner](explorer.md)
+* [Windows](windows.md)
 
 
 
