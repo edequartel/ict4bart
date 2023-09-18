@@ -42,4 +42,6 @@
 | `Ctrl + F2` | Voorbeeld van afdruk samenvoegen |
 | `Ctrl + F4` | Sluit het huidige document |
 | `Alt + F4` | Sluit Microsoft Word |
-
+| | |
+| `F6` | wisselen tussen verschillende panes |
+| `Ctrl+F , TB, TB, Pijl Links, Rechts` | Structuur Document, Wisselen naar koppen, pagina's, resultaten |
