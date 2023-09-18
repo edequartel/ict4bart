@@ -7,8 +7,6 @@
 | --- | --- |
 | `Win + E` | Open een nieuw Verkenner venster |
 | `Ctrl + F10` | Popup knop |
-| `Shift + Klik op Taakbalkpictogram` | Open een nieuwe instantie van het geselecteerde programma |
-| `Ctrl + Shift + Klik op Taakbalkpictogram` | Open een nieuwe instantie van het programma met beheerdersrechten |
 | `Alt + Enter` of `Alt + Dubbelklik` | Open het eigenschappenvenster voor het geselecteerde item |
 | `F2` | Hernoem het geselecteerde item |
 | `Delete` | Verwijder het geselecteerde item en verplaats het naar de Prullenbak |
@@ -29,8 +27,6 @@
 | `F5` of `Ctrl + R` | Vernieuw het actieve venster |
 | `Alt + Enter` | Toon de eigenschappen van het geselecteerde item |
 | `Shift + F10` of `Menu Toets` | Toon het contextmenu voor het geselecteerde item |
-| `Shift + F10` of `Menu Toets` | Toon het contextmenu voor het geselecteerde item |
-| `Shift + F10` of `Menu Toets` | Toon het contextmenu voor de Startknop (wanneer de focus op de Startknop ligt) |
 | `Win + T` | Schakel tussen elementen op de taakbalk |
 | `Ctrl + Esc` | Schakel tussen items op de taakbalk |
 | `Win + [Nummer]` | Open de Spronglijst voor het programma vastgezet op de taakbalkpositie aangegeven door het nummer (1-9) |
@@ -41,7 +37,6 @@
 | `Ctrl + W` | Sluit het huidige venster |
 | `Win + Pijl Omlaag` | Minimaliseer het huidige venster |
 | `Win + Pijl Omhoog` | Herstel het huidige venster |
-| `Win + Pijl Omhoog` (indien niet al gemaximaliseerd) | Maximaliseer het huidige venster |
 | `F6` | Verplaats de focus naar een ander deel van het venster (zoals de map- of bestandenlijst) |
 | `Rechterpijl` | Ga verder in de lijst van items in de huidige weergave |
 | `Linkerpijl` | Ga terug in de lijst van items in de huidige weergave |
