@@ -4,9 +4,9 @@
 ### [General Navigation in YouTube with JAWS](https://www.youtube.com/watch?v=oMzXAV0ZEsE)
 
 1. start chrome (WT+Chrome/ WT+Edge)
-2. 2. CTRL+L-focus on adddress edit box of ALT+D
+1. CTRL+L-focus on adddress edit box of ALT+D
 1. youtube.com
-1. e - search edit box
+1. e - search edit box (dit direct doen na youtube.com intypen)
 2. type in een item om op te zoeken
 1. INS-F7 - for a list of links (lw linklijst)  
 1. ga door de links met pijltjes  
