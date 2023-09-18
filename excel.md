@@ -19,8 +19,7 @@ download example excel sheet
 | | alt + ctrl + ins + r | definieer rij titels |
 | 3 | | monitor excel watch window |
 | | | |
-||||
-
+| | | |
 
 ## Sneltoetsen
 
@@ -35,6 +34,7 @@ download example excel sheet
 | Ctrl + Shift + Pijltoetsen         | Breid de selectie uit naar de rand van het gegevensgebied |
 | Ctrl + Spatiebalk                  | Selecteer de hele kolom |
 | Shift + Spatiebalk                 | Selecteer de hele rij |
+| Selecteer Huidige Regio                 | Ctrl + Shift + Spatiebalk          |
 
 | Functie                           | Sneltoets               |
 |-----------------------------------|------------------------|
@@ -51,6 +51,8 @@ download example excel sheet
 | Ctrl + C                          | Kopieer de geselecteerde cellen |
 | Ctrl + X                          | Knip de geselecteerde cellen uit |
 | Ctrl + V                          | Plak de inhoud van het klembord |
+| Ctrl + Alt + V                    | Plakken Speciaal |
+
 
 | Functie                           | Sneltoets               |
 |-----------------------------------|------------------------|
@@ -58,13 +60,12 @@ download example excel sheet
 | Ctrl + B                          | Pas vette opmaak toe of verwijder deze |
 | Ctrl + I                          | Pas schuine opmaak toe of verwijder deze |
 | Ctrl + U                          | Pas onderstreping toe of verwijder deze |
-| Ctrl + 1                          | Open het dialoogvenster Celeigenschappen |
+| Ctrl + 1                          | Open het dialoogvenster cel opmaken |
 | Ctrl + Shift + "!                 | Pas getal-opmaak toe |
 | Ctrl + Shift + "@"                | Pas het tijd-opmaak toe |
 | Ctrl + Shift + "#"                | Pas het datum-opmaak toe |
 | Ctrl + Shift + "$"                | Pas valuta-opmaak toe |
 | Ctrl + Shift + "%"                | Pas het percentage-opmaak toe |
-
 
 | Functie                           | Sneltoets               |
 |-----------------------------------|------------------------|
@@ -79,42 +80,29 @@ download example excel sheet
 | Functie                        | Sneltoets                      |
 |-----------------------------------------|-----------------------------------|
 | **Bladen**  | |
+| Voeg Nieuw Blad In                      | Shift + F11 |
 | Volgend Blad                            | Ctrl + Pagina Omlaag               |
 | Vorig Blad                             | Ctrl + Pagina Omhoog                |
-| Ga naar Specifiek Blad (1-9)            | Ctrl + (1, 2, 3, ... 9)            |
-| Voeg Nieuw Blad In                      | Shift + F11 of Ctrl + Shift + N    |
-| Verwijder Huidig Blad                   | Alt + E, L, S, V                   |
-| Hernoem Huidig Blad                     | Alt + O, H, R                      |
-| Verplaats/Kopieer Huidig Blad           | Alt + E, V                         |
-| Selecteer Huidige Regio                 | Ctrl + Shift + Spatiebalk          |
-| Plakken Speciaal                        | Ctrl + Alt + V                     |
+| Hernoemen| |
+| Wissen | |
 
 | Functie                           | Sneltoets               |
 |-----------------------------------|------------------------|
 | **Werken met Rijen en Kolommen**      |                          |
-| Ctrl + Shift + "+"                | Voeg een nieuwe cel in |
-| Ctrl + "-"                        | Verwijder de geselecteerde cellen |
+| Ctrl + Shift + "+"                | Voeg een nieuwe cel in, en schuif naar rechts |
+| Ctrl + "-"                        | Verwijder de geselecteerde cellen, en schuif naar link |
 | Ctrl + 9                          | Verberg geselecteerde rijen |
-| Ctrl + Shift + 9                  | Maak verborgen rijen weer zichtbaar |
+| ?? Ctrl + Shift + 9                  | Maak verborgen rijen weer zichtbaar |
 | Ctrl + 0                          | Verberg geselecteerde kolommen |
-| Ctrl + Shift + 0                  | Maak verborgen kolommen weer zichtbaar |
+| ?? Ctrl + Shift + 0                  | Maak verborgen kolommen weer zichtbaar |
 
 | Functie                           | Sneltoets               |
 |-----------------------------------|------------------------|
 | **Functies en Formules**             |                          |
-| Ctrl + A                          | Open het dialoogvenster Functie-argumenten |
-| Ctrl + Shift + A                  | Voeg de functie in |
-| Ctrl + \` (Backquote)            | Wissel tussen het weergeven van celwaarden en formules |
+| ??? Ctrl + A                          | Open het dialoogvenster Functie-argumenten |
+| ??? Ctrl + Shift + A                  | Voeg de functie in |
+| ??? Ctrl + \` (Backquote)            | Wissel tussen het weergeven van celwaarden en formules |
 
-
-| Functie                           | Sneltoets               |
-|-----------------------------------|------------------------|
-| **Overige Handige Sneltoetsen**       |                          |
-| Ctrl + Z                          | Maak de laatste actie ongedaan |
-| Ctrl + Y                          | Voer de laatste actie opnieuw uit |
-| Ctrl + C                          | Kopieer de geselecteerde cellen |
-| Ctrl + X                          | Knip de geselecteerde cellen uit |
-| Ctrl + V                          | Plak de inhoud van het klembord |
 
 
 
