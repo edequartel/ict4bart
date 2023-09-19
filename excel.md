@@ -1,15 +1,15 @@
 # Excel voor braille gebruikers (JAWS)
 
 ## download example excel sheet
-- [competitie, kruistabel](documents\competitie.xlsx) 
-- [huishoudboekje](documents\huishoudboekje.xlsx)
+- [competitie: kruistabel, transponeren](documents\competitie.xlsx) 
+- [huishoudboekje: navigatie, optellen, formules](documents\huishoudboekje.xlsx)
 
 ## vimeo movies
-[excel and jaws]()
+- [excel and jaws](https://vimeo.com/10661299)
 
 ## Speellijst Freedom Scientific
 
-[Playlist Excel with JAWS](https://www.youtube.com/playlist?list=PLk-npwu4WEBQdYMYTYimHr8fe42_hYpDa)
+- [Playlist Excel with JAWS](https://www.youtube.com/playlist?list=PLk-npwu4WEBQdYMYTYimHr8fe42_hYpDa)
 
 
 | Video | Sneltoets                        | Functie               |  |
