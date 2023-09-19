@@ -66,7 +66,7 @@
 | Ctrl + I                          | Pas schuine opmaak toe of verwijder deze |
 | Ctrl + U                          | Pas onderstreping toe of verwijder deze |
 | Ctrl + 1                          | Open het dialoogvenster cel opmaken |
-| Ctrl + Shift + "!                 | Pas getal-opmaak toe |
+| Ctrl + Shift + "!"                 | Pas getal-opmaak toe |
 | Ctrl + Shift + "@"                | Pas het tijd-opmaak toe |
 | Ctrl + Shift + "#"                | Pas het datum-opmaak toe |
 | Ctrl + Shift + "$"                | Pas valuta-opmaak toe |
