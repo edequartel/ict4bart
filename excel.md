@@ -1,6 +1,10 @@
 # Excel voor braille gebruikers (JAWS)
 
-download example excel sheet
+## download example excel sheet
+[competitie, kruistabel](documents\competitie.xlsx)
+
+## vimeo movies
+[excel and jaws]()
 
 ## Speellijst Freedom Scientific
 
