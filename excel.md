@@ -1,7 +1,8 @@
 # Excel voor braille gebruikers (JAWS)
 
 ## download example excel sheet
-[competitie, kruistabel](documents\competitie.xlsx)
+- [competitie, kruistabel](documents\competitie.xlsx) 
+- [huishoudboekje](documents\huishoudboekje.xlsx)
 
 ## vimeo movies
 [excel and jaws]()
