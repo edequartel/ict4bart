@@ -5,19 +5,27 @@
 
 | Sneltoets | Actie |
 | --- | --- |
+|**word**||
+| `Ctrl + F4` | Sluit het huidige document |
+| `Alt + F4` | Sluit Microsoft Word |
+|**bestanden**||
 | `Ctrl + N` | Open een nieuw document |
 | `Ctrl + O` | Open een bestaand document |
 | `Ctrl + S` | Opslaan |
 | `Ctrl + Shift + S` | Opslaan als... |
 | `Ctrl + P` | Afdrukken |
+|**aanpassen**||
 | `Ctrl + Z` | Ongedaan maken |
 | `Ctrl + Y` | Opnieuw uitvoeren |
+|**kopieren en plakken**||
 | `Ctrl + X` | Knippen |
 | `Ctrl + C` | Kopiëren |
 | `Ctrl + V` | Plakken |
 | `Ctrl + A` | Alles selecteren |
+|**zoeken en vervangen**||
 | `Ctrl + F` | Zoeken |
 | `Ctrl + H` | Vervangen |
+|**opmaak**||
 | `Ctrl + B` | Vet |
 | `Ctrl + I` | Cursief |
 | `Ctrl + U` | Onderstrepen |
@@ -37,18 +45,14 @@
 | `Ctrl + Numpad -` | Subscript |
 | `Ctrl + Shift + D` | Voeg een nieuw voetnoot toe |
 | `Ctrl + Alt + F` | Voeg een nieuw eindnoot toe |
+|**weergave**||
 | `Ctrl + Shift + E` | Schakel naar de Afdrukweergave |
 | `Ctrl + Shift + N` | Normaalweergave |
 | `Ctrl + F2` | Voorbeeld van afdruk samenvoegen |
-| `Ctrl + F4` | Sluit het huidige document |
-| `Alt + F4` | Sluit Microsoft Word |
-| | |
+|**extra**| |
 | `F6` | wisselen tussen verschillende panes |
-| `Ctrl+F , TB, TB, Pijl Links, Rechts` | Structuur Document, Wisselen naar koppen, pagina's, resultaten |
-
-# Tabellen
-| Sneltoets             | Beschrijving                             |
-|-----------------------|-----------------------------------------|
+| `Ctrl+F , TB, TB, Pijl Links, Rechts` | Structuur Document, Wisselen naar koppen, 
+| **tabellen**             ||
 | `Tab`                 | Ga naar de volgende cel                  |
 | `Shift + Tab`         | Ga naar de vorige cel                    |
 | `Tab` (in laatste cel) | Ga naar eerste cel van de volgende rij   |
