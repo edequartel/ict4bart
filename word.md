@@ -70,5 +70,14 @@
 | `Ctrl + R`            | Tekst rechts uitlijnen                  |
 | `Alt + Shift + ↑/↓`   | Verhoog/verlaag de rijhoogte             |
 | `Alt + Shift + ←/→`   | Verhoog/verlaag de kolombreedte          |
+| **headers**        | |
+| Normal | Ctrl + Shift + N|
+| `Ctrl + Alt + 1` | Heading 1     |
+| `Ctrl + Alt + 2` | Heading 2     |
+| `Ctrl + Alt + 3` | Heading 3     |
+| `Ctrl + Alt + 4` | Heading 4     |
+| `Ctrl + Alt + 5` | Heading 5     |
+| `Ctrl + Alt + 6` | Heading 6     |
+
 
 
