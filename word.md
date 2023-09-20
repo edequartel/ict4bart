@@ -71,7 +71,7 @@
 | `Alt + Shift + ↑/↓`   | Verhoog/verlaag de rijhoogte             |
 | `Alt + Shift + ←/→`   | Verhoog/verlaag de kolombreedte          |
 | **headers**        | |
-| Normal | Ctrl + Shift + N|
+| ???Ctrl + Shift + N | Normal 
 | `Ctrl + Alt + 1` | Heading 1     |
 | `Ctrl + Alt + 2` | Heading 2     |
 | `Ctrl + Alt + 3` | Heading 3     |
