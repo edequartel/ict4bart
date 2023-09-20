@@ -45,3 +45,26 @@
 | | |
 | `F6` | wisselen tussen verschillende panes |
 | `Ctrl+F , TB, TB, Pijl Links, Rechts` | Structuur Document, Wisselen naar koppen, pagina's, resultaten |
+
+# Tabellen
+| Sneltoets             | Beschrijving                             |
+|-----------------------|-----------------------------------------|
+| `Tab`                 | Ga naar de volgende cel                  |
+| `Shift + Tab`         | Ga naar de vorige cel                    |
+| `Tab` (in laatste cel) | Ga naar eerste cel van de volgende rij   |
+| `Shift + Tab` (in eerste cel) | Ga naar laatste cel van de vorige rij   |
+| `Alt + Shift + ↑`     | Voeg een rij boven toe                   |
+| `Alt + Shift + ↓`     | Voeg een rij onder toe                   |
+| `Alt + Shift + ←`     | Voeg een kolom links toe                 |
+| `Alt + Shift + →`     | Voeg een kolom rechts toe                |
+| `Ctrl + Shift + -`    | Verwijder de hele rij                    |
+| `Ctrl + Shift + =`    | Verwijder de hele kolom                  |
+| `Alt + M`             | Voeg cellen samen                       |
+| `Alt + S`             | Splits cellen                           |
+| `Ctrl + L`            | Tekst links uitlijnen                   |
+| `Ctrl + E`            | Tekst centreren                         |
+| `Ctrl + R`            | Tekst rechts uitlijnen                  |
+| `Alt + Shift + ↑/↓`   | Verhoog/verlaag de rijhoogte             |
+| `Alt + Shift + ←/→`   | Verhoog/verlaag de kolombreedte          |
+
+
