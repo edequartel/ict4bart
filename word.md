@@ -5,6 +5,8 @@
 
 | Sneltoets | Actie |
 | --- | --- |
+| `Insert + page down` | Statusbalk voorlezen (bijv aantal pagina’s) |
+| `Insert + T` | Titelbalk voorlezen (titel document) |
 |**word**||
 | `Ctrl + F4` | Sluit het huidige document |
 | `Alt + F4` | Sluit Microsoft Word |
@@ -33,42 +35,41 @@
 | `Ctrl + E` | Centreren |
 | `Ctrl + R` | Uitlijnen naar rechts |
 | `Ctrl + J` | Uitvullen |
-| `Ctrl + 1` | Enkele regelafstand |
-| `Ctrl + 2` | Dubbele regelafstand |
-| `Ctrl + 5` | 1,5 regelafstand |
 | `Ctrl + ]` | Vergroot lettertype |
 | `Ctrl + [` | Verklein lettertype |
 | `Ctrl + Shift + >` | Vergroot lettergrootte |
 | `Ctrl + Shift + <` | Verklein lettergrootte |
 | `Ctrl + K` | Hyperlink invoegen |
-| `Ctrl + Numpad +` | Superscript |
-| `Ctrl + Numpad -` | Subscript |
-| `Ctrl + Shift + D` | Voeg een nieuw voetnoot toe |
-| `Ctrl + Alt + F` | Voeg een nieuw eindnoot toe |
 |**weergave**||
 | `Ctrl + Shift + E` | Schakel naar de Afdrukweergave |
 | `Ctrl + Shift + N` | Normaalweergave |
-| `Ctrl + F2` | Voorbeeld van afdruk samenvoegen |
-|**extra**| |
+
+
+| Sneltoets | Actie |
+| --- | --- |
+| **navigatie**             ||
 | `F6` | wisselen tussen verschillende panes |
-| `Ctrl+F , TB, TB, Pijl Links, Rechts` | Structuur Document, Wisselen naar koppen, 
+| `Ins + F6` | Koppenlijst |
+| `Ctrl+F , TAB, TAB, Pijl Links, Rechts` | Structuur Document, Wisselen naar koppen|
+| **quick keys**             ||
+| `Ins + Z` | Snelle toetsen aan/uit|
+| `(shift) H`  | Koppen |
+| `(shift) P` | Tekst |
+| `(shift) T` | Tabel |
+| `spatie/backspace`  | Volgende vorige pagina |
+| **markering**             ||
+| `Ctrl + WIN + k` | Plaatsmarkering |
+| `Alt + WIN + K` | Naar plaatsmarkering springen |
+
+| Sneltoets | Actie |
+| --- | --- |
 | **tabellen**             ||
+| `Alt + N + B-A + O` | Tabel invoegen |
 | `Tab`                 | Ga naar de volgende cel                  |
 | `Shift + Tab`         | Ga naar de vorige cel                    |
-| `Tab` (in laatste cel) | Ga naar eerste cel van de volgende rij   |
-| `Shift + Tab` (in eerste cel) | Ga naar laatste cel van de vorige rij   |
-| `Alt + Shift + ↑`     | Voeg een rij boven toe                   |
-| `Alt + Shift + ↓`     | Voeg een rij onder toe                   |
-| `Alt + Shift + ←`     | Voeg een kolom links toe                 |
-| `Alt + Shift + →`     | Voeg een kolom rechts toe                |
-| `Ctrl + Shift + -`    | Verwijder de hele rij                    |
-| `Ctrl + Shift + =`    | Verwijder de hele kolom                  |
-| `Alt + M`             | Voeg cellen samen                       |
-| `Alt + S`             | Splits cellen                           |
-| `Ctrl + L`            | Tekst links uitlijnen                   |
-| `Ctrl + E`            | Tekst centreren                         |
-| `Ctrl + R`            | Tekst rechts uitlijnen                  |
-| `Alt + Shift + ↑/↓`   | Verhoog/verlaag de rijhoogte             |
-| `Alt + Shift + ←/→`   | Verhoog/verlaag de kolombreedte          |
+| `Ctrl + Alt + pijltjes` | Tabel lezen en navigeren tussen cellen |
+
+
+
 
 
