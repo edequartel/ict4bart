@@ -67,9 +67,35 @@
 | `Alt + N + B-A + O` | Tabel invoegen |
 | `Tab`                 | Ga naar de volgende cel                  |
 | `Shift + Tab`         | Ga naar de vorige cel                    |
+<<<<<<< HEAD
 | `Ctrl + Alt + pijltjes` | Tabel lezen en navigeren tussen cellen |
 
 
+=======
+| `Tab` (in laatste cel) | Ga naar eerste cel van de volgende rij   |
+| `Shift + Tab` (in eerste cel) | Ga naar laatste cel van de vorige rij   |
+| `Alt + Shift + ↑`     | Voeg een rij boven toe                   |
+| `Alt + Shift + ↓`     | Voeg een rij onder toe                   |
+| `Alt + Shift + ←`     | Voeg een kolom links toe                 |
+| `Alt + Shift + →`     | Voeg een kolom rechts toe                |
+| `Ctrl + Shift + -`    | Verwijder de hele rij                    |
+| `Ctrl + Shift + =`    | Verwijder de hele kolom                  |
+| `Alt + M`             | Voeg cellen samen                       |
+| `Alt + S`             | Splits cellen                           |
+| `Ctrl + L`            | Tekst links uitlijnen                   |
+| `Ctrl + E`            | Tekst centreren                         |
+| `Ctrl + R`            | Tekst rechts uitlijnen                  |
+| `Alt + Shift + ↑/↓`   | Verhoog/verlaag de rijhoogte             |
+| `Alt + Shift + ←/→`   | Verhoog/verlaag de kolombreedte          |
+| **headers**        | |
+| ???Ctrl + Shift + N | Normal 
+| `Ctrl + Alt + 1` | Heading 1     |
+| `Ctrl + Alt + 2` | Heading 2     |
+| `Ctrl + Alt + 3` | Heading 3     |
+| `Ctrl + Alt + 4` | Heading 4     |
+| `Ctrl + Alt + 5` | Heading 5     |
+| `Ctrl + Alt + 6` | Heading 6     |
+>>>>>>> 6009bf548471325e59ee7e99a05ef5891cac1789
 
 
 
