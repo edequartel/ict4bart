@@ -1,6 +1,13 @@
 
 # WORD en JAWS
 
+## download example word document sheet
+- [tabel](documents\tabelpersonen.docs) 
+- [biologie handboek](documents\biologie_handboek.docx)
+
+## vimeo movies
+- [excel and jaws](https://vimeo.com/10661299)
+
 # Microsoft Word Sneltoetsen
 
 | Sneltoets | Actie |
