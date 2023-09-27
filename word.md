@@ -2,11 +2,11 @@
 # WORD en JAWS
 
 ## download example word document sheet
-- [tabel](documents\tabelpersonen.docs) 
+- [tabel](documents\tabel_personen.docx) 
 - [biologie handboek](documents\biologie_handboek.docx)
 
 ## vimeo movies
-- [excel and jaws](https://vimeo.com/10661299)
+- [word and jaws](https://vimeo.com/showcase/10680534)
 
 # Microsoft Word Sneltoetsen
 
