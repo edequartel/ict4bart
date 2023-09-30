@@ -9,6 +9,7 @@
 * [Explorer - Verkenner](explorer.md)
 * [Windows](windows.md)
 * [leesregel](leesregel.md)
+* [workshop](workshop.md)
 
 
 
