@@ -1,4 +1,6 @@
 # Lijst met links
 
-[www.bartimeus.nl](www.bartimeus.nl)  
-[www.youtube.com](www.youtube.com) 
+- [kennis portaal Visio](https://kennisportaal.visio.org/nl-nl/documenten/whatsapp-leren-op-android-met-talkback)
+- [www.bartimeus.nl](www.bartimeus.nl)  
+- [www.youtube.com](www.youtube.com) 
+
