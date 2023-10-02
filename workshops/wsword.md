@@ -6,7 +6,6 @@
 Met Word kan je teksten lezen, maar ook zelf teksten maken en opslaan. Om dit te kunnen doen moet je eerst het programma Word starten.
 
 ### 
- ###
 
 **Opdracht**
 
@@ -79,7 +78,6 @@ Start Word vanaf het bureaublad, en sluit het weer.
 4. Druk ALT + F4. Word wordt weer gesloten.
 
 ### 
- ###
 
 #### 1.5. Opdracht 4 - word op het bureaublad
 1. Druk op de WINDOWSTOETS.
@@ -116,7 +114,6 @@ Boven het document staat een liniaal met cijfers. Onder het document staat een b
 Statusbalk opvragen, F6, daarna weer terug met SHIFT + F6
 
 ### 
- ###
 
 **Sneltoetsen Supernova**
 
@@ -127,7 +124,6 @@ Titelbalk opvragen (laptop), CAPSLOCK + PAGE UP of CAPSLOCK + B
 Statusbalk opvrage, NUMERIEK 2
 
 ### 
- ###
 
 **Sneltoetsen Jaws**
 
@@ -136,7 +132,6 @@ Titelbalk opvragen, Insert + T
 Statusbalk opvragen, Insert + PageDown
 
 ### 
- ###
 
 **Sneltoetsen NVDA**
 
