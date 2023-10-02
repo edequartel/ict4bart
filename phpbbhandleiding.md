@@ -1,4 +1,4 @@
-# phpBB Handleiding
+# Vraagbaak - Handleiding
 
 ### Stap 1: Registreren en Inloggen
 
@@ -10,18 +10,18 @@
 ### Stap 2: Basisnavigatie
 
 - **Forum Overzicht:** Bekijk de lijst met beschikbare forums en subforums om te zien waar je wilt deelnemen.
-- **Draadjes en Berichten:** Klik op een draadje (topic) om de bijdragen te lezen en zelf te reageren.
+- **Berichten:** Klik op een draadje om de bijdragen te lezen en zelf te reageren.
 - **Privé Berichten:** Gebruik de inbox voor privégesprekken met andere gebruikers.
 
 ### Stap 3: Reageren en Berichten
 
-- **Reageren op een Draadje:**
+- **Reageren op een bericht:**
   - Klik op "Beantwoorden" om te reageren op een bestaand draadje.
-- **Een Nieuw Draadje Starten:**
+- **Een Nieuw onderwerp Starten:**
   - Navigeer naar het relevante forum en klik op "Nieuw onderwerp" om een nieuw gesprek te starten.
-- **Opmaak en Emoticons:**
-  - Gebruik de opmaakopties voor vet, cursief, links enzovoort.
-  - Voeg emoticons toe om je berichten wat persoonlijkheid te geven.
+- **Opmaak:**
+  - Gebruik de opmaakopties voor vet, cursief, links enzovoort. 
+
 
 ### Stap 4: Profiel Aanpassen
 
@@ -38,7 +38,7 @@
 
 ### Stap 7: Regels en Gedrag
 
-- Lees de forumregels en respecteer de community.
+- Lees de gebruiksvoorwaarden en respecteer de community.
 
 ### Stap 8: Contact opnemen met Moderators
 
