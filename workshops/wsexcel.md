@@ -49,23 +49,31 @@ Formules in Excel kun je op twee manieren lezen. Boven in de formulebalk, maar o
 #### 2.1. Sneltoetsen
 ### Notatie in formules
 
-1. = IS GELIJKTEKEN een formule begint altijd met een is gelijkteken.
-2. + PLUS een plusteken wordt gebruikt voor optellen.
-3. – MINTEKEN het “minteken” wordt gebruikt voor aftrekken.
-4. * STERRETJE het sterretje wordt gebruikt voor vermenigvuldigen.
-5. / SLASH de breukstreep wordt gebruikt voor delen.
-6. ^ DAKJE het “dakje” wordt gebruikt voor machtsverheffen. Achter het dakje volgt direct een cijfer dat de macht aangeeft. Bijv. ^3 betekent dat de waarde tot de derde macht verhoogd moet worden.
-7. SOM De AutoSom functie plaatst het woord SOM voor een celbereik.
-8. : DUBBELE PUNT wordt gebruikt om een “bereik” van cellen te noteren.
-9. (A1:A5) betekent: alle cellen van A1 tot en met A5.
-10. (A1:C5) betekent: alle cellen van de rechthoek A1 (linksboven) tot en met C5 (rechtsonder).
-11. ( ) HAAKJES worden geplaatst rondom een celbereik en ook rondom delen van een formule die met voorrang berekend moeten worden.  
+| Symbool    | Naam          | Omschrijving                                                                                                                        |
+|------------|---------------|------------------------------------------------------------------------------------------------------------------------------------|
+| =          | Is Gelijkteken| Een formule begint altijd met een is gelijkteken.                                                                                  |
+| +          | Plus          | Een plusteken wordt gebruikt voor optellen.                                                                                        |
+| -          | Minteken      | Het “minteken” wordt gebruikt voor aftrekken.                                                                                     |
+| *          | Sterretje     | Het sterretje wordt gebruikt voor vermenigvuldigen.                                                                               |
+| /          | Slash         | De breukstreep wordt gebruikt voor delen.                                                                                         |
+| ^          | Dakje         | Het “dakje” wordt gebruikt voor machtsverheffen. Achter het dakje volgt direct een cijfer dat de macht aangeeft. Bijv. ^3 betekent dat de waarde tot de derde macht verhoogd moet worden.                                                                                                                                |
+| SOM        | AutoSom       | De AutoSom functie plaatst het woord SOM voor een celbereik.                                                                       |
+| :          | Dubbele Punt  | Wordt gebruikt om een “bereik” van cellen te noteren.                                                                             |
+| (A1:A5)    | Haakjes       | Betekent: alle cellen van A1 tot en met A5.                                                                                        |
+| (A1:C5)    | Haakjes       | Betekent: alle cellen van de rechthoek A1 (linksboven) tot en met C5 (rechtsonder).                                                |
+| ( )        | Haakjes       | Worden geplaatst rondom een celbereik en ook rondom delen van een formule die met voorrang berekend moeten worden.                   |
 
-- Naar formulebalk **SuperNova** is dit: Li Shift+Num 7
-- Naar formulebalk **Jaws **is dit: Insert+Ctrl+F2
-- Naar formulebalk **NVDA**: onbekend
-- Celinhoud aanpassen F2, editmode weer verlaten met Esc
-- Formule lezen en aanpassen F2, editmode weer verlaten met Esc
+Certainly! Here's the information you provided in a markdown table:
+
+| Actie                                                   | Toetscombinatie          | Opmerkingen                                                             |
+|---------------------------------------------------------|-------------------------|-------------------------------------------------------------------------|
+| Naar formulebalk **SuperNova**                            | Li Shift+Num 7          |                                                                         |
+| Naar formulebalk **Jaws**                                | Insert+Ctrl+F2         |                                                                         |
+| Naar formulebalk **NVDA**                                | Onbekend               |                                                                         |
+| Celinhoud aanpassen                                      | F2                      | Verlaat editmode met Esc                                                 |
+| Formule lezen en aanpassen                              | F2                      | Verlaat editmode met Esc                                                 |
+
+Let me know if there's anything else you'd like to add or modify!
 
 #### 2.2. Formulebalk
 Formules in cellen kun je na invoeren lezen en bewerken met de toets F2. Er is ook een andere manier om de formules te lezen. De formules staan namelijk ook in een aparte formulebalk. Er is een sneltoets om de formulebalk te laten voorlezen of er naar toe te gaan.  
