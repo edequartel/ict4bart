@@ -1,5 +1,6 @@
 # Vraagbaak - Handleiding
 
+
 ### Stap 1: Registreren en Inloggen
 
 1. Ga naar het phpBB forum waar je je wilt registreren.
@@ -43,3 +44,5 @@
 ### Stap 8: Contact opnemen met Moderators
 
 - Als je hulp nodig hebt, klik op "Contact" of stuur een privébericht naar een moderator.
+
+![QRCode](pictures/vraagbaakqr.PNG)
