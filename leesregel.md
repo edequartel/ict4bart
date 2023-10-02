@@ -3,4 +3,4 @@
 
 ## FOCUS 40
 p7 is backspace
-p8 is eneter
+p8 is enter
