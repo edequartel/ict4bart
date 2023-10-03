@@ -1,4 +1,5 @@
 # Lijst met links
+Dit is een lijst met belangrijk naslag materiaal mbt digitaal braille.
 
 ### Kennis
 - [kennis portaal Visio](https://kennisportaal.visio.org/nl-nl/documenten/whatsapp-leren-op-android-met-talkback)
@@ -13,12 +14,12 @@
 ### Training
 - [Freedom Scientific - Training](https://www.youtube.com/channel/UCLlctxRAroB4ApeQd5b_I6A)
 
-
 ### Algemeen
 - [www.youtube.com](https://www.youtube.com) 
 
 ### Vimeo tastenbraille
 - [vimeo](https://vimeo.com/)
-	- [ict4vip basics](https://vimeo.com/showcase/10471118)
-	- [excel](https://vimeo.com/showcase/10661299)
-	- [leesregel](https://vimeo.com/showcase/10160017)
+- [ict4vip basics](https://vimeo.com/showcase/10471118)
+- [word](https://vimeo.com/showcase/10471118)
+- [excel](https://vimeo.com/showcase/10661299)
+- [leesregel](https://vimeo.com/showcase/10160017)
