@@ -17,3 +17,8 @@
 ### Algemeen
 - [www.youtube.com](https://www.youtube.com) 
 
+### Vimeo tastenbraille
+- [vimeo](https://vimeo.com/)
+	- [ict4vip basics](https://vimeo.com/showcase/10471118)
+	- [excel](https://vimeo.com/showcase/10661299)
+	- [leesregel](https://vimeo.com/showcase/10160017)
