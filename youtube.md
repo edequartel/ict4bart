@@ -1,6 +1,8 @@
 
 # Youtube en JAWS
 
+link naar youtube video op vimeo [vimeo](www.vimeo.com)
+
 ### [General Navigation in YouTube with JAWS](https://www.youtube.com/watch?v=oMzXAV0ZEsE)
 
 1. start chrome (WT+Chrome/ WT+Edge)
