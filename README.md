@@ -20,7 +20,7 @@
 ### Onderwijs
 * [workshop](workshop.md)
 * [naslag](naslag.md)
-* * [Lijst met links](links.md)
+* [lijst met links](links.md)
 
 ### Vraagbaak
 * [handleiding vraagbaak](phpbbhandleiding.md)
