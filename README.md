@@ -1,5 +1,6 @@
 # ict4vip
 
+### Schermlezers
 * [JAWS](jaws.md)
 
 ### Internet
@@ -19,7 +20,6 @@
 
 ### Onderwijs
 * [workshop](workshop.md)
-* [naslag](naslag.md)
 * [lijst met links](links.md)
 
 ### Vraagbaak
