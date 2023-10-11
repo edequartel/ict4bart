@@ -45,4 +45,9 @@
 
 - Als je hulp nodig hebt, klik op "Contact" of stuur een privébericht naar een moderator.
 
+### Stap 8: Abboneren op een forum
+
+- Heeft een forum je interesse abboneer je er op door onder aan het schern 'abboneer op forum'. 
+Zo krijg je automatisch een notificatie of als dit is ingesteld een e-mail.
+
 ![QRCode](pictures/vraagbaakqr.PNG)
