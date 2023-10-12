@@ -2,6 +2,7 @@
 
 ### Schermlezers
 * [JAWS](jaws.md)
+* [JAWS - afkortingen ](naslag/jawsafkortingen.md)
 
 ### Internet
 * [Browsers Chrome/Edge](browsers.md)
