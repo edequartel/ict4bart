@@ -32,6 +32,7 @@
 ### Stap 5: Notificaties Instellen
 
 1. Ga naar "Gebruikerspaneel" > "Notificatie-opties" om in te stellen welke meldingen je wilt ontvangen.
+Of als dit is ingesteld een e-mail.
 
 ### Stap 6: Zoeken naar Informatie
 
@@ -44,5 +45,10 @@
 ### Stap 8: Contact opnemen met Moderators
 
 - Als je hulp nodig hebt, klik op "Contact" of stuur een privébericht naar een moderator.
+
+### Stap 8: Abonneren op een forum
+
+- Heeft een forum je interesse abonneer je er op door onder aan het schern 'abonneer op forum'. 
+Zo krijg je automatisch een notificatie of als dit is ingesteld een e-mail.
 
 ![QRCode](pictures/vraagbaakqr.PNG)
