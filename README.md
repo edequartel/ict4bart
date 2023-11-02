@@ -11,6 +11,7 @@
 ### Office
 * [Excel](excel.md)
 * [Word](word.md)
+* [Outlook](outlook.md)
 
 ### Windows
 * [Explorer - Verkenner](explorer.md)
@@ -25,6 +26,8 @@
 
 ### Vraagbaak
 * [handleiding vraagbaak](phpbbhandleiding.md)
+
+![IMAGEW VRAAGBAAK](pictures/vraagbaakqr.PNG)
 
 
 
