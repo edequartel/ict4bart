@@ -42,6 +42,7 @@
 | Actie | betekenis | |
 |---|---|---|
 | bijlage(n) opslaan | |
+| selecteren | shift + pijltjes | |
 
 
 ![focus 40](pictures/focus40.jpg)
