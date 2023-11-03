@@ -28,7 +28,7 @@
 | ctrl+o of enter| openen van een mail |
 | ctrl+r alt+r| reageren op een bericht|
 | ctrL+shift+r of alt+l|reply to all |
-| alt+s| zend ????|
+| alt+z| zend ???|
 | ctrl+f| forward voorwaarden|
 | F9 | zendt of ontvang alle berichten ????? |
 | F4 | zoek tekst in een bericht |
