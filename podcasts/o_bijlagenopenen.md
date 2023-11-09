@@ -1,4 +1,6 @@
-# outlook - bijlagen
+# outlook - bijlagen openen en opslaan (spotify)
+
+1.0 spotify
 
 Welkom bij deze podcastaflevering! Vandaag gaan we het hebben over bijlagen openen in Microsoft Outlook, een e-mail programma dat veel wordt gebruikt voor zowel persoonlijke als professionele doeleinden. Het stelt je in staat om e-mails te versturen en ontvangen, contacten te beheren, afspraken te maken en nog veel meer.
 
@@ -8,11 +10,10 @@ Wanneer je Outlook opent, vind je meestal je e-mail inbox direct voor je. Maar w
 2. Zoek het bericht met de bijlage en druk op ENTER om het te openen. JAWS zal je laten weten als er een bijlage is.
 
 Eenmaal in het bericht, druk op SHIFT+TAB om naar het Bijlagen veld te gaan. Hier vind je het eerste bijgevoegde bestand. Als er maar één bijlage is, kun je op ENTER drukken om het te activeren. Het wordt dan direct geopend. Je kunt dan direct werken in het bestand.
-Of navigeer met de pijltjestoetsen omhoog of omlaag naar de optie 'Openen' of 'Opslaan' en druk nogmaals op ENTER om de actie uit te voeren.
 
-Kies je voor 'Openen', dan zie je het bestand. Kies je voor 'Opslaan', dan kun je het bestand opslaan op een locatie naar keuze, net zoals je gewend bent in andere toepassingen.
+En wat als je meerdere bijlagen hebt, Navigeer dan met de pijltjestoetsen links of rechts door de andere bijlagen. Druk op ALT+OMLAAG om toegang te krijgen tot een lijst met bijlage-opties. 
 
-En wat als je meerdere bijlagen hebt? Druk op ALT+OMLAAG om toegang te krijgen tot een lijst met bijlage-opties. Ga naar 'Alle bijlagen opslaan' en druk op ENTER. Nu kun je ze één voor één opslaan op de locatie die jij kiest.
+Kies je voor 'Openen', dan zie je het bestand. Kies je voor 'Opslaan', dan kun je het bestand opslaan op een locatie naar keuze, net zoals je gewend bent in andere toepassingen. Of ga naar 'Alle bijlagen opslaan' en druk op ENTER. Nu kun je ze één voor één opslaan op de locatie die jij kiest. Je komt dan in een lijst waar je de bestanden kan selecteren met de SHIFT+pijltje omlaag toetsen. Druk op ENTER om de bestanden op te slaan zoals je gewend bent.
 
 
 
