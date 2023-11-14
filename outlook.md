@@ -3,6 +3,16 @@
 [outlook jaws](https://www.freedomscientific.com/webinars/microsoft-outlook-with-jaws/)
 7:00 min Ilse 16:00 min Dani h6
 
+ctrl+Y - ga naar map
+ctrl+shift+b - adresboek
+alt+m - list with control
+| | |
+| | |
+| | |
+
+## Tekst invoerveld (Standaard JAWS)
+
+
 
 ## in outlook
 
@@ -11,6 +21,8 @@
 | lst | lijst |
 | og | ongelezen | 
 | bl | bijlage|
+| HOME | naar de eerste mail in de lijst |
+| END | naar de laatste mail in de lijst |
 | | |
 | ctrl+1-8| switching tussen outlook vensters|
 | 1 = |email |

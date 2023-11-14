@@ -1,6 +1,24 @@
 
 # EXPLORER / VERKENNER
 
+# Verkenner elementen
+
+tab-elementen
+
+1. windows E > **lijstweergave** deze pc
+1. **naam**
+1. **informatie** over elk item in het venster weergegeven ctrl+shift+6, de items als grote miniaturen weergeven ctrl+shift+2
+2. **terug** alt+pijl links
+3. **recente items** alt+ pijl omhoog
+4. **invoerveld** F4
+2. **zoeken** F3
+3. **verversend** F5
+3. **mappenstructuur** pijl naar beneden omhoog rechts openen enter naar **lijstweergave**
+
+bewerken F2
+
+
+
 # Windows Verkenner Sneltoetsen
 
 | Sneltoets | Actie |
