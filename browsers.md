@@ -1,45 +1,74 @@
 # Browsers
 
-| General Shortcuts | Windows | Mac |
-| --- | --- | --- |
-| New Window | Ctrl + N | Cmd + N |
-| New Tab | Ctrl + T | Cmd + T |
-| Reopen Last Closed Tab | Ctrl + Shift + T | Cmd + Shift + T |
-| Close Current Tab | Ctrl + W | Cmd + W |
-| Close Current Window | Ctrl + Shift + W | Cmd + Shift + W |
-| Switch to Next Tab | Ctrl + Tab | Cmd + Option + Right Arrow |
-| Switch to Previous Tab | Ctrl + Shift + Tab | Cmd + Option + Left Arrow |
-| Switch to Specific Tab | Ctrl + 1-8 | Cmd + 1-8 |
-| Switch to Last Tab | Ctrl + 9 | Cmd + 9 |
-| Bookmark Current Page | Ctrl + D | Cmd + D |
-| Save All Tabs as Bookmarks | Ctrl + Shift + D | Cmd + Shift + D |
-| Open New Incognito/Private Window | Ctrl + Shift + N | Cmd + Shift + N |
-| Open New InPrivate/Incognito Window | Ctrl + Shift + P | Cmd + Shift + P |
-| Open Browsing History | Ctrl + H | Cmd + Y |
 
-| Address Bar and Searching | Windows | Mac |
-| --- | --- | --- |
-| Highlight URL | Ctrl + L | Cmd + L |
-| Add "www." and ".com" | Ctrl + Enter | Cmd + Enter |
-| Add "www." and ".com" (New Tab) | Ctrl + Shift + Enter | Cmd + Shift + Enter |
-| Move Cursor to Search Bar (Edge) | Ctrl + E | N/A |
-| Move Cursor to Search Bar (Chrome) | Ctrl + K | Cmd + Option + F |
 
-| Page Navigation | Windows | Mac |
-| --- | --- | --- |
-| Scroll Down | Spacebar | Spacebar |
-| Scroll Up | Shift + Spacebar | Shift + Spacebar |
-| Reload Page | F5 | Cmd + R |
-| Reload Page (Bypass Cache) | Ctrl + F5 | Cmd + Shift + R |
-| Go Back | Backspace | Delete |
-| Go Forward | Shift + Backspace | Cmd + [ |
+### Adresbalk
+| sneltoets | betekenis |
+|---|---|
+| ctrl+l| adres balk |
+| | type webadres|
+| ctrl+f4 | sluit de geopende pagina|
+|ctrl+m|mute geluid  of website||
+|||
+|||
+|||
+|||
 
-| Text Editing | Windows | Mac |
-| --- | --- | --- |
-| Select All | Ctrl + A | Cmd + A |
-| Cut | Ctrl + X | Cmd + X |
-| Copy | Ctrl + C | Cmd + C |
-| Paste | Ctrl + V | Cmd + V |
-| Undo | Ctrl + Z | Cmd + Z |
-| Redo | Ctrl + Y | Cmd + Shift + Z |
+### Casus Wikipedia
+| sneltoets | betekenis |
+|---|---|
+| ctrl+l| adres balk |
+|**www.wikipedia.nl**||
+|voer interesse in| biologie|
+|ins+f1|koppenlijst|
+|ins+f5|formulierveld lijst|
+|ins+f6|koppen lijst|
+|ins+f7|link lijst|
 
+### Casus Youtube (zie video youtube)
+| sneltoets | betekenis |
+|---|---|
+
+
+| sneltoets | betekenis |
+|---|---|
+| Nieuw Venster | Ctrl + N |
+| Nieuw Tabblad | Ctrl + T |
+| Heropen Laatst Gesloten Tabblad | Ctrl + Shift + T |
+| Sluit Huidig Tabblad | Ctrl + W |
+| Sluit Huidig Venster | Ctrl + Shift + W |
+| Schakel naar Volgend Tabblad | Ctrl + Tab |
+| Schakel naar Vorig Tabblad | Ctrl + Shift + Tab |
+| Schakel naar Specifiek Tabblad | Ctrl + 1-8 |
+| Schakel naar Laatste Tabblad | Ctrl + 9 |
+| Bladwijzer Huidige Pagina | Ctrl + D |
+| Sla Alle Tabbladen op als Bladwijzers | Ctrl + Shift + D |
+| Open Nieuw Incognito/Privé Venster | Ctrl + Shift + N |
+| Open Nieuw InPrivate/Incognito Venster | Ctrl + Shift + P |
+| Open Bladergeschiedenis | Ctrl + H |
+
+| Adresbalk en Zoeken | Windows |
+| --- | --- |
+| Markeer URL | Ctrl + L |
+| Voeg "www." en ".com" toe | Ctrl + Enter |
+| Voeg "www." en ".com" toe (Nieuw Tabblad) | Ctrl + Shift + Enter |
+| Verplaats Cursor naar Zoekbalk (Edge) | Ctrl + E |
+| Verplaats Cursor naar Zoekbalk (Chrome) | Ctrl + K |
+
+| Paginanavigatie | Windows |
+| --- | --- |
+| Scroll Omlaag | Spatiebalk |
+| Scroll Omhoog | Shift + Spatiebalk |
+| Vernieuw Pagina | F5 |
+| Vernieuw Pagina (Cache Overslaan) | Ctrl + F5 |
+| Ga Terug | Backspace |
+| Ga Vooruit | Shift + Backspace |
+
+| Tekstbewerking | Windows |
+| --- | --- |
+| Alles Selecteren | Ctrl + A |
+| Knippen | Ctrl + X |
+| Kopiëren | Ctrl + C |
+| Plakken | Ctrl + V |
+| Ongedaan Maken | Ctrl + Z |
+| Opnieuw | Ctrl + Y |

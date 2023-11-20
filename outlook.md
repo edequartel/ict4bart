@@ -10,22 +10,14 @@ Outlook bevat een menu of ook wel lint genoemd. Verschillende views of vensters.
 Outlook is een programma dat wereld wijd het meest wordt gebruikt. Het is dus belangrijk dat je hier goed mee kan werken. Je zult niet alles in één ker omthouden. Dit document zal je helpen bij het terugvinden van sneltoetsen.
 
 ## belangrijkste sneltoetsen OUTLOOK en JAWS
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 | | |
 | | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-
 
 
 ## Introductie (3:44)
- afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 | ctrl+1-6| wisselen tussen outlook vensters/views|
 | ctrl+1 | email |
@@ -36,7 +28,7 @@ Outlook is een programma dat wereld wijd het meest wordt gebruikt. Het is dus be
 | ctrl+6 | knoppen menu|
 
 ## Openen en lezen email (4:55)
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 | ctrl + 1 | naar mail |
 | ctrl+shift+i | naar inbox|
@@ -51,7 +43,7 @@ Outlook is een programma dat wereld wijd het meest wordt gebruikt. Het is dus be
 | esc | sluit email > terug naar emaillijst |
 
 ### details bij email venster
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 |alt+1 (Spraak)| van afzender|
 |alt+2 (Spraak)|  datum verzonden|
@@ -64,7 +56,7 @@ Outlook is een programma dat wereld wijd het meest wordt gebruikt. Het is dus be
 ### bijlagen open en opslaan (8:25)
 Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer dit als BL (bijlage) op de leesregel staat of wanneer JAWS dit uitspreekt.
 
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 | enter | open de mail met bijlage en lees |
 | shit+tab | ga naar de bijlage |
@@ -77,7 +69,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 
 ## e-mail maken en versturen (12:35)
 
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 | ctrl + 1 | naar mail |
 | ctrl+n | nieuw mail binnen sectie mail Aan veld|
@@ -90,7 +82,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 
 
 ### e-mail maken en versturen extra (10:55)
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 | ctrl + 1 | naar mail |
 | ctrl+shift+o| naar outbox|
@@ -105,14 +97,14 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 | ?? shift + F4 | verder zoeken naar zoekitem |
 
 ### Blind Carbon Copy
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 | alt+P gevolgd door D | aan of uitzetten instelling BCC |
 | shift+tab | onderwerp velc |
 | shift+tab | bcc veld |
 
 ### bijlage toevoegen
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 | WINDOWS+E | openen de verkenner |
 |  | selecteer het bestand |
@@ -121,7 +113,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 | ctrl+v|plak het bestand vanuit het kladblok in je mail| 
 
 ## Adresboek (24:22)
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 |ctrl+shift+b|open adresboek, je komt dan in het invoerveld|
 |shift+tab| ga naar 2 radiobuttons alle kolommen/alleen naam <br>zirg er voor dat alleen naam is geselecteerd |
@@ -135,7 +127,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 |ctrl+n|bericht aan gekozen contactpersoon|
 
 ### nieuw contactpersoon
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 | alt+b| open bestand menu > nieuw item |
 | enter | nieuw item |
@@ -149,7 +141,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 
 ## Agenda afspraken maken en versturen (30:20)
 
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 | ctrl+2 | ga naar de agenda <br> de agenda opent op de dan van vandaag |
 ||de agenda kan een verschillende weergaves hebben <br> kies welke bij jou past <br>maand werkt prettig|
@@ -158,7 +150,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 |pijl omhoog omlaag| week terug of vooruit|
 
 ### maak nieuw afspraak
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 | ctrl+shift+q|  maak een nieuwe afspraak waarbij je mensen kunt uitnodigen <br> met ctrl+n maak je een afspraak of reserveer je tijd voor jezelf en nodig je niet iemand uit |
 ||titel invoerveld|
@@ -177,7 +169,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 |alt+z|verzend|
 
 ### navigatie door agenda
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 |pijl links rechts| dag terug of vooruit|
 |pijl omhoog omlaag| week terug of vooruit|
@@ -188,14 +180,14 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 |ctrl+s| sla op|
 
 ### verwijder afspraak
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 |(TAB)|ga naar de gebeurtenis |
 | del | verwijderen <br> je komt nu in de gebeurtenis|
 |alt+a| verstuur de annulering|
 
 ### instellen van weergaves
-| afkorting | betekenis |
+| sneltoets | betekenis |
 |---|---|
 | CTRL+T| vandaag|
 ||de agenda kan een verschillende weergaves hebben|
