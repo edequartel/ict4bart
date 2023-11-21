@@ -1,52 +1,65 @@
 
 # Youtube en JAWS
 
+## CASUS
+www.tinyurl.com/bio4bart
 
-### [General Navigation in YouTube with JAWS](https://www.youtube.com/watch?v=oMzXAV0ZEsE)
+## Zoek een video 
 
-1. start chrome (WT+Chrome/ WT+Edge)
-1. CTRL+L-focus on adddress edit box of ALT+D
-1. youtube.com
-1. e - search edit box (dit direct doen na youtube.com intypen)
-2. ENTER 
-2. type in een item om op te zoeken
-1. INS-F7 - for a list of links (lw linklijst)  
-1. ga door de links met pijltjes  
-1. kies een link en type enter een adres
+| Sneltoets           | Functie                                              |
+|---------------------|------------------------------------------------------|
+| WT+Chrome  | Start Chrome |
+| CTRL+L of ALT+D     | Focus op de adresbalk               |
+|                     | van het adres (afhankelijk van de browser)           |
+| youtube.com         | Ga naar de website youtube.com                       |
+| e > enter                  | Ga naar het invoerveld                            |
+| Type in een item om op te zoeken | Voer een zoekterm in  |
+| INS-F7              | Toon een lijst met links (linklijst)                 |
+| Pijltjestoetsen     | Blader door de lijst met links                       |
+| | Kies een link en typ ENTER | 
 
-### [How to play videos on youtube](https://www.youtube.com/watch?v=jqvxKLbp6CI)  
+### Speel een video af 
 
-#### **virtual cursor** (INS+Z - toggle virtual cursor)
+| Sneltoets               | Functie                                             |
+|-------------------------|-----------------------------------------------------|
+| INS+Z | toggle (aan of uitzetten) virtual cursor |
 
-*without virtual cursor*
 
-* used the build in keystrokes of youtube
+### Sneltoetsen Youtube met virtuele cursor
 
-*virtual cursor* 
+| Sneltoets               | Functie                                             |
+|-------------------------|-----------------------------------------------------|
+| TAB                     | Naar de afspeelknop en andere knoppen gaan         |
+| INSERT+F5               | Bedieningselementen zoeken                           |
+| R                       | Verkennen                                           |
+| TAB                     | om meer knoppen te zien                         |
+| ENTER of SPATIEBALK     | Activeren                                           |
+| CTRL+HOME               | Focus naar bovenkant van de pagina gaan               |
 
-* TAB - to move to the play button and others
-* INSERT+F5 - find controls
-* R - explore
-* TAB -...- to see more buttons
-* ENTER or SPACEBAR to activat
-* CTRL+HOME - to go the top of the page
+### Sneltoetsen Youtube zonder virtuele cursor
 
-## Sneltoetsen
-1. Afspelen/Pauzeren: Spatiebalk of K
-2. Geluid aan/uit: M
-3. Volume omhoog: Pijl omhoog
-4. Volume omlaag: Pijl omlaag
-5. 5 seconden terugspoelen: Pijl naar links
-6. 5 seconden vooruitspoelen: Pijl naar rechts
-7. Volledig scherm: F
-8. Volledig scherm afsluiten: Esc
-9. 10 seconden terugspoelen: J
-10. 10 seconden vooruitspoelen: L
-11. Volgende video in afspeellijst (indien beschikbaar): Shift + N
-12. ?Vorige video in afspeellijst (indien beschikbaar): Shift + P
-15. Naar het volgende hoofdstuksmarkering gaan (indien beschikbaar): . (punt)
-16. Naar de vorige hoofdstuksmarkering gaan (indien beschikbaar): , (komma)
-17. Gesloten ondertiteling in- of uitschakelen (indien beschikbaar): C
-18. Afspeelsnelheid verhogen: > , SHIFT + N
-19. Afspeelsnelheid verlagen: < , Shift + ,
-20. ?Normale afspeelsnelheid: Shift + 0
+| Sneltoets              | Functie                                               |
+|------------------------|-------------------------------------------------------|
+| K        | Afspelen/Pauzeren                                     |
+| M                      | Geluid aan/uit                                        |
+| Pijl omhoog            | Volume omhoog                                         |
+| Pijl omlaag            | Volume omlaag                                         |
+| Pijl naar links       | 5 seconden terugspoelen                               |
+| Pijl naar rechts        | 5 seconden vooruitspoelen                             |
+| F                      | Volledig scherm                                       |
+| Esc                    | Volledig scherm afsluiten                             |
+| J                      | 10 seconden terugspoelen                              |
+| L                      | 10 seconden vooruitspoelen                            |
+| Shift + N              | Volgende video in afspeellijst (indien beschikbaar)   |
+| Shift + P              | Vorige video in afspeellijst (indien beschikbaar)     |
+| . (punt)               | Naar het volgende hoofdstuksmarkering gaan            |
+| , (komma)              | Naar de vorige hoofdstuksmarkering gaan               |
+| C                      | Gesloten ondertiteling in- of uitschakelen            |
+| > , Shift + N          | Afspeelsnelheid verhogen                              |
+| < , Shift + ,          | Afspeelsnelheid verlagen                              |
+| Shift + 0              | Normale afspeelsnelheid (indien beschikbaar)          |
+
+
+[Bron General Navigation in YouTube with JAWS](https://www.youtube.com/watch?v=oMzXAV0ZEsE)
+
+[Bron How to play videos on youtube](https://www.youtube.com/watch?v=jqvxKLbp6CI)  
