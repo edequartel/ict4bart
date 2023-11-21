@@ -12,8 +12,9 @@
 * [JAWS - afkortingen ](naslag/jawsafkortingen.md)
 
 ### Internet
-* [Browsers Chrome/Edge](browsers.md)
-* [Youtube](youtube.md)
+* [Browser Chrome](browsers.md)
+	* [Casus Wikipedia](wikipedia.md)
+	* [Casus Youtube](youtube.md)
 
 ### Office
 * [Excel](excel.md)

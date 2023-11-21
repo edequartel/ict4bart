@@ -16,7 +16,7 @@
 
 ### [How to play videos on youtube](https://www.youtube.com/watch?v=jqvxKLbp6CI)  
 
-**virtual cursor** (INS+Z - toggle virtual cursor)
+#### **virtual cursor** (INS+Z - toggle virtual cursor)
 
 *without virtual cursor*
 

@@ -1,22 +1,20 @@
 # Outlook
 
+Outlook is een veelgebruikt e-mailprogramma dat niet alleen dient voor het ontvangen en versturen van e-mails, maar ook voor het beheren van contacten en het plannen van afspraken.
 
+In Outlook vind je een menu, ook wel bekend als lint, met verschillende weergaven of vensters. Elk venster toont specifieke informatie, zoals een lijst met e-mails, afspraken, contactpersonen of taken. Wanneer een venster actief is, kun je bijvoorbeeld een lijst met e-mails, afspraken in de kalender, contactpersonen of taken bekijken. Het is belangrijk om elk van deze vensters op een specifieke manier te benaderen. Hieronder nemen we stap voor stap elk van deze vensters door.
 
+Outlook is wereldwijd het meest gebruikte programma in zijn soort. Het is dan ook essentieel om er goed mee te kunnen werken. Aangezien je niet alles in één keer zult onthouden, dient dit document als hulpmiddel bij het snel terugvinden van sneltoetsen.
 
-Outlook is een email programma dat naast het ontvangen en versturen van email gebruikt wordt voor het maken bijhouden van contacten en het maken van afspraken.
- 
-Outlook bevat een menu of ook wel lint genoemd. Verschillende views of vensters. een venster bijvoorbeeld een lijst van email, afspraken, contactpersonen of taken zijn. Wanneer een venster actief is kan er een lijst met emails, afspraken in de kalander, contactpersonen of taken staan. Elk van deze vensters vraagt zijn eigen benadering. Wij gaan elk van deze vensters hieronder stap voor stap doornemen.
-
-Outlook is een programma dat wereld wijd het meest wordt gebruikt. Het is dus belangrijk dat je hier goed mee kan werken. Je zult niet alles in één ker omthouden. Dit document zal je helpen bij het terugvinden van sneltoetsen.
-
+<!--
 ## belangrijkste sneltoetsen OUTLOOK en JAWS
 | sneltoets | betekenis |
 |---|---|
 | | |
 | | |
+-->
 
-
-## Introductie (3:44)
+## 1 Introductie 
 | sneltoets | betekenis |
 |---|---|
 | ctrl+1-6| wisselen tussen outlook vensters/views|
@@ -27,7 +25,7 @@ Outlook is een programma dat wereld wijd het meest wordt gebruikt. Het is dus be
 | ctrl+5 | app host |
 | ctrl+6 | knoppen menu|
 
-## Openen en lezen email (4:55)
+## 2 Openen en lezen email
 | sneltoets | betekenis |
 |---|---|
 | ctrl + 1 | naar mail |
@@ -42,7 +40,7 @@ Outlook is een programma dat wereld wijd het meest wordt gebruikt. Het is dus be
 | ins pijl omlaag | zeg alles |
 | esc | sluit email > terug naar emaillijst |
 
-### details bij email venster
+### 2.1 details bij email venster
 | sneltoets | betekenis |
 |---|---|
 |alt+1 (Spraak)| van afzender|
@@ -53,7 +51,7 @@ Outlook is een programma dat wereld wijd het meest wordt gebruikt. Het is dus be
 |alt+6 (Spraak)| bcc |
 
 
-### bijlagen open en opslaan (8:25)
+### 2.2 bijlagen open en opslaan
 Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer dit als BL (bijlage) op de leesregel staat of wanneer JAWS dit uitspreekt.
 
 | sneltoets | betekenis |
@@ -67,7 +65,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 | ok knp | om alle bijlagen op te slaan |
 | enter | dialoog venster bijlage opslaan |
 
-## e-mail maken en versturen (12:35)
+## 3 e-mail maken en versturen
 
 | sneltoets | betekenis |
 |---|---|
@@ -81,7 +79,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 | alt+z | verzenden |
 
 
-### e-mail maken en versturen extra (10:55)
+### 3.1 e-mail maken en versturen extra (10:55)
 | sneltoets | betekenis |
 |---|---|
 | ctrl + 1 | naar mail |
@@ -96,14 +94,14 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 | F4 | zoek tekst in een bericht |
 | ?? shift + F4 | verder zoeken naar zoekitem |
 
-### Blind Carbon Copy
+### 3.2 Blind Carbon Copy
 | sneltoets | betekenis |
 |---|---|
 | alt+P gevolgd door D | aan of uitzetten instelling BCC |
 | shift+tab | onderwerp velc |
 | shift+tab | bcc veld |
 
-### bijlage toevoegen
+### 3.3 bijlage toevoegen
 | sneltoets | betekenis |
 |---|---|
 | WINDOWS+E | openen de verkenner |
@@ -112,7 +110,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 | ctrl+TAB | wissel van verkenner naar OUTLOOK <br> zorg dat je in de te verzenden mail staat|
 | ctrl+v|plak het bestand vanuit het kladblok in je mail| 
 
-## Adresboek (24:22)
+## 4 Adresboek
 | sneltoets | betekenis |
 |---|---|
 |ctrl+shift+b|open adresboek, je komt dan in het invoerveld|
@@ -126,7 +124,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 | enter | venster contactpersoon wordt geopend <br> hier kun informatie toevoegen of wijzigen|
 |ctrl+n|bericht aan gekozen contactpersoon|
 
-### nieuw contactpersoon
+### 4.1 nieuw contactpersoon
 | sneltoets | betekenis |
 |---|---|
 | alt+b| open bestand menu > nieuw item |
@@ -139,7 +137,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 |ctrl+s| bewaar contact|
 |esc| sluit contacts|
 
-## Agenda afspraken maken en versturen (30:20)
+## 5 Agenda  
 
 | sneltoets | betekenis |
 |---|---|
@@ -149,7 +147,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 |pijl links rechts| dag terug of vooruit|
 |pijl omhoog omlaag| week terug of vooruit|
 
-### maak nieuw afspraak
+### 5.1 maak nieuw afspraak
 | sneltoets | betekenis |
 |---|---|
 | ctrl+shift+q|  maak een nieuwe afspraak waarbij je mensen kunt uitnodigen <br> met ctrl+n maak je een afspraak of reserveer je tijd voor jezelf en nodig je niet iemand uit |
@@ -168,7 +166,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 |tab|notitie invoerveld|
 |alt+z|verzend|
 
-### navigatie door agenda
+### 5.2 navigatie door agenda
 | sneltoets | betekenis |
 |---|---|
 |pijl links rechts| dag terug of vooruit|
@@ -179,14 +177,14 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 |esc| ga terug zonder wijzigingen|
 |ctrl+s| sla op|
 
-### verwijder afspraak
+### 5.3 verwijder afspraak
 | sneltoets | betekenis |
 |---|---|
 |(TAB)|ga naar de gebeurtenis |
 | del | verwijderen <br> je komt nu in de gebeurtenis|
 |alt+a| verstuur de annulering|
 
-### instellen van weergaves
+### 5.4 instellen van weergaves
 | sneltoets | betekenis |
 |---|---|
 | CTRL+T| vandaag|
