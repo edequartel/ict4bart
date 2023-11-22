@@ -4,7 +4,6 @@ Een browser is een programma waarmee je toegang krijgt tot het internet. De URL,
 
 In een browser kun je meerdere pagina's tegelijk open hebben staan. De actieve pagina is degene die je momenteel voor je hebt. Dit is handig als je gelijktijdig informatie uit verschillende bronnen nodig hebt of als je even iets anders wilt doen. Door middel van de pagina kun je navigeren, of het nu gaat om het verkennen van verschillende inhoud of het terugkijken op eerder bezochte sites in de browsergeschiedenis. Bovendien kun je pagina's opslaan voor later gebruik. Dit geeft je de flexibiliteit om informatie te organiseren en gemakkelijk toegang te krijgen tot relevante inhoud wanneer dat nodig is.
 
-
 ## 1 Pagina openen en Navigeren
 | sneltoets | betekenis |
 |---|---|
@@ -23,7 +22,6 @@ In een browser kun je meerdere pagina's tegelijk open hebben staan. De actieve p
 | alt+pijl links | Terug door venster | 
 | alt+pijl rechts | Vooruit door venster |
 
-
 ## 2 Meerdere pagina's open
 | sneltoets | betekenis |
 |---|---|
@@ -32,7 +30,6 @@ In een browser kun je meerdere pagina's tegelijk open hebben staan. De actieve p
 |ctrl+tab|schakelen tussen tabbladen|
 |ctrl+n|nieuw browser venster|
 |ctrl+w|huidig browser venster sluiten|
-
 
 ## 3 Geschiedenis
 | sneltoets | betekenis |
@@ -74,7 +71,6 @@ In een browser kun je meerdere pagina's tegelijk open hebben staan. De actieve p
 |alt+shift+t|google chrome toolbar<br>tab door de verschillende items|
 |alt+e|instellingen menu chrome<br>je krijgt nu een menu waar je bladwijzers, geschiedenis en nog meer<br> ga er met de pijltjes toetsen door heen|
 |g|instellingen<br>je komt nu op de pagina van google met jouw instellingen<br>het is een lijst dus je kunt er met de pijltjes toetsen doorheen en jouw wensen kunt instelllen
-
 
 ## 6 Web html - elementen
 Een pagina staat vol met elementen. Deze geven de webpagina structuur. links, paragraphs, headings, bullet list, tables, regio, afbeeldingen, formulier
@@ -141,8 +137,6 @@ Met navigatie toetsen kun je snel door een pagina gaan.
 |||
 |ins+f5|JAWS selecteer een formulier veld|
 |ctrl+insert+x|alleen de selectievakjes in een lijst|
-
-
 
 ### belangrijke WINDOWS sneltoetsen
 | Ctrl + L | Markeer URL |

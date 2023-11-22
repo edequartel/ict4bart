@@ -12,7 +12,7 @@ www.tinyurl.com/bio4bart
 | CTRL+L of ALT+D     | Focus op de adresbalk               |
 |                     | van het adres (afhankelijk van de browser)           |
 | youtube.com         | Ga naar de website youtube.com                       |
-| e > enter                  | Ga naar het invoerveld                            |
+| e > enter                  | Ga naar het invoerveld<br> ikzl keuzelijst met invierveld                            |
 | Type in een item om op te zoeken | Voer een zoekterm in  |
 | INS-F7              | Toon een lijst met links (linklijst)                 |
 | Pijltjestoetsen     | Blader door de lijst met links                       |

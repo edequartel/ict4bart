@@ -64,9 +64,48 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 | of type [A] |  |
 | ok knp | om alle bijlagen op te slaan |
 | enter | dialoog venster bijlage opslaan |
+|||
+
+### **2.3 opslaan met dialoog venster**
+| sneltoets | betekenis |
+|---|---|
+| F12 | opslaan als | 
+| shift tab x 3| tot in de boom deze pc zit|
+| pijl omhoog| tot dat je in de juiste map zit|
+| enter | open de map en ga er in staan|
+| tab x 3 | ga naar bestands naam|
+
+### **2.4 OneDrive of verkenner**
+| sneltoets | betekenis |
+|---|---|
+|WT+onedrive|ga naar onedrive|
+|shift+tab|ga naar bs boomstructuur|
+|type de eerste letter van de map| bijvoorbeeld de b van biologie|
+|enter|open de map|
+|tab|ga in de lijst staan met de bestanden|
+
+### **2.Nieuw bestand (oned+verk)**
+Let wel of bestand is gesecteerd.
+| sneltoets | betekenis |
+|---|---|
+|ga naar de map en gan in de lijst staan||
+|shift+f10|popup menu|
+|nieuw|neiw bestand submenu|
+|enter||
+|pijl omlaag nx| kies bestands type|
+|enter||
+||bestand is nu geselecteerd, geef het bestand een naam|
+|enter|bestand heeft een naam gekregen|
+|f2|bestand hernoemen|
+
+|shift+tab|ga naar bs boomstructuur|
+|type de eerste letter van de map| bijvoorbeeld de b van biologie|
+|enter|open de map|
+|tab|ga in de lijst staan met de bestanden|
+
+
 
 ## 3 e-mail maken en versturen
-
 | sneltoets | betekenis |
 |---|---|
 | ctrl + 1 | naar mail |
