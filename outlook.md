@@ -1,5 +1,16 @@
 # Outlook
 
+<html>
+<head>
+  <style>
+    table {
+      width: 80%; /* Adjust the percentage based on your needs */
+      border-collapse: collapse;
+    }
+  </style>
+</head>
+<body>
+
 Outlook is **een** veelgebruikt e-mailprogramma dat niet alleen dient voor het ontvangen en versturen van e-mails, maar ook voor het beheren van contacten en het plannen van afspraken.
 
 In Outlook vind je een menu, ook wel bekend als lint, met verschillende weergaven of vensters. Elk venster toont specifieke informatie, zoals een lijst met e-mails, afspraken, contactpersonen of taken. Wanneer een venster actief is, kun je bijvoorbeeld een lijst met e-mails, afspraken in de kalender, contactpersonen of taken bekijken. Het is belangrijk om elk van deze vensters op een specifieke manier te benaderen. Hieronder nemen we stap voor stap elk van deze vensters door.
