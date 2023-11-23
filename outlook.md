@@ -1,6 +1,6 @@
 # Outlook
 
-Outlook is een veelgebruikt e-mailprogramma dat niet alleen dient voor het ontvangen en versturen van e-mails, maar ook voor het beheren van contacten en het plannen van afspraken.
+Outlook is **een** veelgebruikt e-mailprogramma dat niet alleen dient voor het ontvangen en versturen van e-mails, maar ook voor het beheren van contacten en het plannen van afspraken.
 
 In Outlook vind je een menu, ook wel bekend als lint, met verschillende weergaven of vensters. Elk venster toont specifieke informatie, zoals een lijst met e-mails, afspraken, contactpersonen of taken. Wanneer een venster actief is, kun je bijvoorbeeld een lijst met e-mails, afspraken in de kalender, contactpersonen of taken bekijken. Het is belangrijk om elk van deze vensters op een specifieke manier te benaderen. Hieronder nemen we stap voor stap elk van deze vensters door.
 
@@ -85,7 +85,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 |tab|ga in de lijst staan met de bestanden|
 
 ### **2.Nieuw bestand (oned+verk)**
-Let wel of bestand is gesecteerd.
+Let wel of bestand is gesecteerd.****
 | sneltoets | betekenis |
 |---|---|
 |ga naar de map en gan in de lijst staan||
