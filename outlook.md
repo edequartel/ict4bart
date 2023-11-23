@@ -76,6 +76,10 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 | ok knp | om alle bijlagen op te slaan |
 | enter | dialoog venster bijlage opslaan |
 |||
+|ctrl+c|wanneer je op het bestand staat in de bijlage kopieer je dit naar het klembord, je kunt dan naar de verkenner of je onedrive gaan|
+|||
+|||
+|||
 
 ### **2.3 opslaan met dialoog venster**
 | sneltoets | betekenis |
@@ -96,7 +100,8 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 |tab|ga in de lijst staan met de bestanden|
 
 ### **2.Nieuw bestand (oned+verk)**
-Let wel of bestand is gesecteerd.****
+Let wel of bestand is geselecteerd.
+
 | sneltoets | betekenis |
 |---|---|
 |ga naar de map en gan in de lijst staan||
@@ -108,7 +113,6 @@ Let wel of bestand is gesecteerd.****
 ||bestand is nu geselecteerd, geef het bestand een naam|
 |enter|bestand heeft een naam gekregen|
 |f2|bestand hernoemen|
-
 |shift+tab|ga naar bs boomstructuur|
 |type de eerste letter van de map| bijvoorbeeld de b van biologie|
 |enter|open de map|
@@ -126,7 +130,7 @@ Let wel of bestand is gesecteerd.****
 | tab | onderwerp veld |
 | tab | invoerveld |
 | intypen |niet vergeten|
-| alt+z | verzenden |
+| alt+z / ctrl+enter| verzenden |
 
 
 ### 3.1 e-mail maken en versturen extra (10:55)
