@@ -1,20 +1,13 @@
 # ict4vip
 
-### Basis
-* [tekstinvoerveld](tekstinvoerveld.md)
-* [dialoog venster](dialoogvenster.md)
-
-### basis programma's
-* [kladbok](kladblok.md)
-
 ### Schermlezers
 * [JAWS](jaws.md)
 * [JAWS - afkortingen ](naslag/jawsafkortingen.md)
 
 ### Internet
 * [Browser Chrome](browsers.md)
-	* [Casus Wikipedia](wikipedia.md)
-	* [Casus Youtube](youtube.md)
+* [Casus Wikipedia](wikipedia.md)
+* [Casus Youtube](youtube.md)
 
 ### Office
 * [Excel](excel.md)
