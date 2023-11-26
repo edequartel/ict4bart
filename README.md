@@ -22,14 +22,14 @@
 * [surf up](tinyurl.com/web4bart)
 
 
-1. [introductieenoverzicht](https://www.eduvip.nl/VSOdigitaal/webcourse/course/01introductieenoverzicht.htm)
-1. [aandeslagmetjaws](https://www.eduvip.nl/VSOdigitaal/webcourse/course/02aandeslagmetjaws.htm)
-1. [menudialoogstartupwizard](https://www.eduvip.nl/VSOdigitaal/webcourse/course/03menudialoogstartupwizard.htm)
-1. [gebruikersinterfaceenutilities](https://www.eduvip.nl/VSOdigitaal/webcourse/course/04gebruikersinterfaceenutilities.htm)
-1. [introductietotwindows](https://www.eduvip.nl/VSOdigitaal/webcourse/course/05introductietotwindows.htm)
-1. [leesenwijzigtekst](https://www.eduvip.nl/VSOdigitaal/webcourse/course/06leesenwijzigtekst.htm)
-1. [introductiietotbestandenenmappen](https://www.eduvip.nl/VSOdigitaal/webcourse/course/07introductiietotbestandenenmappen.htm)
-1. [jawshelp](https://www.eduvip.nl/VSOdigitaal/webcourse/course/08jawshelp.htm)
+1. [introductie en overzicht](https://www.eduvip.nl/VSOdigitaal/webcourse/course/01introductieenoverzicht.htm)
+1. [aan de slag met jaws](https://www.eduvip.nl/VSOdigitaal/webcourse/course/02aandeslagmetjaws.htm)
+1. [menu dialoog startup wizard](https://www.eduvip.nl/VSOdigitaal/webcourse/course/03menudialoogstartupwizard.htm)
+1. [gebruikers interface en utilities](https://www.eduvip.nl/VSOdigitaal/webcourse/course/04gebruikersinterfaceenutilities.htm)
+1. [introductie tot windows](https://www.eduvip.nl/VSOdigitaal/webcourse/course/05introductietotwindows.htm)
+1. [lees en wijzig tekst](https://www.eduvip.nl/VSOdigitaal/webcourse/course/06leesenwijzigtekst.htm)
+1. [introductie tot bestanden en mappen](https://www.eduvip.nl/VSOdigitaal/webcourse/course/07introductietotbestandenenmappen.htm)
+1. [jaws help](https://www.eduvip.nl/VSOdigitaal/webcourse/course/08jawshelp.htm)
 
 ### Leeregels
 * [leesregel](leesregel.md)
