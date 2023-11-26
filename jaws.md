@@ -1,30 +1,54 @@
 # JAWS 2023
 
-# Algemene JAWS sneltoetsen
+## Instellingen
+
+### **cursor volgt brailleleesregel**
+
+ Sneltoets | Omschrijving |
+| --- | --- |
+| INS+6, CTRL+SHIFT+D | open instellingen, standaard|
+| pijl omlaag B | ga naar braille |
+| pijl rechts, pijl omlaag | open eerste niveau|
+| F6 | ga naar instellingen scherm (pan)|
+| c | vink aan actieve cursor volgt brailleleesregel
+|enter| bevestig met ok knop|
+
+
+### **focus markering, alleen in browser**
+
+ Sneltoets | Omschrijving |
+| --- | --- |
+| INS+6, CTRL+SHIFT+D | open instellingen, standaard|
+| pijl omlaag V | visueel volgen |
+| pijl rechts, pijl omlaag | open eerste niveau|
+| F6 | ga naar instellingen scherm (pan)|
+|v|markeer Virtueel PC-cursor|
+
+## Algemene JAWS sneltoetsen
 
 | Sneltoets | Omschrijving |
 | --- | --- |
 | Ctrl + Alt + J | JAWS opstarten |
 | Insert + F4 | JAWS afsluiten |
 | Insert + W | Sneltoetsen van een programma opvragen |
-| Insert + H | Sneltoetsen van JAWS in een programma opvragen |
+| Insert + H | Sneltoetsen van JAWS opvragen voor algemeen gebruik |
 | Ctrl | stoppen spraak tijdelijk |
 | INS 6 | instellingen |
 | INS + 6 - CTRL + SHFT + D | instellingscentrum |
 | INS spatie , S | spraak op commando |
 
 
-# top 20 Spraak
+## top 20 Spraak
 
 | Sneltoets | Omschrijving |
 | --- | --- |
 | Insert + pijl omlaag (en control om te stoppen) | Alles laten voorlezen |
 | Linker shift tijdens het voorlezen | Zin opnieuw lezen |
 | Rechter shift tijdens het voorlezen | Volgende zin lezen |
+| **Insert + Z** | **Snel toetsen aan/uit** |
 | Insert + F | Lees lettertype |
 | Insert + 5 | Uitgebreide lettertype informatie |
 | Insert + 2 (meerdere malen) | Tijdens typen woorden en/of tekens voorlezen |
-| Insert + Z | Navigatie toetsen aan/uit |
 | Control + Windowstoets + L | Taal kiezen |
 | Control + pijltjes links en rechts | Per woord laten voorlezen |
 | Alleen pijltje links of rechts | Per letter laten voorlezen |
@@ -36,7 +60,7 @@
 | Insert + spatie en dan de S | Spraak uit/aan |
 
 
-# Internet sneltoetsen
+## Internet sneltoetsen
 
 | Sneltoets | Omschrijving |
 | --- | --- |

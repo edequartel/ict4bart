@@ -10,7 +10,7 @@
 | BS | Boomstructuur |
 | BL | Bijlage |
 
-* Rtd om meer dte lezen. 
+* Rtd om meer te lezen. 
 * 1 van 5 (eerste van de vijf in de lijst). 
 * Delete = weghalen. 
 * Ctrl+Z = terughalen. 
@@ -19,7 +19,6 @@
 * F6 ga je door de panes/**panelen**
 
 Lijst -> statusbalk -> bovenste lint -> lijst (APPS) -> boomstructuur
-
 
 **Enter** open van email
  

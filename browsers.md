@@ -138,7 +138,11 @@ Met navigatie toetsen kun je snel door een pagina gaan.
 |ins+f5|JAWS selecteer een formulier veld|
 |ctrl+insert+x|alleen de selectievakjes in een lijst|
 
+
 ### belangrijke WINDOWS sneltoetsen
+
+| sneltoets | betekenis |
+|---|---|
 | Ctrl + L | Markeer URL |
 | Ctrl + K | Verplaats Cursor naar Zoekbalk (Chrome) |
 | Ctrl + N | Nieuw Venster |

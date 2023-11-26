@@ -12,6 +12,4 @@
 |ins+f6|koppen lijst|
 |ins+f7|link lijst|
 
-### Casus Youtube (zie video youtube)
-| sneltoets | betekenis |
-|---|---|
+
