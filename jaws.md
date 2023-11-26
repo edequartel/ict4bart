@@ -10,7 +10,7 @@
 | Insert + H | Sneltoetsen van JAWS in een programma opvragen |
 | Ctrl | stoppen spraak tijdelijk |
 | INS 6 | instellingen |
-| Insert + 6 - ctrl + shift + d | instellingscentrum |
+| INS + 6 - CTRL + SHFT + D | instellingscentrum |
 | INS spatie , S | spraak op commando |
 
 
