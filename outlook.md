@@ -15,6 +15,7 @@ Outlook is wereldwijd het meest gebruikte programma in zijn soort. Het is dan oo
 -->
 
 ## 1 Introductie 
+
 | sneltoets | betekenis |
 |---|---|
 | ctrl+1-6| wisselen tussen outlook vensters/views|
@@ -26,6 +27,7 @@ Outlook is wereldwijd het meest gebruikte programma in zijn soort. Het is dan oo
 | ctrl+6 | knoppen menu|
 
 ## 2 Openen en lezen email
+
 | sneltoets | betekenis |
 |---|---|
 | ctrl + 1 | naar mail |
@@ -41,6 +43,7 @@ Outlook is wereldwijd het meest gebruikte programma in zijn soort. Het is dan oo
 | esc | sluit email > terug naar emaillijst |
 
 ### 2.1 details bij email venster
+
 | sneltoets | betekenis |
 |---|---|
 |alt+1 (Spraak)| van afzender|
@@ -52,6 +55,7 @@ Outlook is wereldwijd het meest gebruikte programma in zijn soort. Het is dan oo
 
 
 ### 2.2 bijlagen open en opslaan
+
 Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer dit als BL (bijlage) op de leesregel staat of wanneer JAWS dit uitspreekt.
 
 | sneltoets | betekenis |
@@ -71,6 +75,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 |||
 
 ### **2.3 opslaan met dialoog venster**
+
 | sneltoets | betekenis |
 |---|---|
 | F12 | opslaan als | 
@@ -80,6 +85,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 | tab x 3 | ga naar bestands naam|
 
 ### **2.4 OneDrive of verkenner**
+
 | sneltoets | betekenis |
 |---|---|
 |WT+onedrive|ga naar onedrive|
@@ -89,6 +95,7 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 |tab|ga in de lijst staan met de bestanden|
 
 ### **2.Nieuw bestand (oned+verk)**
+
 Let wel of bestand is geselecteerd.
 
 | sneltoets | betekenis |
@@ -110,6 +117,7 @@ Let wel of bestand is geselecteerd.
 
 
 ## 3 e-mail maken en versturen
+
 | sneltoets | betekenis |
 |---|---|
 | ctrl + 1 | naar mail |
@@ -122,7 +130,8 @@ Let wel of bestand is geselecteerd.
 | alt+z / ctrl+enter| verzenden |
 
 
-### 3.1 e-mail maken en versturen extra (10:55)
+### 3.1 e-mail maken en versturen extra
+
 | sneltoets | betekenis |
 |---|---|
 | ctrl + 1 | naar mail |
@@ -138,6 +147,7 @@ Let wel of bestand is geselecteerd.
 | ?? shift + F4 | verder zoeken naar zoekitem |
 
 ### 3.2 Blind Carbon Copy
+
 | sneltoets | betekenis |
 |---|---|
 | alt+P gevolgd door D | aan of uitzetten instelling BCC |
@@ -145,6 +155,7 @@ Let wel of bestand is geselecteerd.
 | shift+tab | bcc veld |
 
 ### 3.3 bijlage toevoegen
+
 | sneltoets | betekenis |
 |---|---|
 | WINDOWS+E | openen de verkenner |
@@ -154,6 +165,7 @@ Let wel of bestand is geselecteerd.
 | ctrl+v|plak het bestand vanuit het kladblok in je mail| 
 
 ## 4 Adresboek
+
 | sneltoets | betekenis |
 |---|---|
 |ctrl+shift+b|open adresboek, je komt dan in het invoerveld|
@@ -168,6 +180,7 @@ Let wel of bestand is geselecteerd.
 |ctrl+n|bericht aan gekozen contactpersoon|
 
 ### 4.1 nieuw contactpersoon
+
 | sneltoets | betekenis |
 |---|---|
 | alt+b| open bestand menu > nieuw item |
@@ -191,6 +204,7 @@ Let wel of bestand is geselecteerd.
 |pijl omhoog omlaag| week terug of vooruit|
 
 ### 5.1 maak nieuw afspraak
+
 | sneltoets | betekenis |
 |---|---|
 | ctrl+shift+q|  maak een nieuwe afspraak waarbij je mensen kunt uitnodigen <br> met ctrl+n maak je een afspraak of reserveer je tijd voor jezelf en nodig je niet iemand uit |
@@ -210,6 +224,7 @@ Let wel of bestand is geselecteerd.
 |alt+z|verzend|
 
 ### 5.2 navigatie door agenda
+
 | sneltoets | betekenis |
 |---|---|
 |pijl links rechts| dag terug of vooruit|
@@ -221,6 +236,7 @@ Let wel of bestand is geselecteerd.
 |ctrl+s| sla op|
 
 ### 5.3 verwijder afspraak
+
 | sneltoets | betekenis |
 |---|---|
 |(TAB)|ga naar de gebeurtenis |
@@ -228,6 +244,7 @@ Let wel of bestand is geselecteerd.
 |alt+a| verstuur de annulering|
 
 ### 5.4 instellen van weergaves
+
 | sneltoets | betekenis |
 |---|---|
 | CTRL+T| vandaag|
