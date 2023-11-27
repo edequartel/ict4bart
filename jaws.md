@@ -2,7 +2,8 @@
 
 ## Instellingen
 
-### **cursor volgt brailleleesregel**
+### **cursor volgt brailleleesregel** 
+
 
  Sneltoets | Omschrijving |
 | --- | --- |
@@ -13,8 +14,9 @@
 | c | vink aan actieve cursor volgt brailleleesregel
 |enter| bevestig met ok knop|
 
-
+  
 ### **focus markering, alleen in browser**
+
 
  Sneltoets | Omschrijving |
 | --- | --- |
@@ -23,6 +25,7 @@
 | pijl rechts, pijl omlaag | open eerste niveau|
 | F6 | ga naar instellingen scherm (pan)|
 |v|markeer Virtueel PC-cursor|
+
 
 ## Algemene JAWS sneltoetsen
 
