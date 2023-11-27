@@ -5,7 +5,7 @@
 ### **cursor volgt brailleleesregel** 
 
 
- Sneltoets | Omschrijving |
+| Sneltoets | Omschrijving |
 | --- | --- |
 | INS+6, CTRL+SHIFT+D | open instellingen, standaard|
 | pijl omlaag B | ga naar braille |
@@ -18,7 +18,7 @@
 ### **focus markering, alleen in browser**
 
 
- Sneltoets | Omschrijving |
+| Sneltoets | Omschrijving |
 | --- | --- |
 | INS+6, CTRL+SHIFT+D | open instellingen, standaard|
 | pijl omlaag V | visueel volgen |

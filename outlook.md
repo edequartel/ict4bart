@@ -111,8 +111,7 @@ Let wel of bestand is geselecteerd.
 |nieuw|neiw bestand submenu|
 |enter||
 |pijl omlaag nx| kies bestands type|
-|enter||
-||bestand is nu geselecteerd, geef het bestand een naam|
+|enter|bestand is nu geselecteerd, geef het bestand een naam|
 |enter|bestand heeft een naam gekregen|
 |f2|bestand hernoemen|
 |shift+tab|ga naar bs boomstructuur|
