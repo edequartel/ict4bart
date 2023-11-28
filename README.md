@@ -19,7 +19,7 @@
 * [Windows](windows.md)
 
 ### Freddom course
-* [surf up](tinyurl.com/web4bart)
+* [werken op het internet - surf up](https://www.eduvip.nl/VSOdigitaal/webcourse/index.htm)
 
 
 1. [introductie en overzicht](https://www.eduvip.nl/VSOdigitaal/webcourse/course/01introductieenoverzicht.htm)
