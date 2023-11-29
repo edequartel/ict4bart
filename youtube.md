@@ -50,14 +50,14 @@ www.tinyurl.com/bio4bart
 | Esc                    | Volledig scherm afsluiten                             |
 | J                      | 10 seconden terugspoelen                              |
 | L                      | 10 seconden vooruitspoelen                            |
-| Shift + N              | Volgende video in afspeellijst (indien beschikbaar)   |
-| Shift + P              | Vorige video in afspeellijst (indien beschikbaar)     |
+| Shift + n              | Volgende video in afspeellijst (indien beschikbaar)   |
+| Shift + p              | Vorige video in afspeellijst (indien beschikbaar)     |
 | . (punt)               | Naar het volgende hoofdstuksmarkering gaan            |
 | , (komma)              | Naar de vorige hoofdstuksmarkering gaan               |
 | C                      | Gesloten ondertiteling in- of uitschakelen            |
-| > , Shift + N          | Afspeelsnelheid verhogen                              |
+| > , Shift + .          | Afspeelsnelheid verhogen                              |
 | < , Shift + ,          | Afspeelsnelheid verlagen                              |
-| Shift + 0              | Normale afspeelsnelheid (indien beschikbaar)          |
+| Shift + /              | Scherm (visueel) alle toetsen |
 
 
 [Bron General Navigation in YouTube with JAWS](https://www.youtube.com/watch?v=oMzXAV0ZEsE)
