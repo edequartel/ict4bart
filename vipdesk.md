@@ -1,10 +1,21 @@
+# vipDesk
+<!--
 # ict4vip (v1.0)
+-->
+
+## Podcasts
+* [spotify](https://open.spotify.com/show/52KkEwaUY51roGIjHxGXX0?si=01aad1d3b0ba48df)
+* [apple podcast](https://podcasts.apple.com/nl/podcast/tast-en-braille/id1718586133?i=1000636682998)
+
+## Video
+* [video afspeellijst JAWS](https://vimeo.com/showcase/10826625)
+
+## Forum
+* [vraagbaak](https://www.tastenbraille.com/vraagbaak/)
 
 
-# [vipDesk](vipDesk.md)
 
--
-
+<!--
 ### Schermlezers
 * [JAWS](jaws.md)
 * [JAWS - afkortingen ](naslag/jawsafkortingen.md)
@@ -13,8 +24,6 @@
 * [Browser Chrome](browsers.md)
 	* [Casus Wikipedia](wikipedia.md)
 	* [Casus Youtube](youtube.md)
-
-
 
 ### Office
 * [Excel](excel.md)
@@ -57,7 +66,7 @@ Hier staan workshops die de leerling al of niet begeleid kan doen.
 * [handleiding vraagbaak](phpbbhandleiding.md)
 
 ![IMAGEW VRAAGBAAK](pictures/vraagbaakqr.PNG)
-
+-->
 
 
 
