@@ -1,7 +1,7 @@
 # ict4vip (v1.0)
 
 
-# [vipDesk](vipDesk.md)
+# [vipDesk](vipdesk.md)
 
 -
 
