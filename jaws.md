@@ -89,3 +89,7 @@
 * Pijl omlaag naar Taalveranderingen detecteren.
 * Zet dit uit met spatie.
 * Sluit het venster met twee keer enter.
+
+## FAQ
+brailleinvoer werkt niet, **wat moet ik doen**
+

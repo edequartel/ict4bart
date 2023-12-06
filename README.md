@@ -1,6 +1,7 @@
+# vipDesk
+<!--
 # ict4vip (v1.0)
-
-### Internet
+-->
 
 ## Podcasts
 * [spotify](https://open.spotify.com/show/52KkEwaUY51roGIjHxGXX0?si=01aad1d3b0ba48df)
@@ -13,6 +14,8 @@
 * [vraagbaak](https://www.tastenbraille.com/vraagbaak/)
 
 
+
+<!--
 ### Schermlezers
 * [JAWS](jaws.md)
 * [JAWS - afkortingen ](naslag/jawsafkortingen.md)
@@ -63,6 +66,7 @@ Hier staan workshops die de leerling al of niet begeleid kan doen.
 * [handleiding vraagbaak](phpbbhandleiding.md)
 
 ![IMAGEW VRAAGBAAK](pictures/vraagbaakqr.PNG)
+-->
 
 
 
