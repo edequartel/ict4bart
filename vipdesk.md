@@ -1,5 +1,7 @@
 # vipDesk
 
+## tinyurl.com/vipdeskbart
+
 
 ## Podcasts 
 leerlingen
@@ -13,6 +15,7 @@ begeleiders
 * [video afspeellijst JAWS](https://vimeo.com/showcase/10826625)
 
 ## Cursus
+leerlingen
 
 * [surfen op het internet met JAWS](https://tinyurl.com/web4bart)
 
@@ -20,5 +23,11 @@ begeleiders
 leerlingen-begeleiders-specialisten-coordinators
 
 * [vraagbaak](https://www.tastenbraille.com/vraagbaak/)
+
+## vipDesk
+
+* [basis structuur](https://edequartel.github.io/tastenbraille/vipdesk/basisstructuurvipdeskv1.pdf)
+* [organisatie](https://edequartel.github.io/tastenbraille/vipdesk/organisatievipdesk.pdf)
+
 
 
