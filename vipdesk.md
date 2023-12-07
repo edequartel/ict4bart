@@ -12,6 +12,10 @@ begeleiders
 
 * [video afspeellijst JAWS](https://vimeo.com/showcase/10826625)
 
+## Cursus
+
+* [surfen op het internet met JAWS](https://tinyurl.com/web4bart)
+
 ## Forum 
 leerlingen-begeleiders-specialisten-coordinators
 
