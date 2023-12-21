@@ -15,4 +15,4 @@ p8 is enter
 ## Quick Start Guide
 
 - [Focus Blue Quick Start Guide](https://www.freedomscientific.com/training/braille/focus/focus-blue-quick-start-guide/)
-- [Braille commando's](https://www.freedomscientific.com/training/braille/focus/braille-commands/)
+### - [Braille commando's](https://www.freedomscientific.com/training/braille/focus/braille-commands/)

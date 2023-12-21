@@ -12,6 +12,7 @@ leerlingen
 ## Video 
 begeleiders
 
+* [video afspeellijst BrailleStudio](https://vimeo.com/showcase/7035231)
 * [video afspeellijst JAWS](https://vimeo.com/showcase/10826625)
 
 ## Cursus
