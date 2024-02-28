@@ -49,19 +49,23 @@ On the front edge of the display are the following controls, located from left t
 |Scrol één pagina omhoog|Left Rocker Up|
 |Scrol één pagina omlaag|Left Rocker Down|
 |Activeer de knop 'Vorige', indien aanwezig|Left Selector|
-
+  
+    
 |**Rotor**|**Functie in VoiceOver**|
 |---|---|
 |Toets brailleleesregel| |
 |Ga naar vorig onderdeel met rotorinstelling|Left Nav Rocker Up|
 |Ga naar volgend onderdeel met rotorinstelling|Left Nav Rocker Down|
-
+  
+    
 |**Interactie**|**Functie in VoiceOver**|
 |---|---|
 |Toets brailleleesregel| |
 |Tik dubbel op het geselecteerde onderdeel|Router Row|
 |Selecteer onderdeel onder uw vinger|Left Mode Button of Right Mode Button|
 |De huidige locatie starten of onderbreken|Right Selector|
+  
+   
 
 |**Braille**|**Functie in VoiceOver**|
 |---|---|
