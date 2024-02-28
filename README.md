@@ -1,9 +1,14 @@
 # ict4vip (v1.0)
 
 
-# [vipDesk](vipdesk.md)
+# [vipDesk](vipdesk.md)	
 
--
+### VoicedOver
+* [voiceover braille](voiceover.md)
+
+### Basisvaardigheden
+* [navigeren in Windows](navigereninwindows.md)
+
 
 ### Schermlezers
 * [JAWS](jaws.md)
