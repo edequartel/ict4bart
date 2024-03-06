@@ -1,9 +1,10 @@
 # ict4vip (v1.0)
 
+* [aantekeningen](notes.md)
 
-# [vipDesk](vipdesk.md)	
+### [vipDesk](vipdesk.md)	
 
-### VoicedOver
+### VoiceOver
 * [voiceover braille](voiceover.md)
 
 ### Basisvaardigheden

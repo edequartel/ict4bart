@@ -42,9 +42,9 @@ On the front edge of the display are the following controls, located from left t
 |**Navigatie**|**Functie in VoiceOver**|
 |---|---|
 |Toets brailleleesregel| |
-|Ga naar vorig onderdeel|Right Nav Rocker Up|
+|Ga naar vorig onderdeel|Right Nav Rocker Up, Rechter navigatie tuimeltoets omhoog|
 |Ga naar volgend onderdeel|Right Nav Rocker Down|
-|Scrol één pagina naar links|Right Rocker Up|
+|Scrol één pagina naar links|Right Rocker Up, Rechter tuimeltoets omhoog|
 |Scrol één pagina naar rechts|Right Rocker Down|
 |Scrol één pagina omhoog|Left Rocker Up|
 |Scrol één pagina omlaag|Left Rocker Down|
