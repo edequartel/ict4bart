@@ -23,7 +23,7 @@ The refreshable **braille cells** are located toward the front of the unit. A re
 Above each braille cell is a **Cursor Router button** used for moving quickly to that location.
 ![](pictures/focus-blue-cursor-router-buttons.png)
 
-### Nav Rockers
+### Nav Rockers Navigatie Tuimel
 At each end of the display’s surface are **NAV Rockers** used for easy navigation. Positioned above each NAV Rocker is a NAV Mode button which cycles through the different navigation modes.
 ![](pictures/focus-blue-navigation-controls.png)
 
@@ -34,7 +34,7 @@ On the front edge, directly under and in the center of the display is a SPACEBAR
 For example, L CHORD or DOTS 1-2-3 CHORD, press DOTS 1-2-3 with the SPACEBAR at the same time.
 ![](pictures/focus-blue-perkins-keyboard-768x213.png)
 
-### Panning, Rocker, Selector, Shift button
+### Panning-Schuif, Rocker-Tuimel, Selector-Selectie, Shift button-knop
 On the front edge of the display are the following controls, located from left to right. The layout of these controls is slightly different depending on what model of Focus you have.
 ![](pictures/focus-40-blue-buttons-rockers.png)
 

@@ -1,4 +1,4 @@
-# Notes RG
+# Notes IB, RG
 
 ## Cursus Internet
 
@@ -10,26 +10,13 @@ start ga naar het webadres surfup
 	of https://tinyurl.com/web4bart
 
 rd-toets
-titel van de pagina: Surf's up! surfen op het internet met Jwas
+titel van de pagina: Surf's up! surfen op het internet met Jaws
 WS
 skip to navigation zInk
 hoofdgebied
 Surfen op het internet met JAWS! k1
 
 afb [afbeelding]
-
-**navigatie mode**
-- lijst mode aan/uit
-
-- focus wenken (ga langs onderdeel)
-- regels
-- zin
-- alinea's
-
-*navigatie tuimel toets*
-- 
-
-voorbeeld tekst [pijlgifkikker](pijlgifkikker.md)
 
 **JAWS helptoetsen**
 
