@@ -1,28 +1,45 @@
-# Notes DVS
+# Notes DVS/NS
 
 ## Cursus iPhone gebruik
 
-EDQ = 891D
-NS = 90C8
-DVS = 692A2
+* EDQ = 891D
+* NS = 90C8 (school) / (509) thuis
+* DVS = 692A2 (school R00496)
 
-[basisbediening ipHone](basisiphone.md)
+--
 
-[voiceover](voiceover.md)
+* [gestures ipHone](basisiphone.md)
+* [voiceOver en Braille](voiceover.md)
 
-verbinden van de iPhone
+--
+
+### 1 verbinden van de iPhone
 - instellingen > toegankelijkheid > voiceover > braille > [melding bluetooth is uit] > ja > [zoeken naar leesregel, onderaan] > kies leesregel > [melding pincode] > 0000 > koppel > melding verbonden
+
+> soms gaat het verbinden/pairen niet goed probeer het dan nof een keer
 
 1. verbinding maken
 2. schakel Bluetooth in bij starten
 
-?? Start apps met je braille-apparaat
-Wanneer het beginscherm wordt weergegeven,
-druk op Return,
-type je de naam van een app en
-druk op Return om de app te openen.
+### 2a VoiceOver knop 3x Activeringsknop
 
-**NAVIGATIE TOETSEN**
+- instellingen > toegankelijkheid > activweringsknop (onderaan) > stel in op VoiceOver
 
-3. Rechter Navigatie tuimel toets. Door apps
-4. Rechter Tuimel toets. Door pagina
+### 2b VoiceOver Ondertitelpaneel
+
+- instellingen > toegankelijkheid > voiceOver > ondertitelpaneel aanzetten
+
+### 3 Navigeren toetsen
+
+| Actie | leesregel | gestures |
+|---|---|---|
+| Apps |Rechter Navigatie Tuimel toets| 1 vinger |
+| Pagina's |Recher Tuimel toets| 1 vinger omhoog/omlaag|
+
+3. Rechter Navigatie tuimel toets. Door apps (beweeg een vinger)
+4. Rechter Tuimel toets. Door pagina (swipe drie vinger)
+
+## Notities gebruik/Eric
+
+- voiceOver 3keer zijknop
+- onderaan wat er op de leesregel staat

@@ -2,7 +2,7 @@
 * [apple voice over](https://support.apple.com/en-gb/guide/iphone/iph3e2e2281/ios)
 
 
-- drie vingers - 1 tik - sporaak/aan en uit
+- drie vingers - 1 tik - spraak/aan en uit
 
 <!--
 ![focus 40](pictures/focus40.jpg)

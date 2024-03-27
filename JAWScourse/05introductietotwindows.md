@@ -1,0 +1,370 @@
+Introduction to Microsoft Windows    
+
+Introduction to Microsoft Windows
+=================================
+
+Microsoft Windows, or just Windows, for short, is a program called an operating system. An operating system is a term that means a program that manages everything on your computer. You can think of it like a managerial program. Its job is to make sure that everything on your computer, all the other programs that you have, run together, and work together to help you do the things that you need to do. Other examples of operating systems would be programs like Mac OS, Linux, or UNIX. However, what we're going to be working with is, of course, Windows. Windows is made by Microsoft, and it began to gain in its popularity back in the early 90s. We're going to be learning many different concepts in Windows. Some of the concepts will be related to working with particular programs such as Microsoft Word or Google Chrome, but many of the concepts will be just around Windows itself and how you use things like the Start menu, or switch between running applications, or close programs, and all those types of things that you'll do on a daily basis.
+
+Keep in mind that some of the things you hear in this Windows training will probably be different from what you may hear on my computer. I've got a different computer from you and, of course, different programs on my computer, and that's the case for most everyone. Every computer is different. Often, your results as you do things will be slightly different. But the overall concepts will be applicable no matter which programs or which settings that you have on your computer. Let's go ahead now and get started with Windows training.
+
+The Windows Desktop
+-------------------
+
+We're going to talk now about some of the different parts of the main Windows screen. There are several different pieces that make up the main Windows screen, so when you turn the computer on, and you log into Windows there are several things here. The primary part or area of the Windows screen is the desktop. You can think of the desktop as being kind of like a blank canvas, initially. It's an area where there are different icons, and you can move around to those icons and start different programs. Each time you start a program or open a window, that program or window will open on top of the desktop. The desktop will always be there, but it may just be in the background. You can't actually close the desktop. When you open a program even if it's taking up the whole screen and you can't visually see the desktop, it will always be there. It's just in the background just like a blank canvas. There can be different icons on the desktop, and we'll look at that here in just a moment.
+
+What I'm going to do now is go ahead and move the cursor to the desktop, and then we'll start exploring some of the different areas of the screen. I'm going to press **WINDOWS KEY+D**, as in desktop, and that's a command that will move the cursor straight to the desktop.
+
+JAWS, Windows+D, desktop, Folder view, List view, Recycle bin, One of fourteen.
+
+Okay, now the cursor is on the desktop. JAWS said it's on item one of fourteen, and the icon that it's currently on is called the Recycle Bin. We'll look at how to move around the desktop here in just a moment. But I want to explain first that the desktop is the main area of the screen. It takes up almost the entire height and width of your computer screen. But at the very bottom of the screen is a horizontal strip where you have several other pieces of information or several other different types of controls. You've got the Start button, a Search edit box, a Taskbar, a System Tray, and a clock. Those are different things that go across this horizontal strip at the very bottom of the screen. You can get there very simply by pressing the **TAB** key. I'm going to go ahead and press **TAB**, and that will move the cursor from the desktop down to that bottom area and you can find out what's there as well.
+
+JAWS, Tab, Start button.
+
+JAWS announced that focus is on the Start button. I'll press **TAB** again.
+
+There's the Search Edit box. Cortana. Task View.
+
+JAWS, Tab, Taskbar, Google Chrome button.
+
+There's an area that JAWS identified as the Taskbar.
+
+There's another section. This is down kind of towards the lower right of the screen. This is an area called the System Tray which we'll be talking about later.
+
+JAWS, Tab, Show desktop button, Tab, desktop, Folder view list view, Recycle Bin, One of fourteen.
+
+Now focus has moved back to the desktop. If I press **TAB** again, focus moves back to the Start button, etc., and then focus ends up back around at the desktop. Let's talk about the desktop in a little bit more detail now. The desktop, as I mentioned, is a canvas, so to speak, or an area where there are different icons, and you can launch programs based on what icons are available. The icons are typically displayed in rows and columns, and how they are displayed will, of course, depend on how your computer is set up. You might have two or three icons. You might have twenty or thirty icons. There can be a lot of blank space, or the entire screen could be filled with these different icons. It all just depends on how you choose to set up your computer. Now, earlier JAWS told me that I had fourteen icons here on the desktop, and it's hard to know until I start exploring them how they are arranged. They could be in two columns or they could be in three columns. I don't really know until I start exploring what's available here. I can explore the desktop by using the arrow keys. Using **UP**, **DOWN**, **LEFT**, and **RIGHT ARROWS** moves the cursor around the different icons on the desktop. For example, I'm going to press the **DOWN ARROW** key, and let's see what's below the cursor.
+
+JAWS, Adobe Creative Cloud checked.
+
+There's an icon called Adobe Creative Cloud. That's for working with the Adobe Creative Suite of apps. I'll press **DOWN ARROW** again.
+
+JAWS, Dragon checked.
+
+There's an icon on my desktop for launching Dragon Naturally Speaking, a dictation app.
+
+JAWS, FS Reader.
+
+FS Reader.
+
+Let's see if there's anything to the right of the cursor. Let's see if there's another column over there. I'll press the **RIGHT ARROW** key.
+
+JAWS, Word.
+
+JAWS says focus is on the icon for Microsoft Word. Let's see if there's anything else to the right. Nope. Nothing else, because as I'm pressing the **RIGHT ARROW** JAWS is just silent. I know there's no other icons to the right, so I'll press **UP ARROW** to explore what is above this icon.
+
+JAWS, Notepad checked.
+
+Now, if I wanted to verify this is still the second column, or the far-right column on my computer, I'll press the **RIGHT ARROW** key. JAWS is silent, so I know there's nothing else to the right. Now I'll try **UP ARROW** again.
+
+JAWS, Format Factory checked.
+
+I'll press **UP ARROW** once more.
+
+JAWS, Excel checked.
+
+And again. Nothing happened. Nothing was spoken. That tells me that focus is at the top of the second column on my computer's desktop. I'll press **RIGHT ARROW**. Nothing. OK, well, I'll press **LEFT ARROW** then to see what's there.
+
+JAWS, Recycle Bin.
+
+Aha! OK, focus is now back where it started off, on the Recycle Bin on my desktop. Now, don't worry about hearing different icons for apps on your computer. The main thing I want to show you is that you can use the arrow keys to explore the rows and columns on your desktop.
+
+Let me move focus back to Excel for a moment. I'll press **RIGHT ARROW**.
+
+JAWS, Excel.
+
+Now focus is on the shortcut for Microsoft Excel, and let's say that I would like to open this app. The way that I would do that is by pressing the **ENTER** key, and that will activate this icon. I'm going to do that now.
+
+JAWS, Enter, Folder View list view, Excel checked, Opening - Excel, Blank workbook, 1 of 1, Sheet1, blank, A 1.
+
+Microsoft Excel opens. JAWS spoke a message telling me that. I can verify that focus is in Microsoft Excel by pressing **INSERT+T** to read the title of the current window.
+
+JAWS, Title is Excel, backstage view.
+
+And JAWS confirmed to me that focus is in the Microsoft Excel window. If I would like to close Microsoft Excel now, which I'm going to do, I will press the command **ALT+F4**, and that will close Microsoft Excel.
+
+JAWS, ALT+F4.
+
+Now, when I pressed **ALT+F4** JAWS didn't say anything. I'm going to go ahead and press **WINDOWS Key+D** again to move focus back to the desktop.
+
+Now focus is back on the desktop. Focus is back on the icon that I was on just a moment ago for Microsoft Excel. Let's look at another way to move around the desktop. We used the arrow keys so far. But what if you know exactly which icon you want to get to? And if you know the name of the icon, or at least the first letter of the name of the icon, you can use a technique called First Letter Navigation. This is a technique you can use in a lot of different situations when the cursor needs to move around a list of different items. If you know the first letter of the one you are looking for then you can simply press it, and the cursor will move straight to that item. For example, let's say that I want to go to the shortcut for Word. I'm going to press the letter **W** now.
+
+JAWS, W, Word.
+
+And JAWS moved the cursor right to the shortcut for Word, so now I could press **ENTER**, and Word would start. I'll press **W** again. Let's see if there's any others that start with the letter **W** on my desktop.
+
+JAWS, W, WordPad.
+
+OK. There's WordPad. I'll press **W** again.
+
+JAWS, W, Word.
+
+There's Word again.
+
+Now, focus is back around to Word, so continuing to press **W** will just cycle the cursor between the different icons that start with the letter W. When I hear the one I want, I could press **ENTER** on it. That can be a quick way to find a shortcut on the desktop that you're looking for, as long as you know what letter it starts with. Just press the letter. The cursor will move to the different icons that start with that letter, and then press **ENTER** on the one that you'd like to open.
+
+The Windows Start Menu
+----------------------
+
+We're now going to spend some time and learn how to use the Start menu in Windows. The Start menu may be familiar to some of you because it's been a part of Windows for quite some time. There are two basic ways to access information from the Start menu. You can use the arrow keys to navigate around the different items. There are submenus, and then there are different columns of information in the Start menu, or you can use the search box and type in phrases or words and windows will bring up search results based on what you typed in. We're going to learn how to use the Start menu in both ways. Let's start by using the arrow keys to access the items in the Start menu. I'm first going to press the **WINDOWS Key**, which is the keystroke to open the Start menu.
+
+JAWS, Search box edit.
+
+The Start menu opened, and focus is in the search edit box. We'll come back to this later when you learn to use the search feature of the Start menu. The basic layout here of the Start menu is that there are several columns of information. You will have different items in these columns, depending on what programs are installed on your computer, and depending on other settings that you may have in place. As you use the Start menu, it's very likely that you will have many items that are different from what you will hear on my computer, because you probably have different programs installed than I do. But the basic ideas are the same. The first thing that I'm going to do is press the **TAB** key to move to the first column on the left.
+
+JAWS, Start list box, toggle Start navigation menu items, collapsed, 1 of 6.
+
+And I heard JAWS say, Start navigation menu, and there are six items in the left-hand column for me in the Start menu. The one that focus has landed on right now is the Start list box toggle for apps. This toggle button opens or closes the second column to the right where the apps are listed. The second column is open by default, and I'll leave it that way. But press **DOWN ARROW** to explore the other items in this column for now.
+
+JAWS, User account for dclark, Documents, Pictures, Settings, Power.
+
+These are just shortcuts to your Documents and Pictures folders, as well as the Power button to shut down the computer or put it to sleep. This is just one more way to get to these, and you'll probably find easier ways to access them than here in this first column of the Start menu. But here they are if you need them later. You can press the **SPACEBAR** to get a menu of choices for the Power button and pressing **SPACEBAR** on the other items takes you to some of your more commonly used folders and Windows settings.
+
+You can navigate up or down this column using the **ARROW Keys**, but for now, press **TAB** to move to the second column.
+
+JAWS, All apps checked, All apps list box, #.
+
+This is the second column in the Start menu, and it contains an alphabetical list of apps available on your computer. You can press **DOWN ARROW** to move through the items here. First letter navigation works here, but only to move focus to the beginning of the apps that start with that letter, so it can take a while to scroll through the different apps you have here. I'm going to press **DOWN ARROW** a few times.
+
+JAWS, 3D Viewer, A.
+
+The first item, 3D Viewer, started with a number, and then I hear the letter A spoken. This is the beginning of the apps that start with the letter A on my computer. I'll continue to press **DOWN ARROW**.
+
+JAWS, Access, Acrobat Reader DC, Adobe Acrobat DC.
+
+I'll stop there. Feel free to pause the lesson here and look at the different apps on your computer. But before you do, let me show you one more trick here. Press **HOME** to move to the top of this column. Focus returns to the hashtag at the top of the apps list. Press **SPACEBAR** on the hashtag.
+
+JAWS, All apps list box, #, Zoomed-out All apps list box.
+
+Now the list is collapsed, showing only the letters of the alphabet for the apps where there are any, and not showing the letters for apps where there are none. For example, on my computer I have apps under letter A and letter C, but not any that begin with the letter B, so that letter is not seen in the collapsed list. This is a grid with rows and columns, and using the **RIGHT ARROW** seems to be the best way to move forward while keeping things in order. Use **LEFT ARROW** to move backward. You can also use **UP** or **DOWN ARROW** to move more quickly through the letters that are available to you. But it is a little faster to move to something farther down the alphabet than having to just use the down arrow key in the main apps list view. If you want to expand a selection, say for example I want to expand the letter C to find the Calculator, just press **ENTER** or **SPACEBAR** on the letter, and then just press **DOWN ARROW** to continue. I'll demonstrate that now. There's the letter **C**, and I will press **SPACEBAR** now. Calculator is the first thing in the list, and if I wanted to open it, I could just press **ENTER**. I'll do that now. Calculator has opened. Let's close it by pressing **ALT+F4** for now. If the apps list is collapsed, you can also press **HOME** to go back to the top of the collapsed apps list, and then press **ENTER** on the hashtag again to uncollapse all the apps again.
+
+When Calculator closed, I didn't hear where focus went on the computer, so I will press **INSERT+T** to read the title of the current window.
+
+The next thing I'd like to show you in the Start menu is the third column. I'll press the **WINDOWS Key** to open the Start menu once more. Press **TAB** three times to move there. JAWS identifies this as the pinned tiles list box. At first glance, you might think this may not be something that you want or need to use but let me tell you how these really come in handy. It's when you are running with a tablet using touch screen navigation, or with a portable computer such as a laptop that can switch to tablet mode. In tablet mode, the start menu is different, and most people simply tap the tiles here in the pinned tiles list to start their favorite apps. So, you may want to consider adding tiles for your favorite apps to this part of the Start screen if you ever do switch to tablet and/or touch mode.
+
+You can select an app in the second column of the Start menu, and then press the **APPLICATIONS Key**, or **SHIFT+F10** if your computer does not have an applications key, to get a context menu of choices for the app. One of the choices in the context menu is Pin to Start, which will put a tile for the app in the third column, where they can easily be accessed when in tablet mode. You can rearrange tiles in the third column, unpin them, resize them, and more. The pinning of tiles here in the third column of the Start menu goes beyond the JAWS Basic Training at this point, but I wanted you to be aware of what this part of the Start menu is and how it works.
+
+Now, let's look at how to use the search feature of the Start menu. This is a very efficient way to find things if you know what it is that you're looking for and it is the one I personally use the most. The Start menu is open and the cursor is in the search edit box. The way this works is that if I start typing in text, Windows will automatically start searching based on what I'm typing, and I'll hear JAWS read me the first result that Windows is showing me. Let's say I want to find the Notepad program. I'm going to start typing out the word Notepad. I'll type the N and the O.
+
+JAWS, N.O. Notepad.
+
+And after I typed the letter **O**, I heard JAWS say, Notepad. The Windows search has brought up Notepad as the first item it found, and if this is the one that I want, all I need to do is press **ENTER** right now. But first, let's look at a few items here before we do that. In the left column, where focus currently is, the app that most closely matches the search is selected at the top of the list. Below that may appear some apps that Windows may think are either related or similar, as well as shortcuts to some common settings for that app, search results related to what you typed, and more. I heard JAWS announce Press right to switch preview when the start menu first opened. Press **RIGHT ARROW** now. JAWS announces Expand, reveals actions list above button, collapsed. This button is collapsed, and when expanded shows some actions above this button that are available for the app. I'm going to leave it collapsed and press **DOWN ARROW** again to move into this list, which is a list of recently used files for the app. You can scroll up or down the list and press **ENTER** to open one of the files in the list directly. For now, just press **LEFT ARROW** to switch back to the first column. Notepad should still be selected at the top of the list, but if you are not positive, press **UP** or **DOWN ARROW** to find it. Press **ENTER** to launch Notepad. OK, we won't do anything in Notepad at the moment, but I just wanted to show you how easy and quick it is to launch apps right from the search edit box in the Start menu.
+
+I'll press **ALT+F4** to close Notepad.
+
+Now, Notepad is closed. Well, let's try this again. I'll press the **WINDOWS Key** to reopen the Start menu.
+
+JAWS, Menu, Search box edit.
+
+Now, this time I'm going to look for something different. I'm going to look for the WordPad program. Every computer should have WordPad. This is different from Microsoft Word. I'm going to start typing out word, W O R D. I'll just type the first two letters. Now, when I typed the O. I heard JAWS say, Word. This was the first item that Windows found in its search results for W O. This is not the one that I want, though. But if I simply scroll down with the **DOWN ARROW** key, I'll find other things that Windows has brought up in the search for me. I'll press **DOWN ARROW** now. And there's WordPad right there. If I press **ENTER** on it, WordPad will open. I could continue to press the **DOWN ARROW** key, but I'm not going to do that now. If you press **ENTER** on any of these items such as Documents on this PC or Settings on this PC related to the app, then the appropriate dialog box or settings page where that setting is located will open. This makes it very easy to find certain types of settings or options in Windows.
+
+I'll press **ENTER** and WordPad will open. OK, and now the WordPad program is open. I'll press **ALT+F4** to close it.
+
+Let's try one more. Let's look for the Volume Control item. I'm going to open the Start menu, and then I'm going to start typing out the word VOLUME.
+
+JAWS, Adjust volume.
+
+There it is, and it's called Adjust Volume. Pressing **ENTER** on this would open the Windows volume control. I could keep exploring, though, by scrolling down. And I can continue to scroll down, but I'm going to go back up to the item about adjust volume. There it is. I will press **ENTER** to open it. And now the Audio settings page has opened. There is a device volume slider bar just above where the focus is. I will press **SHIFT+TAB** to move backwards to find it. You know from our prior lessons how to change the settings for a slider bar, but just a quick review of the keystrokes may be helpful. Using the **ARROW Keys** moves the slider bar in smaller increments and using **PGUP** or **PGDN** moves the slider in larger chunks. Pressing **HOME** or **END** moves to the beginning or end of the slider bar. If you want to adjust the volume now, go right ahead. For me, however, I'm going to press **ALT+F4** to close the Audio settings page.
+
+Let's recap what you've learned about using the Windows search feature. Pressing the **WINDOWS Key** opens the Start menu. The cursor is in the search edit box in the Start menu. As you start typing out a word, Windows starts doing searches based on what you've typed out. JAWS will automatically try and read the first item, but if you miss it, or if you type too quickly and miss what is spoken, you can always press **INSERT+UP ARROW** to repeat that item. You can scroll down and find the other search results that Windows has found based on what you typed. This is a very quick and efficient way to find an app if you know the program you're looking for. For example, if you want to open Google Chrome, you can do that very quickly. Just start typing C H R O M E. All you need to do is press the **WINDOWS Key**, type in the first letter or two of the app you are looking for, and then press **ENTER**, and it opens. This is much quicker than using the Start menu list of apps and scrolling to the different items.
+
+Switching Programs in Windows
+-----------------------------
+
+Now it is time to learn how to switch between different programs that are running. So far, what you have done with the computer is you have opened different programs like Notepad or WordPad, but you have not left them open. You have opened them, and then you have closed them immediately. Or you have gone to the JAWS window and looked at some of the different menus and dialog boxes. But you also can open many different programs at one time and then switch between them. Let us look at how to do that. In order to do that though, you need to get several programs running. Everyone should have JAWS running at least, but you may not have any other programs running. Let us go ahead and open Notepad and WordPad also, because I know everyone will have those on their computer. In order to do that I'm going to first press the **WINDOWS Key** to open the Start menu. And now I'm going to open Notepad first. I'm going to start typing note, N O T E. JAWS alerted me that the Notepad app is the first one in the search result. That's the one I'm looking for, so I'll press **ENTER**.
+
+And now Notepad is open. Let's open WordPad as well. I'll press the **WINDOWS Key** to go back to the Start menu. I will begin by typing W O R D. Now for me, it suggests Microsoft Word. That's not what I want, so I'll continue typing the letter **P** in WordPad. If you don't have Word on your computer then you might already have heard WordPad, and you can just press **ENTER** to launch it. There's the WordPad app, and I'll press **ENTER** to start it now.
+
+Now WordPad is open as well. I should have three programs running at this point: JAWS, Notepad, and WordPad. And I can press **INSERT+T** to find out which one is in focus now. I know that focus is in WordPad right now, but Notepad and JAWS are running as well, and they're running behind the scenes. If I want to switch between the different running programs, I'm going to use the keyboard command **ALT+TAB** for task switching in Windows. What this command does is allow you to use the keyboard to switch between the different programs that are running. Now, someone visually using the computer with a mouse would typically click on the running apps in the bottom of the screen called the Taskbar. What we talked about in Windows is that there is a horizontal strip along the bottom of the screen that has the System tray and the clock, but it also has an area called the Taskbar, and this is where the different icons are displayed for the programs that are running. Right now, on the Taskbar I should definitely have JAWS, Notepad, and WordPad there. If I were using a mouse, I would click on whichever one I wanted to bring up into the front. Since I'm using the keyboard, though, I'm going to use **ALT** and the **TAB** key. I'm going to press it one time. I'm going to hold down the **ALT** key, and then while still holding down the **ALT** key, I will press the **TAB** key, and then I will release both keys at the same time.
+
+And now focus shifted over to Notepad, so WordPad went behind the scenes. WordPad went into the background and Notepad came out to the front. I'll press **ALT+TAB** again. I'll hold down the **ALT** key, and I'll press the **TAB** key once, and then I'll release them. There's WordPad again, so Windows just switched focus back to WordPad. I'll press **ALT+TAB** again.
+
+There's Notepad. Now, I know that JAWS is running as well, and there should be a window for JAWS. But why didn't I get to it? Well, pressing **ALT+TAB** once and letting go like that keeps cycling focus between the last two programs Windows finds in the task switching window. In my case, it's just switching me back and forth between WordPad and Notepad. But there could be other programs running too. In order to find them I need to hold down the **ALT** key, and then continue to press **TAB** while I continue to hold down the **ALT** key. What I'm going to do is I'm going to take my thumb and hold down the **ALT** key. I'm using my left hand to do this but, you could use your right hand to hold down the **ALT** key as well. I'm going to press and hold the **ALT** key. And as I'm holding it, I'm going to press **TAB** once. But then I'm going to let go of **TAB**, and I'm not going to let go of the **ALT** key.
+
+I'm still holding the **ALT** key, but I just pressed **TAB** once. JAWS said that I moved over to WordPad. Continuing to hold the **ALT** key, I'll press **TAB** again. Aha! There's the JAWS window. I didn't find that earlier. Now, I'm still holding the **ALT** key down. I'll press **TAB** again. There's Notepad again. I'll keep pressing **TAB** while holding down the **ALT** key. As long as I'm holding the **ALT** key down, each time I press **TAB**, Windows is cycling focus between the different open windows. And as soon as you get to one that you want to switch to, just let go of the **ALT** key. I'm going to press **TAB** once more while I'm holding down the **ALT** key down. This puts focus back in WordPad. If this is the program that I want to switch to the front, now I'll let go of the **ALT** key. And now WordPad has become the active program on the computer. I can always press **INSERT+T** to read the title of the currently active window, and I'll do that now.
+
+I'm going to try this again, and this time I'm going to switch to the JAWS window. I'm going to first hold down the **ALT** key. I'm holding it down now, and I'll press the **TAB** key. I will keep the **ALT** key pressed and I'll keep pressing **TAB** until I hear it say JAWS. Now, it said JAWS. That's the one I want to switch to. I'll let go of the **ALT** key now. And now focus is in the JAWS window. Well, let's try it again, and see if you can get back to Notepad. I'll hold down the **ALT** key and while holding the **ALT** key pressed, I'll repeatedly press **TAB** until I hear JAWS announce Notepad. There's Notepad. Now, I will let go of the **ALT** key. And now focus has switched over to Notepad. This is the easy way to switch between programs that are running. Just hold down the **ALT** key, continue to press the **TAB** key while you're holding down the **ALT** key, and once you hear the program that you want to switch to, then let go of the keys and focus switches to that particular program.
+
+To recap, pressing **ALT+TAB** one time by itself will just switch focus to one other window, and then I could press and release it again to switch back to the window that I just left. That's only going to let you cycle between two different windows. This is great for copying and pasting information between two currently running apps, and that is why it's designed that way. When you want to switch between more than two running apps, then you need to hold down the **ALT** key and press **TAB** until you hear the one you want, and then let go of both keys.
+
+Closing Programs in Windows
+---------------------------
+
+What is the difference between pressing **ALT+F4** or **ESC** when it comes to closing a program or a menu? Well, let's talk about it. The short answer is that **ALT+F4** is what you will press when you are ready to exit or close an entire program. Let's say you're using Microsoft Word or Mozilla Firefox and you want to close the entire program. Just press **ALT+F4**, and the whole program will close. On the other hand, the **ESC** key is used when you just want to close a menu or a dialog box. You don't want to close the entire program, but you do want to close the menu or the dialog box that's inside the program. One way that I like to think about it is let's take a house, for example. When you're inside of a house, you're moving around in different rooms of the house. Pressing **ESC** is like closing or leaving a certain room of the house, but you're not actually leaving the entire house. Whereas with **ALT+F4** it is as if you're leaving the entire house.
+
+Let's demonstrate this. I'm going to open Notepad. I'm going to press the **Windows Key** to go to the Start menu search edit box. I'm going to start typing in Notepad. I pressed **ENTER** on Notepad, and now Notepad is running. Press **INSERT+T** to verify that. Okay. If I wanted to completely close out Notepad, I would press **ALT+F4**, but let's say that I've got a dialog box open, for example. I'm going to type the word, hello, just so I will have some text here. And let's pretend that I want to save this, and we'll be talking a lot more about saving and editing text later on. But I'm going to go ahead and open the File menu. I'm going to press **ALT** and the letter **F** to go to the File menu. And I'm going to scroll down to Save. I'll press **ENTER** on Save. Now the Save As dialog box has come up where I would give the file a name. But let's say I have changed my mind. I don't want to save this right now. I can press the **ESC** key, and that will close the Save As dialog box, but it will not close completely out of Notepad. I'll press **ESC** now. Focus is back in the main Notepad window. The Save As dialog box is gone, but Notepad is still running. I would press **ESC**, for example, if I wanted to close a menu in Notepad that I had opened. If focus is in a dialog box and I don't want to save any changes, I would press **ESC** there as well. However, if I'm finished with Notepad itself, pressing **ALT+F4** will close the whole program. I'll press that now. Now, a dialog box has popped up, and it said, Do you want to save changes? That's because I typed some text there. When I pressed **ALT+F4** it's asking me if I want to save these changes. I'm going to press **TAB** and activate the Don't Save button. And Notepad is gone.
+
+So, to recap **ALT+F4** is what you'll press when you're ready to close an entire program. The **ESC** key is what you'll press when you're just wanting to close a menu or a dialog box but not necessarily the entire program.
+
+Windows Shut Down Options
+-------------------------
+
+There are several different options when it comes to shutting down your computer. We will look at some of those options and learn two ways to get to them. The easiest way to find the shut down options in Windows is by going to the Start menu, and we briefly looked at this in an earlier lesson. I'm going to press the **WINDOWS Key** to open the Start menu now. Press **TAB** once to move to the top of the first column. JAWS reads it as Toggle Start Navigation Menu Items. Press **DOWN ARROW** to move to Power, and then press **SPACEBAR** to activate it. You find the following choices, Sleep, Shut down, and Restart. When Sleep is activated the PC stays on but uses low power. Apps stay open so when the PC wakes up, you're instantly back to where you were. The other two choices are pretty obvious, I think. I will press **ESC** to get out of the menus.
+
+Another way to quickly access the shut down options is by pressing **ALT+F4** from the Windows desktop. Let us do that now. I will press **WINDOWS Key+D** to move to the desktop. Press **ALT+F4** now. The Shut Down dialog box has now opened, and it has some slightly different options. You can use the **UP** and **DOWN ARROW** keys to move through the items. They include Switch User, Sign Out, Sleep, Shut Down, and Restart. When you find the one that you want, simply press **ENTER** to activate it.
+
+The one that appears in the list is Shut Down, which is the fourth item of five in the list. I'll press **DOWN ARROW** to look at the fifth item first. It's Restart. That is pretty self-explanatory. I will press **UP ARROW** to move up the list past Shut Down to see what else is there. OK, I heard Sleep. We discussed that one earlier. It's a low power use setting that saves power but starts up again quickly, bringing you back to where you left off. Sign Out is next. This closes all apps and signs you out. This is useful if you have different users on the same computer, or if you have different user profiles, perhaps, on the computer. The first one in the list is Switch User, which allows you to switch users without closing apps.
+
+Alternatively, you may also press **TAB** to move to the Okay button, or to the Cancel button if you decide you don't want to shut down. You can also press **ESC** like I'm going to do because I'm not ready to shut the computer down right now.
+
+To recap, those are two quick ways to get to the Shut Down and Restart options in Windows.
+
+Accessing the Windows System Tray
+---------------------------------
+
+The System Tray is an area of the screen down in the lower right corner along that horizontal bar that's at the bottom of the screen. The System Tray typically contains different icons related to programs that are running at the time or different settings that you might be able to change. It really depends on what software is installed on your computer and what things are running. That will make up what items are in the System Tray. For example, one of the things you will most always find in the System Tray is a Speakers icon. That will show what the current volume of your computer is and let you change the volume. Many people who are using laptop or tablet style computers will also have a Battery Level icon and sometimes different icons related to Bluetooth or wireless networks or other things like that. But it all depends on what things are installed on your computer and what is actually running at any given time. In order to find out some of the items in the System Tray, there's a JAWS command that you can use that will take the items that are visible on the screen in the System Tray and put them in a vertical list that you can navigate with the arrow keys to move through. Let's look at how to open that. We'll talk about what that dialog box has in it, and then we'll look at a couple of settings related to the System Tray as well. To open the JAWS list of System Tray items, you need to press **INSERT+F11**, and I will do that now.
+
+JAWS, Select a System Tray icon dialog, Select a System Tray icon list box, Camtasia Recorder, 1 of 16.
+
+The dialog box opened, and JAWS identified that focus is on the first of sixteen items. This first item is for Camtasia Recorder, and again what's going to be in this list will be different for each of us. Don't worry if you have something different here in the first item than I do. Most likely you will. And you may have different numbers of items. For example, I have sixteen. You could have two or three or seven or eight or ten, just depending on how your computer is set up. This list is showing the items or the icons that are currently visible in the System Tray, and you can use the **UP** and **DOWN ARROW** keys to move through them. I'm going to press the **DOWN ARROW** key now to explore some of the items in the list of system tray items on my computer.
+
+Some of the different icons in the System Tray on my computer include NVIDIA Settings, GeForce MX150, Dropbox, Bluetooth Devices, Windows Security, Intel, McAfee, MySpectrum Wi-Fi, Speakers/headphones, Clock, etc. You can scroll up and down this list. These are the icons that are currently visible in the System Tray. There are several other things in this dialog box. I'm going to press the **TAB** key now to explore them.
+
+JAWS, TAB, Right Single Click button.
+
+Focus has moved to a button called the Right Single Click button. Pressing **SPACEBAR** on this button would cause the same action as if I were to take the mouse pointer and put it over the top of the icon in the System Tray, and then press the right mouse button on the mouse. Typically, what people do to work with these icons in the System Tray visually, is put the mouse pointer over top of them and either left click with the left mouse button or right click with the right mouse button. In this dialog box, I'm going to have several buttons that will let me mimic those behaviors with JAWS, since you may not be able to see the mouse to move the pointer down there. Pressing **SPACEBAR** on this button is just like right clicking one time on an icon in the System Tray. I'm going to press the **TAB** key.
+
+JAWS, TAB, Left Single Click button.
+
+There's the Left Single Click button. If I activate this, it would be just like I moved the mouse pointer down to that icon in the System Tray and pressed the left mouse button once. I'll press **TAB** now.
+
+JAWS, TAB, Left double click button.
+
+There's the Left Double Click button. Activating it would double click the current icon with the left mouse button.
+
+JAWS, TAB. Cancel button.
+
+There's the Cancel button. you know what that would do.
+
+I'll stop JAWS there. Now focus is back in the list of the different items in the System Tray. Once you find an item that you are interested in activating, you need to decide if a right click, left click, or a left double click is needed for the item. In most cases, a right click is going to open a context menu, and the left click, either the left single click or left double click, will often open a default action based on that icon. And again, it depends on what the icon is set to do. For example, since most of you have a Speakers icon in the System Tray, we'll use this one as an example. When you're on the item in the JAWS Select a System Tray Icon list, pressing the **ENTER** key on the item is identical to pressing or activating the right mouse click button. The Right Single Click button in this dialog box is the default button, which means that you don't have to leave the list to activate it. Just press **ENTER** on the item you want, and it will perform the default button, which is the Right Single Click button in this dialog box. However, if you do want to do a left single click or left double click action then you will need to press **TAB** to move to one of those buttons.
+
+Let's see how that works. I'll press **S** to move to the Speakers/Headphones item in the Select a System Tray Icon list. Focus is on the Speakers item in the list. I will press the **ENTER** key now, which is going to be just the same as if I were to **TAB** over and activate the right mouse button.
+
+JAWS, Enter, Context Menu, Open Sound Settings.
+
+And now a menu has opened, and the first item that focus moved to is Open Sound Settings. I'll press **DOWN ARROW** to explore the other items here.
+
+JAWS, Open Volume Mixer.
+
+This one is called Open Volume Mixer. There's one below that for Spatial sound and also one farther down for Troubleshooting sound problems. As you scroll through this menu, you could press **ENTER** to activate any one of these options in the menu. And, of course, a dialog box or something will happen based on what you choose in this menu. Pressing **ENTER** on the Volume icon in the System Tray activated this Context menu, and now I can scroll through the different items. I'm going to press **ESC** to close this menu. And let's try out one of the other buttons for the Speakers/Headphones item in the System Tray.
+
+I pressed **ESC**, and now I'm going to reactivate the System Tray list. I'm going to press **INSERT+F11** again. Now, focus is back in the list of System Tray items, and I'm going to press **S** to move back down to the Speakers/Headphones item. And of course, if I press **ENTER**, focus will move back to the same place it was a minute ago. A context menu would open. This time, though, I'm going to press **TAB** two times. And focus has moved over to the Left Single Click button. Activating this button with the **SPACEBAR** would do the same thing as using the mouse to left click this item. What that's going to do is open the Speakers/Headphones slider bar control. I'm going to press **SPACEBAR** to activate this button.
+
+The left/right slider for the volume opens. Now, I can use the different commands to work with a slider, so either **PGUP** or **PGDN** to move in larger chunks, or the **LEFT** and **RIGHT ARROW** keys to move the slider in smaller increments. For now, I'll press **ESC** to close this Volume Mixer slider bar.
+
+Let's look at one more example using the Speakers/Headphones icon in the System Tray. Press **INSERT+F11** once more to open the Select a System Tray Icon dialog box in JAWS. Next, press **S** to locate Speakers/Headphones in the list. Press **TAB** once to move to the Right Single Click button, and then activate it by pressing the **SPACEBAR** now. A context menu opens with focus on Open Sound Settings. Press **DOWN ARROW** to move to the second item, Open Volume mixer. Press **ENTER** to open this. A Volume Mixer, Speakers/Headphones dialog box opens. Now, this dialog box has a series of slider bars and buttons for the different devices or apps that may be using sound on your computer at any given moment. For example, there is a slider bar for the Master control, a slider bar for System Sounds, a slider bar for JAWS, etc. Press **TAB** to move through this dialog box and explore the items here, keeping in mind that they may be in different order on your computer. In fact, they may be completely different on your computer, so don't worry! The main thing I want you to notice here is that you can mute any of these items individually. You can also adjust the volume for any of these items individually. So, you might have your system sounds, such as chimes and beeps that different apps make, be somewhat lower than the volume you set for JAWS. Focus eventually wraps back around to where it started, on the Speakers/Headphones master slider control. I will press **TAB** to explore mine. Close this dialog box by pressing **ESC** when you are finished. The changes are saved automatically.
+
+The Windows Battery Status
+--------------------------
+
+The System Tray can be a great way to find out what your battery level is if you're using a laptop or tablet computer. But there's also a JAWS keystroke that you can use as long as your battery icon is visually being displayed in the System Tray. The keystroke you can press to do that is **INSERT+SHIFT+B**, as in battery. I'll press it now. JAWS read the battery status from the System Tray. It told me the percentage and it told me the estimate of how much time I have left on the battery. If the A/C is connected, it will give you that information as well. That's a quick way, if you remember that keystroke, **INSERT+SHIFT+B**, to find out what your battery status is.
+
+Changing the Volume in Windows
+------------------------------
+
+Let's talk about changing the volume on the computer. There are several different ways to do this. Of course, the easiest way probably is if you have external speakers or headphones plugged into the computer that have a volume control on them then, of course, you can use that, and that would be the easy way to do it. But for those who have speakers that do not have an external volume control, or if you're using a laptop or a tablet style computer and you're not using external speakers you're using earbuds or headphones maybe, then you need to know how to change the volume from Microsoft Windows if there's not an actual physical volume control on your computer that you can use. There are several different ways to get to the Volume Adjustment dialog box, and sometimes it depends on what type of soundcard or what type of computer you're running. But I'm going to show you two ways that should work no matter what kind of soundcard you're using or what type of computer you have.
+
+The first thing that I'm going to do to open the Volume Control item is press the Windows key to open the Start menu. And now I'm going to start typing out the word volume, V O L U M E. I typed out the first three letters V O L, and there's the one I'm looking for, adjust volume. So, make sure to find adjust volume, and then press **ENTER** to open it. This opens the Audio settings page in Windows. Initially, focus is not on the volume slider bar, so press **SHIFT+TAB** to move backwards one control and you should find it. It's called Change Device Volume. You know the keystrokes for working with sliders. Take a moment if needed to adjust the volume here. Note that this is just another way to change the master volume of the computer.
+
+Remember you can also use the Speakers/Headphones icon in the system tray to open the Sound Mixer, which allows you to not only control the master volume of the computer, but the volume of individual apps and devices as well. I will press **ALT+F4** to close the Audio Settings page.
+
+Adding the Documents Icon in Windows
+------------------------------------
+
+What I would like to do now is show you how to put an icon on your desktop to allow you to easily get to your Documents folder. The Documents folder is a place that many documents are stored as you begin to learn how to create them. Some of you may already have this icon on your desktop. It all depends on how your computer was originally set up. One way to find out is to move to the desktop and see if you can find an icon labeled Documents. I'll press **WINDOWS+D** to move to the desktop. Now, I'll press the letter **D** to see if I can find a Documents folder. There's only one item on my desktop that starts with the letter **D** for Dragon. Note that in earlier versions of Windows it was called the "My Documents" folder, so it wouldn't hurt to see if you have a folder with that name on your desktop. Try pressing the letter **M** now. I have neither on my desktop at the moment, and I'll show you how to easily add a Documents folder shortcut right on your desktop.
+
+OK, now let's press **WINDOWS Key+E** to open Windows Explorer. Press **SHIFT+TAB** to move to the tree view on the left side. Next, press **D** until you find the Documents folder. There it is. Press **SHIFT+F10** to open a context menu, and then press **N** to open the Send To submenu. Within the Send To submenu, find Desktop (create shortcut) and press **ENTER** to select it. That should do it. Let's press **WINDOWS Key+D** again to move to the desktop. I'll press the letter **D** to see if I can find it. And there it is. That's the Documents folder shortcut. I'm going to press **ENTER** on the Documents folder shortcut. The first thing in my Documents folder, as we have seen previously, is the Adobe folder. So, I know this is correct. That's all there is to it! If you frequently download files you could do the same thing and add a Downloads folder shortcut to your desktop. Just follow those same steps if you want to practice this some more. Just put focus on the Downloads folder in the tree view of File Explorer, and then choose Send to Desktop in the context menu.
+
+Now, that I have the Documents folder open, and I can scroll through and find the different files and folders that are here. We'll be talking about this more in a different lesson, but I wanted to show you quickly how to create the icon to easily find this. Once you're finished here, you can press **ALT+F4** to close this screen and continue about your work.
+
+Displaying the File Extensions in Windows
+-----------------------------------------
+
+One of the settings that you should consider changing in Windows is to ask it to show the file extensions for files as you are browsing through the different folders. File extensions are three- or four-letter combinations that indicate what type of file you are working with. For example, a Word document might have the file extension DOC or DOCX. An audio file might have the file extension of MP3 or WAV. You want Windows to show these file extensions so that as you are browsing around different folders you will know what type of files you are dealing with. In order to change this setting, go into File Explorer once again. I will press **WINDOWS Key+E** now to open File Explorer.
+
+Next, press **ALT+V** to open the View tab of the ribbon. Press **Y** to activate the Options split button, and then press **ENTER** on the first item there, Change folder and search options. The multi-page Folder Options dialog box opens with the General page open. Press **CTRL+TAB** to move to the View page. Focus is on the Apply to Folders button. I'm going to press the **TAB** key to move past the Reset Folders button and find the Advanced Settings tree view. JAWS says, Files and folders open. This is a vertical list of different configurations, and you can use the **UP** and **DOWN ARROW** keys to scroll through this list. I'm going to start pressing the **DOWN ARROW** key until I find the item in here that talks about file extensions. There are several things here that I'm going to have to pass over before I get to the item about file extensions. I'm going to press **DOWN ARROW** several times.
+
+JAWS, Hide extensions for known file types, On.
+
+There it is. And JAWS says, Hide extensions for known file types, and it says, On. That means right now Windows is set to hide file extensions for files that it understands, or files that it knows about. Why is this even important? Well, you could have two files with the same name, one a text file and one a document file in WordPad for example. If the file names are identical you might not open the right file every time you go there. You might hear, for example, a file listed twice as JAWS Keystrokes. One might be a text file and the other might be an RTF file. So, having the file extensions showing can be a real time saver. I'm going to press the **SPACEBAR** to turn this setting off.
+
+This setting is either going to be On or Off, and I just pressed the **SPACEBAR** to turn it off. Next, I'll press **TAB** to move to the Okay button. Now, I'm going to press the **SPACEBAR** to activate the Okay button. The Folder Options dialog box closes. Now, Windows is set to show file extensions. in the future as you are browsing and moving around different folders you will hear JAWS announce the file extensions. This will help you be able to understand what types of files you are working with.
+
+Connecting to Wireless Networks in Windows
+------------------------------------------
+
+Let's take a look now at how to connect to a wireless network using Windows. There are several different ways to do this, of course, but I'm going to show you a way that you can do this via the Windows Action Center. If you're already familiar with a different way, such as through the System Tray or through a program provided by your wireless card then feel free to use the way that you already know how. I'm going to press the Windows keystroke to open the Action Center. When it opens, it slides into view on the right side of the screen. There is also an Action Center button that appears in the System Tray. The good thing about knowing this method is it also works if you are using a mobile device or tablet, so you can use touch screen gestures to activate the tiles there. We will use the keyboard, of course, for now. The easiest way to open it is by pressing **WINDOWS Key+A**, and I'll press that now.
+
+JAWS, Windows A, Action Center.
+
+The Windows Action Center slides into view from the right side of the screen. It takes up perhaps one fourth of the screen and items within it are oriented vertically from top to bottom. I'll press the **TAB** key to explore the items here. Keep in mind that the items in your Action Center may be totally different, and you may not even have any notifications there. But there are going to be some things in common, such as the Network button we are looking for.
+
+I'll keep pressing **TAB** until I find the section I'm looking for. Just after the Clear all Notifications button I heard Tablet Mode button, not checked. When you get to this part of the Action Center, press the **RIGHT ARROW** key.
+
+JAWS, Network button.
+
+There it is. I'll press **SPACEBAR** to activate it. The Actions Center changes to show available networks. I heard that my computer is connected to My Spectrum Wi-Fi, it is secured, and has a signal strength of four out of four bars. Excellent! You can press the **DOWN ARROW** key to move through and find the different wireless networks that your computer sees. While focus is on the one that is connected, you may press the **TAB** key to see what's there. I'll press **TAB** first.
+
+JAWS, Properties link, Disconnect button.
+
+If you wanted to go into more detail to find out or troubleshoot, you might choose the Properties link. Or if you wanted to disconnect from the current network and reconnect to another one, you can, of course, use the Disconnect button. I'll press **DOWN ARROW** to see what other networks are here.
+
+Now, you may also find other networks here such as Virtual Private Networks, or things that may have been set up by a network administrator if you're on a corporate or work type of network. I'll stop JAWS there. As you move through the different wireless networks, you'll hear the name of the network followed by the signal strength and then you'll hear whether or not the network is secured. There are several pieces of information that JAWS will read you about the network.
+
+JAWS is silent, so I know focus is at the bottom of this list of networks. Again, to connect to one of these if I wasn't already connected to it, I would press the **ENTER** key, and a Connect button would appear. Once I press **SPACEBAR** on the Connect button, if the network is unsecure then the computer will go ahead and connect. However, if it requires a security key or password, then a dialog box will appear, and you will need to type in the password or security key. Then, just press **ENTER**, and you will connect to the network.
+
+For now, I'm going to press **ESC** to close the Windows Action Center. We'll take another look at the Action Center in the next lesson.
+
+The Windows Action Center
+-------------------------
+
+The Windows Action Center is a place where notifications from apps and the operating system appear. Notifications initially show up as a kind of toaster pop out that slides out from the lower right side of the screen. These messages appear for a few seconds and then the toaster pop out slides back out of view. You may typically hear a Windows chime or sound as well when these toaster pop outs appear. If you miss the notification you can always open the Action Center and review them, clear them, or take other appropriate actions as needed. Let's take a look at this together. I'll press **WINDOWS Key+A** to open the Windows Action Center on my computer.
+
+The Windows Action Center slides into view from the right side of the screen. It takes up perhaps one fourth of the screen and items within it are oriented vertically from top to bottom. I'll press the **TAB** key to explore the items here. Keep in mind that the items in your Action Center may be totally different, and you may not even have any notifications there. But there are going to be some things in common, as you will see.
+
+The first thing I heard is that there is a notification from Dropbox. Then I hear there is a clear all notifications from Dropbox button, but keep pressing **TAB** for now to explore. There may be others here as well, such as one from Windows Security letting you know your virus and threat protection is up to date, for example. Continue pressing **TAB** until focus wraps back to the top.
+
+Press the **DOWN ARROW** key to explore the items now. Just after I hear the announcement of the notification from Dropbox, the next time I press **DOWN ARROW** focus moves into the actual notification, where I have more choices. When you hear a message like that, in my case, one of my colleagues added a file to our shared Dropbox folder, press the **TAB** key to explore the other options. If there is more than one notification from Dropbox, there will be a close this notification button. That would close just the one notification, and not all the Dropbox notifications if I have several there. You may also find things like a Collapse this notification button so you can hide it. I will press **DOWN ARROW** once again. And again. Nothing happened, so JAWS is at the bottom of the list of notifications. If you press **TAB** and focus moves to either an Expand, or it could be labeled Collapse, Quick Actions button, then focus has moved out of the last notification.
+
+So, in summary, pressing **WINDOWS Key+A** opens the Windows Action Center where you can press the **TAB** key and the **ARROW Keys** to explore the different notifications and act on them individually. You may also simply press the Clear All Notifications button to clear all the notifications at once. I'm going to press **TAB** to find that button. I'll activate it with the **SPACEBAR** and now the notifications are all cleared. Press **ESC** to close the Action Center when you are finished.
+
+Windows Task View
+-----------------
+
+The Windows Task View is a nice tool for zooming out to see all your currently running apps. While in the Task View you can use the **ARROW Keys** to move left, right, up, or down through a grid of currently running apps. When you find an app you want to switch to, just press **ENTER** to close the Task View, and the app gains focus. If you or someone you know has limited mobility, the Task View can be a great tool. For example, some people may have the use of only one hand. Others may need to use a typing stick, or other input device. And some people may even have to use an app like a software dictation program to talk to the computer for input. In all these cases, the Task View can be a handy tool. Let's take a look at it quickly.
+
+You can find a Task View button along the bottom of the Windows screen just to the right of the Search edit and Cortana button. However, there is a handy Windows keystroke you can use to open it quickly. Press **WINDOWS Key+TAB** to open the Task View now.
+
+JAWS, Running Applications List box.
+
+Focus is now on a grid of thumbnail views that represent the different apps running on your computer. Use the **ARROW Keys** to explore them. When you find the one you want to switch to, just press **ENTER**, and voila, focus is placed right in that app so you can start working. There are other things available in the Task View, including a timeline with shortcuts to apps you had opened in the recent past, as well as the ability to add more virtual desktops. We won't cover these more advanced topics in the JAWS Basic Training, but for those of you who feel like exploring, feel free to look around in the Task View at your convenience. For now, I will press **ESC** to close the Task View.
+
+Useful Windows Keystrokes
+-------------------------
+
+There are tons of keystrokes built into the Windows operating system and various apps. You can find keystroke lists in searches via Google or other search engines. Many apps have a Help menu with keystroke lists as well. So, it's not my intent to give you a comprehensive list of Windows keystrokes here. But I want to end this book on Windows with a few that you will find useful.
+
+**WINDOWS Key+A** opens the Windows Action Center.
+
+**WINDOWS Key+B** moves focus directly to the System Tray.
+
+**WINDOWS Key+D** minimizes all apps and puts focus on the Windows Desktop.
+
+**WINDOWS Key+E** opens Windows Explorer.
+
+**WINDOWS Key+I** opens Windows Settings.
+
+**WINDOWS Key+Q** or **WINDOWS Key+S** opens the Windows Search edit box.
+
+**WINDOWS Key+R** opens the Windows Run dialog box.
+
+**WINDOWS Key+T** moves focus directly to the Task Bar.
+
+**WINDOWS Key+U** opens the Windows Ease of Access center.
+
+**WINDOWS Key+X** opens the Windows Quick Link menu.
+
+**WINDOWS Key+TAB** opens the Task View.
+
+**SHIFT+F10** opens a context menu.
+
+Thanks for joining me in the JAWS Basic Training for Windows.
