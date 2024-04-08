@@ -31,14 +31,14 @@
 | sneltoets | betekenis |
 |---|---|
 | `ctrl+1` | email |
-| `shift+Enter`       | Open geselecteerd bericht in een nieuw venster.  |
+| `shift+enter`       | Open geselecteerd bericht in een nieuw venster.  |
 | `delete`            | Verwijder bericht of item.                 |
-| `ctrl+F`            | Stuur bericht door.                        |
+| `ctrl+f`            | Stuur bericht door.                        |
 | `ctrl+2`            | Ga naar agenda.                            |
-| `ctrl+Shift+R`      | Selecteer de optie "Allen beantwoorden".   |
-| `ctrl+R`            | Beantwoord e-mailbericht.                  |
-| `ctrl+Q`            | markeer als gelezen                |
-| `ctrl+U`            | markeer als niet gelezen              |
+| `ctrl+shift+r`      | Selecteer de optie "Allen beantwoorden".   |
+| `ctrl+r`            | Beantwoord e-mailbericht.                  |
+| `ctrl+q`            | markeer als gelezen                |
+| `ctrl+u`            | markeer als niet gelezen              |
 
 ## 4 Openen en van lezen email (met bijlage)
 
