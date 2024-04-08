@@ -1,8 +1,9 @@
 # NVDA Handleidng 2021-1
 
-[aantekeningen](notes.md)
-
-[Sneltoetskaart NVDA](SneltoetskaartNVDA.pdf)
+- [aantekeningen](notesNVDA.md)
+- [algemeen](generalNVDA.md)
+- [outlook](outlookNVDA.md)
+- [Sneltoetskaart NVDA](SneltoetskaartNVDA.pdf)
 
 Inhoudsopgave
 -------------

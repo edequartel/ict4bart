@@ -1,14 +1,7 @@
 ## Outlook NVDA
 
-- [outlook](../outlook.md)
+- [outlook JAWS en WINDOWS toetsen](../outlook.md)
 - [microsoft shortcuts outlook](https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd)
-
-
-## Standaard navigatie
-| sneltoets | actie |
-|---|---|
-|tab| door objecten|
-|f6| door panes/groepen met objecten|
 
 ## 1 Introductie 
 
@@ -23,6 +16,7 @@
 | ctrl+6 | knoppen menu|
 
 ## 2 Mail maken en verzenden
+
 | Sneltoets           | Actie                                      |
 |---------------------|--------------------------------------------|
 | `Ctrl+N`            | Maak een nieuw bericht of agenda-evenement aan. |
@@ -33,6 +27,7 @@
 | `Alt+a` | adressenlijst |
 
 ## 3 e-mail lijst
+
 | sneltoets | betekenis |
 |---|---|
 | ctrl+1 | email |

@@ -1,4 +1,6 @@
-# Aantekeningen NVDA
+# Algemeen NVDA
+
+
 
 ## esentieel
 
@@ -10,6 +12,14 @@
 | caps+n>help>overzicht commandos|alle toetsen overzicht|
 | ?? caps+1| toetsenbordhelp |
 | ?? caps+f2| toets doorsturen |
+
+
+## Standaard navigatie
+
+| sneltoets | actie |
+|---|---|
+|tab| door objecten|
+|f6| door panes/groepen met objecten|
 
 ## start
 
@@ -26,11 +36,13 @@
 
 
 ## leesregel
+
 | sneltoets | actie |
 |---|---|
 |  caps+n > o(pties) > instellingen > braille > ... | instellen van de leesregel |
 
 ## Focus
+
 Toets: NVDA+control+t
 
 ## Navigatie 
@@ -55,13 +67,14 @@ bij focus van object, je staat er dus op, navigeer door de tekst
 |||
 
 
-
 ## zicht
+
 | sneltoets | actie |
 |---|---|
 |  caps+n > o(pties) > instellingen > zicht > ... | markeringen instellen... visueel |
 
 ## goed om te weten toetsen
+
 | sneltoets | actie |
 |---|---|
 | caps+f12(+f12)| datum (en tijd) |
@@ -69,18 +82,12 @@ bij focus van object, je staat er dus op, navigeer door de tekst
 | caps+c| meldt tekst clipboard (ctrl+c+ctrl+v+ctrl+x|
 
 ## internet
-(shift)h-heading
+
 pijl links/rechts-karakter voorlezen
 (shift) f-forms
+(shift)h-heading
 
----
 
-## Explorer
 
-| sneltoets | actie |
-|---|---|
-|tab||
-|f6||
 
-[outlook](outlookNVDA.md)
 
