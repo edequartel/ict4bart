@@ -65,6 +65,7 @@
 
 
 ## 5 Aan..
+
 | sneltoets | betekenis |
 |---|---|
 |`alt+a`|lijst met adressen|
