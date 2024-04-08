@@ -44,7 +44,7 @@ Outlook is wereldwijd het meest gebruikte programma in zijn soort. Het is dan oo
 | esc | sluit email > terug naar emaillijst |
 
 
-### 2.1 details bij email venster
+### 2.1 details bij email venster (jaws)
 
 | sneltoets | betekenis |
 |---|---|

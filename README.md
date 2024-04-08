@@ -14,7 +14,7 @@
 ### Schermlezers
 * [JAWS](jaws.md)
 * [JAWS - afkortingen ](naslag/jawsafkortingen.md)
-* [NVDA](nvda.md)
+* [NVDA](nvda/nvda.md)
 
 ### Internet
 * [Browser Chrome](browsers.md)
@@ -33,7 +33,7 @@
 ## JAWS
 
 * [JAWS - basiscursus](JAWSbasiscursus.md)
-* [JAWS - werken op het intenet - Surf up](https://www.eduvip.nl/VSOdigitaal/webcourse/index.htm)
+* [JAWS - werken op het intenet - Surf up](https://www.eduvip.nl/VSOdigitaal/webcourse/index.htm) https://tinyurl.com/surfopinternet
 
 ## Leeregels
 * [leesregel](leesregel.md)
