@@ -1,6 +1,6 @@
 ## Outlook NVDA
 
-- [outlook JAWS en WINDOWS toetsen](../outlook.md)
+- [outlook JAWS en WINDOWS toetsen](../outlook/outlook.md)
 - [microsoft shortcuts outlook](https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd)
 
 ## 1 Introductie 
