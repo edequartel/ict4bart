@@ -2,6 +2,7 @@
 
 - [outlook JAWS en WINDOWS toetsen](../outlook/outlook.md)
 - [microsoft shortcuts outlook](https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd)
+- [gmail koppelen met outlook](https://support.microsoft.com/nl-nl/office/gmail-account-toevoegen-in-outlook-70191667-9c52-4581-990e-e30318c2c081)
 
 ## Belangrijk - klaarzetten voor gebruik
 
@@ -10,10 +11,12 @@
 | `Alt, V, N, U`| leesvenster uit|
 |`shift+f10`| popup / context menu|
 ||**weergave**|
-|`Alt, V, E, W, K`| instellingen kollommen|
+|`Alt, V, E, W, K`| instellingen kolommen|
 || **zet deze op minimaal bijlage, van onderwerp, ontvangen datum**|
 |`Alt, V, F, D`| rangschikken op datum |
 |`Alt, V, T, W, compact`| compacte weergave |
+|`Alt, V, E, R`| groeperen uitzetten |
+|| items groeperen geen |
 
 
 
@@ -30,32 +33,7 @@
 | `ctrl+5` | app host |
 | `ctrl+6` | knoppen menu|
 
-## 2 Mail maken en verzenden
-
-| sneltoets          | Actie                                      |
-|---------------------|--------------------------------------------|
-| `ctrl+N`            | Maak een nieuw bericht of agenda-evenement aan. |
-| `alt+a` | adressenlijst |
-| `alt+d`            | Ga naar onderwerp veld. anker|
-| `alt+z of Ctrl+Enter`        | Verzend e-mailbericht.|
-| | |
-| `alt+a` | adressenlijst |
-
-## 3 e-mail lijst
-
-| sneltoets | betekenis |
-|---|---|
-| `ctrl+1` | email |
-| `shift+enter`       | Open geselecteerd bericht in een nieuw venster.  |
-| `delete`            | Verwijder bericht of item.                 |
-| `ctrl+f`            | Stuur bericht door.                        |
-| `ctrl+2`            | Ga naar agenda.                            |
-| `ctrl+shift+r`      | Selecteer de optie "Allen beantwoorden".   |
-| `ctrl+r`            | Beantwoord e-mailbericht.                  |
-| `ctrl+q`            | markeer als gelezen                |
-| `ctrl+u`            | markeer als niet gelezen              |
-
-## 4 Openen en van lezen email (met bijlage)
+## 2 Openen en van lezen email (met bijlage)
 
 | sneltoets | betekenis |
 |---|---|
@@ -78,6 +56,30 @@
 | | |
 |`ctrl+c`|wanneer je op het bestand staat in de bijlage kopieer je dit naar het klembord, je kunt dan naar de verkenner of je onedrive gaan|
 
+## 3 Mail maken en verzenden
+
+| sneltoets          | Actie                                      |
+|---------------------|--------------------------------------------|
+| `ctrl+N`            | Maak een nieuw bericht of agenda-evenement aan. |
+| `alt+a` | adressenlijst |
+| `alt+d`            | Ga naar onderwerp veld. anker|
+| `alt+z of Ctrl+Enter`        | Verzend e-mailbericht.|
+| | |
+| `alt+a` | adressenlijst |
+
+## 4 e-mail lijst
+
+| sneltoets | betekenis |
+|---|---|
+| `ctrl+1` | email |
+| `shift+enter`       | Open geselecteerd bericht in een nieuw venster.  |
+| `delete`            | Verwijder bericht of item.                 |
+| `ctrl+f`            | Stuur bericht door.                        |
+| `ctrl+2`            | Ga naar agenda.                            |
+| `ctrl+shift+r`      | Selecteer de optie "Allen beantwoorden".   |
+| `ctrl+r`            | Beantwoord e-mailbericht.                  |
+| `ctrl+q`            | markeer als gelezen                |
+| `ctrl+u`            | markeer als niet gelezen              |
 
 ## 5 Aan..
 
