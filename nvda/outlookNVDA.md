@@ -5,7 +5,8 @@
 - [gmail koppelen met outlook](https://support.microsoft.com/nl-nl/office/gmail-account-toevoegen-in-outlook-70191667-9c52-4581-990e-e30318c2c081)
 - [overzicht commando's](keycommands.md)
 
-iPoint B@rtimeus
+iPoint B@s
+email versturen naar leerlingen
 
 ## Belangrijk - klaarzetten voor gebruik
 
