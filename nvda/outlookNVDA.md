@@ -3,6 +3,7 @@
 - [outlook JAWS en WINDOWS toetsen](../outlook/outlook.md)
 - [microsoft shortcuts outlook](https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd)
 - [gmail koppelen met outlook](https://support.microsoft.com/nl-nl/office/gmail-account-toevoegen-in-outlook-70191667-9c52-4581-990e-e30318c2c081)
+- [overzicht commando's](keycommands.md)
 
 iPoint B@rtimeus
 
