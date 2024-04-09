@@ -11,7 +11,7 @@
 | caps+s | spraak modus aan/uit/piep |
 | caps+ctrl+t | braille koppeling automatisch/leescursor/focus |
 | caps+n>help>overzicht commandos|alle toetsen overzicht|
-| ?? caps+1| invoer hulp aan.uit |
+| ?? caps+1| invoer hulp aan/uit |
 | ?? caps+f2| getypte karakters uitspreken aan/uit |
 
 

@@ -3,6 +3,21 @@
 - [outlook JAWS en WINDOWS toetsen](../outlook/outlook.md)
 - [microsoft shortcuts outlook](https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd)
 
+## Belangrijk - klaarzetten voor gebruik
+
+| sneltoets | actie |
+|---|---|
+| `Alt, V, N, U`| leesvenster uit|
+|`shift+f10`| popup / context menu|
+||**weergave**|
+|`Alt, V, E, W, K`| instellingen kollommen|
+|| **zet deze op minimaal bijlage, van onderwerp, ontvangen datum**|
+|`Alt, V, F, D`| rangschikken op datum |
+|`Alt, V, T, W, compact`| compacte weergave |
+
+
+
+
 ## 1 Introductie 
 
 | sneltoets | actie |
