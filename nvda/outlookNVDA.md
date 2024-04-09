@@ -22,8 +22,6 @@ iPoint B@rtimeus
 | `NVDA+control+t` |focus wisselen|
 
 
-
-
 ## 1 Introductie 
 
 | sneltoets | actie |
