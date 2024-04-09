@@ -1,6 +1,6 @@
 # Algemeen NVDA
 
-- [overzicht commando's](keycommands.html)
+- [overzicht commando's](keycommands.md)
 
 
 ## essentieel
