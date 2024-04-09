@@ -1,17 +1,20 @@
-# Notes DVS/NS
+# Notes iOS en iPhone
 
-## Cursus iPhone gebruik
+* [gestures ipHone](../ios/basisiphone.md)
+* [voiceOver en Braille](../ios/voiceover.md)
+
+## leesregels
 
 * EDQ = 891D
 * NS = 90C8 (school) / (509) thuis
 * DVS = 692A2 (school R00496)
 
---
+## instellingen iPhone
+- voiceOver 3keer zijknop
+- onderaan wat er op de leesregel staat
 
-* [gestures ipHone](basisiphone.md)
-* [voiceOver en Braille](voiceover.md)
 
---
+## Workshop
 
 ### 1 verbinden van de iPhone
 - instellingen > toegankelijkheid > voiceover > braille > [melding bluetooth is uit] > ja > [zoeken naar leesregel, onderaan] > kies leesregel > [melding pincode] > 0000 > koppel > melding verbonden
@@ -39,7 +42,4 @@
 3. Rechter Navigatie tuimel toets. Door apps (beweeg een vinger)
 4. Rechter Tuimel toets. Door pagina (swipe drie vinger)
 
-## Notities gebruik/Eric
 
-- voiceOver 3keer zijknop
-- onderaan wat er op de leesregel staat

@@ -1,59 +1,59 @@
 # ict4vip (v1.0)
 
-* [aantekeningen](notes.md)
+* [aantekeningen onderwijs](onderwijs/notes.md)
 
-## vipDesk
-* [vipDesk](vipdesk.md)	
-
-## VoiceOver iOs Apple iPhone
-* [voiceover braille](voiceover.md)
-
-## Basisvaardigheden
-* [navigeren in Windows](navigereninwindows.md)
-
-### Schermlezers
-* [JAWS](jaws.md)
-* [JAWS - afkortingen ](naslag/jawsafkortingen.md)
+## 1 Schermlezers
+* [JAWS](jaws/jaws.md)
 * [NVDA](nvda/nvda.md)
 
-### Internet
-* [Browser Chrome](browsers.md)
-	* [Casus Wikipedia](wikipedia.md)
-	* [Casus Youtube](youtube.md)
+## Leesregels
+* [leesregels](leesregels/leesregel.md)
 
-### Office
-* [Excel](excel.md)
-* [Word](word.md)
-* [Outlook](outlook.md)
+## 2 iOS VoiceOver
+* [basis gestures](ios/iosbasis.md)
+* [voiceover braille](ios/ios.md)
 
-### Windows
-* [Explorer - Verkenner](explorer.md)
-* [Windows](windows.md)
+## 3 Basisvaardigheden
 
-## JAWS
+### 3.1 Windows
+* [Navigeren in Windows](windows/navigereninwindows.md)
+* [Verkenner](windows/explorer.md)
+* [Windows](windows/windows.md)
 
-* [JAWS - basiscursus](JAWSbasiscursus.md)
-* [JAWS - werken op het intenet - Surf up](https://www.eduvip.nl/VSOdigitaal/webcourse/index.htm) https://tinyurl.com/surfopinternet
+### 3.2 Internet
+* [Browser Chrome](internet/browsers.md)
+* [Casus Wikipedia](internet/wikipedia.md)
+* [Casus Youtube](internet/youtube.md)
 
-## Leeregels
-* [leesregel](leesregel.md)
+### 3.3 Office
 
-## Onderwijs
-Hier staan workshops die de leerling al of niet begeleid kan doen.
+#### Excel
+* [Excel](excel/excel.md)
+* [Workshop - Excel](workshops/wsexcel.md)
 
-- [MS Excel](workshops/wsexcel.md)
-- [MS Word](workshops/wsword.md)
+#### Word
+* [Word](msword/msword.md)
+* [MS Word](workshops/wsword.md)
 
-## Links
-* [lijst met links](links.md)
+### Outlook
+* [Outlook](outlook/outlook.md)
 
-## Podcasts
-* [podcasts](podcasts.md)
 
-## Vraagbaak
-* [handleiding vraagbaak](phpbbhandleiding.md)
+## 4 vipDesk
+* [vipDesk](vipDesk/vipdesk.md)	
 
+### Links
+* [lijst met links](vipDesk/links.md)
+
+### Podcasts
+* [podcasts](podcasts/podcasts.md)
+
+### Vraagbaak
+* [handleiding vraagbaak](vipdesk/phpbbhandleiding.md)
+
+<!--
 ![IMAGEW VRAAGBAAK](pictures/vraagbaakqr.PNG)
+-->
 
 
 

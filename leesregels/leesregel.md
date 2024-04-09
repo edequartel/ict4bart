@@ -1,12 +1,10 @@
 
-# Leesregel
-
-## FOCUS 40
+# Leesregel FOCUS 40
 p7 is backspace
 p8 is enter
 
 
-![focus 40](pictures/focus40.jpg)
+![focus 40](../pictures/focus40.jpg)
 
 ## SAM
 
@@ -15,4 +13,5 @@ p8 is enter
 ## Quick Start Guide
 
 - [Focus Blue Quick Start Guide](https://www.freedomscientific.com/training/braille/focus/focus-blue-quick-start-guide/)
-### - [Braille commando's](https://www.freedomscientific.com/training/braille/focus/braille-commands/)
+
+- [Braille commando's](https://www.freedomscientific.com/training/braille/focus/braille-commands/)

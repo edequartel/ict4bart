@@ -1,15 +1,5 @@
 # podcasts
 
-font amiko
-
-<!--
-flow >
-tekst >
-naturalreaders >
-check >
-podcast
--->
-
 ### Outlook
 - [bijlage openen en opslaan](podcasts/o_bijlagenopenen.md)
 - [bijlage verzenden](podcasts/o_bijlagenverzenden.md)
