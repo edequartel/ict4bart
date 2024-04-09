@@ -1,8 +1,9 @@
 # Algemeen NVDA
 
+- [overzicht commando's](keycommands.html)
 
 
-## esentieel
+## essentieel
 
 | sneltoets | actie |
 |---|---|
@@ -10,8 +11,8 @@
 | caps+s | spraak modus aan/uit/piep |
 | caps+ctrl+t | braille koppeling automatisch/leescursor/focus |
 | caps+n>help>overzicht commandos|alle toetsen overzicht|
-| ?? caps+1| toetsenbordhelp |
-| ?? caps+f2| toets doorsturen |
+| ?? caps+1| invoer hulp aan.uit |
+| ?? caps+f2| getypte karakters uitspreken aan/uit |
 
 
 ## Standaard navigatie
