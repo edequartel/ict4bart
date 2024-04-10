@@ -1,7 +1,7 @@
 # Notes SurfsUp
 ### Links
 * [typische leescommando's](https://www.eduvip.nl/VSOdigitaal/webcourse/Reading_Commands.htm)
-* [www.tinyurl.com/surfopinternet](www.tinyurl.com/surfopinternet)
+* [www.tinyurl.com/surfopinternet](https://www.eduvip.nl/VSOdigitaal/webcourse/index.htm)
 
 ### Documenten (online documenten makkelijke opmaak)
 
