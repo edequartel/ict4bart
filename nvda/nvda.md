@@ -4,6 +4,7 @@
 - [algemeen](generalNVDA.md)
 - [outlook](outlookNVDA.md)
 - [Sneltoetskaart NVDA](SneltoetskaartNVDA.pdf)
+- [overzicht commando's](https://www.eduvip.nl/VSOdigitaal/ictbart/keycommands.html)
 
 Inhoudsopgave
 -------------

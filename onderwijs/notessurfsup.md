@@ -1,5 +1,4 @@
-# Notes iOS iPhone
-
+# Notes SurfsUp
 ### Links
 * [typische leescommando's](https://www.eduvip.nl/VSOdigitaal/webcourse/Reading_Commands.htm)
 * [www.tinyurl.com/surfopinternet](www.tinyurl.com/surfopinternet)
@@ -26,7 +25,7 @@
 
 * INS+F4 - JAWS afsluiten
 * browser
-* INS+T (lezen van titel webpagina)
+* INS+T (lezen, gesproken van titel webpagina)
 * ALT+N(ext)
 * ALT+B(ack)
 * ALT+D naar adres balk
@@ -45,14 +44,19 @@ h-koppen (shift/1-2-3-4, ga naar kopniveau)
 * INSERT+F3 / virtuele html functies: je krijgt dan een lijst met elementen die jaws voor je heeft uitgezocht, hierdoor kun je makkelijk naar een element gaan.
 
 de volgende gebruik je veel daarom sneltoets
+
 * INSERT+F5 - Formuliervelden 
 * INSERT+F6 - Koppen
 * INSERT+F7 - Koppelingen
 
-- CTRL+INS+eerste letter bijvooorbeeld h gaat sneller, maar niet makkelijk
+- CTRL+INS+eerste letter bijvooorbeeld h gaat sneller, maar niet makkelijker, navigatie sneltoetsen
 
 ### 10apr - verder met [Navigeren op Webpagina's] IB/NS
 
 - verder gaan met Jims Cafe
 
+- INS-F1 (informatie over de pagina)
+- (navigatie sneltoetsen??)
+- H door de koppen gaan
+- 
 

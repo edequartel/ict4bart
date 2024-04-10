@@ -3,17 +3,17 @@
 ## surfen op het internet
 IB, DS, NS
 
-- [onderwijs ios](notessurfsup.md)
+- [onderwijs notessurfsup](notessurfsup.md)
 
 
 ## maken van een verslag
 IB, RG
 
-- [onderwijs ios](notesmakenvaneenverslag.md)
+- [onderwijs maken van een verslag](notesmakenvaneenverslag.md)
 
 
 ## iPhone en Braille
 DS, NS
 
-- [onderwijs ios](notesiphoneios.md)
+- [onderwijs iPhone en Braille](notesiphoneios.md)
 
