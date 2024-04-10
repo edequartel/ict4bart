@@ -26,6 +26,7 @@
 * INS+F4 - JAWS afsluiten
 * browser
 * INS+T (lezen, gesproken van titel webpagina)
+* INS+H, complete lijst met sneltoetsen
 * ALT+N(ext)
 * ALT+B(ack)
 * ALT+D naar adres balk
@@ -58,5 +59,26 @@ de volgende gebruik je veel daarom sneltoets
 - INS-F1 (informatie over de pagina)
 - (navigatie sneltoetsen??)
 - H door de koppen gaan
-- 
 
+
+LNK - externe link
+ZLINK - zelfde pagina link
+
+### 24apr - verder met Jim's cafe...email versturen
+
+
+
+
+#### formuliermodus
+* automatische formulier modus 
+* INS-V - jaws snel-instellings venster
+* ESC - verlaats formulier modus
+
+#### plaatsmarkeringen aanbrengen
+* ctrl+win+k - aanbrengen van tijdelijke plaatsmarkeringen
+* ctrl+shift+k - aanbrengen van permanente plaatsmarkeringen
+* K - navigatie sneltoets
+
+#### aangepast label op element
+* ctrl+ins+tab - aanbrengen label
+* ins+f2 -selecteren van element
