@@ -4,7 +4,7 @@
 
 ## 1 Schermlezers
 
-* [JAWS](jaws/jaws.md)
+* [JAWS](jaws/jawsanker.md)
 * [NVDA](nvda/nvda.md)
 
 ## Leesregels

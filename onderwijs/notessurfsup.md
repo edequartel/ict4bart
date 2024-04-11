@@ -66,17 +66,19 @@ ZLINK - zelfde pagina link
 
 ### 24apr - verder met Jim's cafe...email versturen
 
+- navigatie sneltoetsen zie webpage verwijzingen op navigeren op webpagina's
+
 
 
 
 #### formuliermodus
 * automatische formulier modus 
-* INS-V - jaws snel-instellings venster
-* ESC - verlaats formulier modus
+* INS-V - jaws snel-instellings venster (virtuele cursor opties)
+* ESC - verplaats formulier modus
 
 #### plaatsmarkeringen aanbrengen
 * ctrl+win+k - aanbrengen van tijdelijke plaatsmarkeringen
-* ctrl+shift+k - aanbrengen van permanente plaatsmarkeringen
+* ctrl+shift+k - plaatsmarkeringslijst
 * K - navigatie sneltoets
 
 #### aangepast label op element
