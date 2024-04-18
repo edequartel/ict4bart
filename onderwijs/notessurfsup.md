@@ -2,6 +2,8 @@
 ### Links
 * [typische leescommando's](https://www.eduvip.nl/VSOdigitaal/webcourse/Reading_Commands.htm)
 * [www.tinyurl.com/surfopinternet](https://www.eduvip.nl/VSOdigitaal/webcourse/index.htm)
+* [Jim cafe webpage](https://www.eduvip.nl/VSOdigitaal/webcourse/Jims_Cafe.htm) https://tinyurl.com/jimscafe
+
 
 ### Documenten (online documenten makkelijke opmaak)
 
