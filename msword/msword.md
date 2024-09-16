@@ -1,17 +1,18 @@
 
 # WORD en JAWS
 
+<!--
 ## download example word document sheet
 - [tabel](documents\tabel_personen.docx) 
 - [biologie handboek](documents\biologie_handboek.docx)
 
 ## vimeo movies
 - [word and jaws](https://vimeo.com/showcase/10680534)
-
+-->
 
 # Microsoft Word Sneltoetsen
 
-| Sneltoets | Actie |
+| Sneltoets | Beschrijving |
 | --- | --- |
 | `Insert + page down` | Statusbalk voorlezen (bijv aantal pagina’s) |
 | `Insert + T` | Titelbalk voorlezen (titel document) |
@@ -26,19 +27,6 @@
 | `Ctrl + Shift + S` | Opslaan als... |
 | `Ctrl + P` | Afdrukken |
 
-
-
-| Sneltoets          | Beschrijving                                       |
-| ------------------- | -------------------------------------------------- |
-|**Nick**||
-| `Ctrl + S`         | Opslaan van het huidige document. W10                 |
-| `F12` of `Ctrl + Shift + S` | Opslaan als, om het document een nieuwe naam of locatie te geven. |
-| `Ctrl + Shift + F12` | Snelle opslag van het document.                   |
-| `Ctrl + Shift + A` | ??? AutoSave (Microsoft 365) om automatisch wijzigingen op te slaan. |
-| `Alt + F, C`       | Opslaan en sluiten van het document.              |
-| `Ctrl + Alt + Shift + S` | Opslaan van alle geopende documenten.            |
-| `Alt + Ctrl + F2`   | Schakelen tussen Volledige-leesweergave en Normale weergave. (Opslaan met `Ctrl + S` in Volledige-leesweergave.) |
-| `F12` of `Alt + F, A, Enter` | Opslaan als kopie, om een kopie van het document op te slaan met een nieuwe naam of op een andere locatie. |
 
 
 | Sneltoets          | Beschrijving                                       |
@@ -76,6 +64,8 @@
 | `Ctrl + Alt + 5` | Heading 5     |
 | `Ctrl + Alt + 6` | Heading 6     |
 
+
+## Schermlezer toetsen
 
 | Sneltoets | Actie |
 | --- | --- |

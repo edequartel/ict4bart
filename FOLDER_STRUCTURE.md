@@ -1,0 +1,78 @@
+# Folder Structure
+
+- **workshops**
+    - **steps-word_voor_braillegebruikers**
+    - **steps-excel_voor_braillegebruikers**
+    - [wsword.md](workshops/wsword.md)
+    - [wsexcel.md](workshops/wsexcel.md)
+- **naslag**
+    - **steps-sam___braillestudio**
+    - [sambraillestudio.md](naslag/sambraillestudio.md)
+- **pictures**
+- **leesregels**
+    - [leesregel.md](leesregels/leesregel.md)
+- **excel**
+    - [excel.md](excel/excel.md)
+- **leerlijn**
+- **ios**
+    - [iosbasis.md](ios/iosbasis.md)
+    - [ios.md](ios/ios.md)
+- **podcasts**
+    - [w_bestandopslaan.md](podcasts/w_bestandopslaan.md)
+    - [o_agenda.md](podcasts/o_agenda.md)
+    - [o_bijlagenverzenden.md](podcasts/o_bijlagenverzenden.md)
+    - **jaws**
+    - [win_dialoggvenster.md](podcasts/win_dialoggvenster.md)
+    - [o_emailversturen.md](podcasts/o_emailversturen.md)
+    - [o_bijlagenopenen.md](podcasts/o_bijlagenopenen.md)
+    - [podcasts.md](podcasts/podcasts.md)
+    - **e**
+    - **outlook**
+- [README.md](README.md)
+- **onderwijs**
+    - [notesmakenvaneenverslag.md](onderwijs/notesmakenvaneenverslag.md)
+    - [notessurfsup.md](onderwijs/notessurfsup.md)
+    - [notesiphoneios.md](onderwijs/notesiphoneios.md)
+    - [notes.md](onderwijs/notes.md)
+- **jaws**
+    - **JAWSbasiscursus**
+        - [03menudialoogstartupwizard.md](jaws/JAWSbasiscursus/03menudialoogstartupwizard.md)
+        - [05introductietotwindows.md](jaws/JAWSbasiscursus/05introductietotwindows.md)
+        - [02aandeslagmetjaws.md](jaws/JAWSbasiscursus/02aandeslagmetjaws.md)
+        - [08jawshelp.md](jaws/JAWSbasiscursus/08jawshelp.md)
+        - [07introductiietotbestandenenmappen.md](jaws/JAWSbasiscursus/07introductiietotbestandenenmappen.md)
+        - [06leesenwijzigtekst.md](jaws/JAWSbasiscursus/06leesenwijzigtekst.md)
+        - [01introductieenoverzicht.md](jaws/JAWSbasiscursus/01introductieenoverzicht.md)
+        - [04gebruikersinterfaceenutilities.md](jaws/JAWSbasiscursus/04gebruikersinterfaceenutilities.md)
+        - [09surfsup.md](jaws/JAWSbasiscursus/09surfsup.md)
+    - [jawsanker.md](jaws/jawsanker.md)
+    - [jawsafkortingen.md](jaws/jawsafkortingen.md)
+    - [jawsbasis.md](jaws/jawsbasis.md)
+    - [navigatiesneltoetsen.md](jaws/navigatiesneltoetsen.md)
+    - [jawshotkeys.md](jaws/jawshotkeys.md)
+    - [JAWSbasiscursus.md](jaws/JAWSbasiscursus.md)
+- **internet**
+    - [browsers.md](internet/browsers.md)
+    - [wikipedia.md](internet/wikipedia.md)
+    - [youtube.md](internet/youtube.md)
+- **nvda**
+    - [outlookNVDA.md](nvda/outlookNVDA.md)
+    - [nvda.md](nvda/nvda.md)
+    - [notesNVDA.md](nvda/notesNVDA.md)
+    - [generalNVDA.md](nvda/generalNVDA.md)
+    - [keycommands.md](nvda/keycommands.md)
+- **vipDesk**
+    - [phpbbhandleiding.md](vipDesk/phpbbhandleiding.md)
+    - [vipdesk.md](vipDesk/vipdesk.md)
+    - [links.md](vipDesk/links.md)
+- **documents**
+    - [dolfijn.md](documents/dolfijn.md)
+    - [pijlgifkikker.md](documents/pijlgifkikker.md)
+- **windows**
+    - [explorer.md](windows/explorer.md)
+    - [navigereninwindows.md](windows/navigereninwindows.md)
+    - [windows.md](windows/windows.md)
+- **msword**
+    - [msword.md](msword/msword.md)
+- **outlook**
+    - [outlook.md](outlook/outlook.md)
