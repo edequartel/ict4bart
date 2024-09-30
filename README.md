@@ -34,13 +34,13 @@
 
 #### Excel
 
-* [Excel](excel/excel.md)
 * [Workshop - Excel](workshops/wsexcel.md)
+* [Excel Sneltoetsen](excel/excel.md)
 
 #### Word
 
-* [Word](msword/msword.md)
-* [MS Word](workshops/wsword.md)
+* [Workshop - Wor](workshops/wsword.md)
+* [Word sneltoetsen](msword/msword.md)
 
 ### Outlook
 

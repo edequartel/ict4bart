@@ -14,8 +14,6 @@
 
 | Sneltoets | Beschrijving |
 | --- | --- |
-| `Insert + page down` | Statusbalk voorlezen (bijv aantal pagina’s) |
-| `Insert + T` | Titelbalk voorlezen (titel document) |
 |**word**||
 | `Ctrl + F4` | Sluit het huidige document |
 | `Alt + F4` | Sluit Microsoft Word |
@@ -56,7 +54,7 @@
 | `Ctrl + Shift + <` | Verklein lettergrootte |
 | `Ctrl + K` | Hyperlink invoegen |
 | **headers**        | |
-| ???Ctrl + Shift + N | Normal 
+| `Ctrl + Shift + N` | Normal 
 | `Ctrl + Alt + 1` | Heading 1     |
 | `Ctrl + Alt + 2` | Heading 2     |
 | `Ctrl + Alt + 3` | Heading 3     |
@@ -65,10 +63,12 @@
 | `Ctrl + Alt + 6` | Heading 6     |
 
 
-## Schermlezer toetsen
+## Schermlezer JAWS toetsen
 
 | Sneltoets | Actie |
 | --- | --- |
+| `Insert + page down` | Statusbalk voorlezen (bijv aantal pagina’s) |
+| `Insert + T` | Titelbalk voorlezen (titel document) |
 | **navigatie**             ||
 | `F6` | wisselen tussen verschillende panes |
 | `Ins + F6` | Koppenlijst |
