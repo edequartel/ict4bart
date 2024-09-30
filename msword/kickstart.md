@@ -5,7 +5,7 @@
 
 Voor leerlingen die afhankelijk zijn van braille en/of spraak, is het essentieel dat zij eenvoudig en efficiënt door digitale documenten kunnen navigeren. Deze leerlingen gebruiken een schermleesprogramma dat de tekst op het scherm omzet in spraak of naar een brailleleesregel stuurt. Bij educatieve documenten, zoals de bestanden die Dedicon aanbiedt in de vorm van Edutekst-bestanden, is het van groot belang dat deze goed gestructureerd zijn, zodat leerlingen snel en doelgericht de juiste informatie kunnen vinden.
 
-De Edutekst-bestanden zijn zo opgezet dat de inhoud op een logische manier toegankelijk is voor schermleessoftware. Dit betekent dat er een structuur in het document is aangebracht, met behulp van koppen, paragrafen en tabellen, die door de schermlezer herkend kan worden. Door de juiste gebruik van deze structuur kunnen leerlingen navigeren door bijvoorbeeld hoofdstukken, secties of specifieke informatie in een tabel.
+De Edutekst-bestanden zijn zo opgezet dat de inhoud op een logische manier toegankelijk is voor schermleessoftware. Dit betekent dat er een structuur in het document is aangebracht, met behulp van koppen, paragrafen en tabellen, die door de schermlezer herkend kan worden. Door het juiste gebruik van deze structuur kunnen leerlingen navigeren door bijvoorbeeld hoofdstukken, secties of specifieke informatie in een tabel.
 
 In deze handleiding nemen we u stap voor stap mee door de belangrijkste navigatiefuncties van een schermlezer, met behulp van een voorbeeldbestand van de methode *Biologie voor jou, 4 vmbo gt, Handboek*. We bespreken onder andere hoe leerlingen kunnen navigeren via:
 
@@ -15,13 +15,16 @@ De hiërarchie van koppen maakt het mogelijk voor de leerling om snel te springe
 **Koppenlijst**
 Met behulp van een speciale functie in de schermlezer kan een leerling een overzicht opvragen van alle koppen in het document, zodat ze gemakkelijk kunnen navigeren.
 
-**Sneltoetsen**
+**Sneltoetsen Quickkeys**
 Er zijn handige sneltoetsen die de leerling kan gebruiken om bijvoorbeeld van de ene sectie naar de andere te gaan of om tabellen te doorzoeken.
 
 **Tabelnavigatie**
 Tabellen bevatten vaak belangrijke informatie. Een schermlezer biedt mogelijkheden om eenvoudig door de cellen van een tabel te navigeren, zodat de structuur van de informatie behouden blijft.
 
 Deze handleiding biedt u inzicht in hoe u de Edutekst-bestanden zo kunt inzetten dat leerlingen met een visuele beperking effectief kunnen werken met het studiemateriaal. Daarnaast leert u hoe u zelf koppen kunt toevoegen aan uw eigen documenten en hoe u deze op een toegankelijke manier kunt structureren voor schermlezers.
+
+Opmerking: 
+De laptop toetsenbord layout op functie-toetsen zetten. Fn vooo home
 
 
 
@@ -44,6 +47,7 @@ Deze handleiding biedt u inzicht in hoe u de Edutekst-bestanden zo kunt inzetten
 | `(shift) H`  | Koppen |
 | `(shift) P` | Tekst |
 | `(shift) T` | Tabel |
+| `(shift) S` | Sectie pp /pagina |
 | `spatie/backspace`  | Volgende vorige pagina |
 | **markering**             ||
 | `Ctrl + WIN + k` | Plaatsmarkering |
@@ -56,7 +60,6 @@ Deze handleiding biedt u inzicht in hoe u de Edutekst-bestanden zo kunt inzetten
 | `Ctrl + Alt + pijltjes` | Tabel lezen en navigeren tussen cellen |
 | **beeldbeschrijving** ||
 | `Ins + Spatie + B + enter` | Kunstmatige intelligentie omschrijft beeld in chatbox |
-
 
 
 ### MSWord koppen toetsen
