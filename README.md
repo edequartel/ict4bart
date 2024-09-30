@@ -39,8 +39,9 @@
 
 #### Word
 
-* [Workshop - Wor](workshops/wsword.md)
+* [Workshop - Word](workshops/wsword.md)
 * [Word sneltoetsen](msword/msword.md)
+* [Kickstart](msword/kickstart.md)
 
 ### Outlook
 
