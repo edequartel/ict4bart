@@ -35,7 +35,7 @@
 #### Excel
 
 * [Workshop - Excel](workshops/wsexcel.md)
-* [Excel Sneltoetsen](excel/excel.md)
+* [Excel Sneltoetsen JAWS](excel/excel.md)
 
 #### Word
 
