@@ -58,7 +58,7 @@ Outlook is wereldwijd het meest gebruikte programma in zijn soort. Het is dan oo
 
 ### 2.2 bijlagen open en opslaan
 
-Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer dit als BL (bijlage) op de leesregel staat of wanneer JAWS dit uitspreekt.
+Je weet dat er de email in de emaillijst een bijlage of bijlagen bevat wanneer dit als BL (bijlage) op de leesregel staat of wanneer JAWS dit uitspreekt.
 
 | sneltoets | betekenis |
 |---|---|
@@ -76,6 +76,25 @@ Je weet dat er de email in de emalilijst een bijlage of bijlagen bevat wanneer d
 |||
 |||
 
+### 2.3 bijlagen open en opslaan (snel)
+
+Je weet dat er de email in de emaillijst een bijlage of bijlagen bevat wanneer dit als BL (bijlage) op de leesregel staat of wanneer JAWS dit uitspreekt.
+
+| sneltoets | betekenis |
+|---|---|
+| enter | open de mail met bijlage en lees |
+| shit+tab | ga naar de bijlage |
+| alt+pijl naar beneden | bij meerdere bijlage en dit opent een **contextmenu** |
+| pijl omlaag | ga naar opslaan als |
+| of type [s] |  |
+| shift+tab | lst van de map (infoud van de map) |
+| shift+tab | bs van mappen |
+| V | van de map vso |
+| pijl rechts | open de map vso |
+| e | e van engels |
+| enter | open de map Engels |
+| tab | ga in de map staan dus lst |
+| alst+s | opslaan van het bestand |
 
 ### **2.3 opslaan met dialoog venster**
 

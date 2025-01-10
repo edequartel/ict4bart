@@ -1,4 +1,4 @@
-# ict4vip (v1.0)
+# ict4vip (v1.0) - voor leerlingen
 
 * [aantekeningen onderwijs](onderwijs/notes.md)
 
@@ -43,9 +43,14 @@
 * [Word sneltoetsen](msword/msword.md)
 * [Kickstart](msword/kickstart.md)
 
+
 ### Outlook
 
 * [Outlook](outlook/outlook.md)
+
+#### PowerPoint
+
+* [Workshop - PowerPoint](workshops/wspowerpoint.md)
 
 
 ## 4 vipDesk
