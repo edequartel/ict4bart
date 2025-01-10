@@ -1,11 +1,11 @@
-#Navigeren
+# Navigeren
 
 1. Info docent – Navigeren
 2. Onderwerp – Navigeren
 3. Sneltoetsen – Navigeren
 4. Downloads
 
-##1. Info docent navigeren
+## 1. Info docent navigeren
 De essentie van het werken met Excel is dat de informatie twee dimensionaal wordt weergegeven, ofwel, de wijze waarop de gegevens onder elkaar in een kolom, dan wel naast elkaar in een rij zijn weergegeven, zijn van belang voor het begrip van het geheel. Gebruikmaken van spraak-uitvoer of braille-uitvoer door een visueel beperkte leerling/student betekent dat je de gegevens van een rekenblad maar in heel kleine brokjes tegelijk te horen krijgt of kunt lezen op de brailleleesregel. In de meeste gevallen de inhoud van één cel per keer of op zijn hoogst van 3 à 4 cellen tegelijk. Uit deze informatie per cel moet inzicht worden verkregen van het gehele rekenblad.
 Om de gebruiker van braille- en spraakuitvoer te helpen bij de oriëntatie op het rekenblad en het verkrijgen van inzicht in de opzet van eenvberekening, wordt er steeds weergegeven in welke rij en kolom de cel-aanwijzer zich bevindt (zie afbeelding hieronder). Daarnaast kan er extra informatie worden weergegeven over het actuele rekenblad en de inhoud van de cel.
 
