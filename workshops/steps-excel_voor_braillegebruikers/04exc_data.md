@@ -163,5 +163,5 @@ Jaws
 | Lees de actieve celcoördinaten              | `INSERT + C`               |
 
 ## 4.4. Downloads:
-Dialoog Reeks doorvoeren
-Werkmap 04 doorvoeren gegevens
+[Dialoog Reeks doorvoeren](dialoog)
+[Werkmap 04 doorvoeren gegevens](werkmap)
