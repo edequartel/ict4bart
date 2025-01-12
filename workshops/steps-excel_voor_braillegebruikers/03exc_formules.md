@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Info docent – Doorvoeren gegevens en formules
+## 3.1. Info docent – Doorvoeren gegevens en formules
 
 Het doorvoeren van gegevens en formules verhoogt de efficiëntie in Excel. Visueel beperkte gebruikers lopen echter risico op fouten door een gebrek aan overzicht. Zo kan bijvoorbeeld teveel of te weinig geselecteerd worden.  
 De laatst geselecteerde cel wordt alleen door spraak weergegeven, waardoor braillegebruikers voor dit onderdeel spraak moeten inschakelen.
@@ -27,7 +27,7 @@ De afbeelding toont cel **C7** met de inhoud **333**. De bijbehorende **rijtitel
 
 ---
 
-## 2. Onderwerp – Doorvoeren formules
+## 3.2. Onderwerp – Doorvoeren formules
 
 Bij het werken in Excel worden formules in een cel ingevoerd. Na het indrukken van Enter toont Excel de uitkomst. Met **F2** kan de formule weer zichtbaar gemaakt en aangepast worden.
 
@@ -37,19 +37,19 @@ Wanneer veel formules nodig zijn, kan de eerste formule worden ingevoerd en door
 
 In de Excel-bestand **‘Werkmap 03 doorvoeren formules.xlsx’** staat een overzicht van gasverbruik. We gaan een formule invoeren om de jaarlijkse en maandelijkse verbruiken op te tellen en deze formules vervolgens doorvoeren naar andere jaren en maanden.
 
-#### Opdracht 03.1
+#### Opdracht 3.1
 
 1. **Download en open:** [Werkmap 03 doorvoeren formules.xlsx](https://www.eduvip.nl/cms/files/Tabelkoppen.jpg)  
 2. Verken het overzicht van gasverbruik en bekijk waar de gegevens beginnen en eindigen.
 
-#### Opdracht 03.2
+#### Opdracht 3.2
 
 1. Ga naar cel **N4** en voer de formule in om het gasverbruik van alle maanden van **2008** op te tellen:  
    `=SOM(B4:M4)`.
 2. Ga naar cel **B10** en voer de formule in om het verbruik van de maand **januari** van alle jaren op te tellen.  
    **Controleer de uitkomst:** 1211.
 
-#### Opdracht 03.3
+#### Opdracht 3.3
 
 1. Ga naar de cel met de formule voor het eerste jaar.  
 2. Selecteer **5 cellen omlaag** en kopieer de formule naar de geselecteerde cellen met **Ctrl + D**.  
@@ -95,14 +95,14 @@ Om kolom- en rijkoppen te lezen in SuperNova:
 | Stel huidige kolom in voor rijkoppen | `INSERT + ALT + CTRL + R`  |
 | Lees actieve celcoördinaten       | `INSERT + C`                |
 
-#### Opdracht 03.4
+#### Opdracht 3.4
 
 1. Maak de **kolom- en rijkoppen vet**.  
 2. **Test de handmatige en automatische methoden** om de koppen te lezen.
 
 ---
 
-## 3. Sneltoetsen – Doorvoeren formules
+## 3.3. Sneltoetsen – Doorvoeren formules
 
 ### Excel
 
@@ -133,7 +133,7 @@ Om kolom- en rijkoppen te lezen in SuperNova:
 
 ---
 
-## 4. Downloads
+## 3.4. Downloads
 
 - **[Tabelkoppen](https://www.eduvip.nl/cms/files/Tabelkoppen.jpg)**  
 - **[Werkmap 03 doorvoeren formules](https://www.eduvip.nl/cms/files/Tabelkoppen.jpg)**
