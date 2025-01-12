@@ -1,4 +1,4 @@
-# Navigeren
+# 1. Navigeren
 
 1. [Info docent – Navigeren](#1-info-docent-navigeren)  
 2. [Onderwerp – Navigeren](#2-onderwerp-navigeren)  
