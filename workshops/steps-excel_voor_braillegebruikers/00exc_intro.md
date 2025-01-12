@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Introductie Excel 2010 cursus voor docenten
+## 1. Introductie Excel cursus voor docenten
 
 ### Inleiding
 
@@ -29,9 +29,9 @@ Meer informatie: [Excel werkbladen met wiskundige formules](http://www.eduvip.nl
 
 ---
 
-## 2. Introductie Excel 2010 cursus voor studenten
+## 2. Introductie Excel cursus voor studenten
 
-**Microsoft Office Excel 2010**, zoals de officiële naam luidt, is een rekenbladprogramma (spreadsheet). Met Excel kun je allerlei gegevens invoeren, berekeningen uitvoeren en de resultaten overzichtelijk presenteren.
+**Microsoft Office Excel**, zoals de officiële naam luidt, is een rekenbladprogramma (spreadsheet). Met Excel kun je allerlei gegevens invoeren, berekeningen uitvoeren en de resultaten overzichtelijk presenteren.
 
 De mogelijkheden met Excel zijn vrijwel eindeloos, van een simpele berekening tot een complete boekhouding.
 
