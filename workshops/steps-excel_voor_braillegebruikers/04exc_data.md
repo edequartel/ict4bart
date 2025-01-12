@@ -1,4 +1,4 @@
-# 4. Doorvoeren gegevens
+o# 4. Doorvoeren gegevens
 
 1. [Info docent – Doorvoeren gegevens](#1-info-docent--doorvoeren-gegevens)  
 2. [Onderwerp – Doorvoeren gegevens](#2-onderwerp--doorvoeren-gegevens)  
@@ -153,20 +153,6 @@ Voer vervolgens productieaantallen door met verschillende intervallen voor de ma
 | Lezen kolom- en rij-koppen       | `Capslock + H` of `Num 3` |
 | Automatisch lezen van koppen     | `Ctrl+ Capslock + H` |
 
-
-
-
-ffff
-
-Excel
-Selecteren; Shift+pijltjes toetsen of Ctrl+G en eerste en laatste cel opgeven
-Kopieren/doorvoeren naar rechts; Ctrl+R
-Kopiëren/doorvoeren naar omlaag; Ctrl+D
-Vet maken inhoud van cellen; Ctrl+B
-SuperNova
-Lezen kolom en rij-koppen; Capslock+H of Num 3
-Stel rij of kolom in voor lezen van koppen; selecteer gegevens en maak deze vet
-Schakel automatisch lezen van koppen in; Ctrl+Capslock+H
 Jaws
 Lees kolomkop; INSERT+ALT+SHIFT+C
 Stel de huidige rij in voor de kolomkoppen; INSERT+ALT+CTRL+C
@@ -174,21 +160,6 @@ Lees rijkop; INSERT+ALT+SHIFT+R
 Stel de huidige kolom in voor de rijkoppen; INSERT+ALT+CTRL+R
 Lees de actieve celcoördinaten; INSERT+C
 
-4.4 Downloads:
+## 4.4. Downloads:
 Dialoog Reeks doorvoeren
 Werkmap 04 doorvoeren gegevens
-
-
-ggggg
-
-Voor het doorvoeren van formules en gegevens zijn de volgende sneltoetsen van toepassing:
-Excel
-Selecteren; Shift+pijltjes toetsen of Ctrl+G en eerste en laatste cel opgeven
-Kopieren/doorvoeren naar rechts; Ctrl+R
-Kopiëren/doorvoeren naar omlaag; Ctrl+D
-Vet maken inhoud van cellen; Ctrl+B
-SuperNova
-Lezen kolom en rij-koppen; Capslock+H of Num 3
-Stel rij of kolom in voor lezen van koppen; selecteer gegevens en maak deze vet
-Schakel automatisch lezen van koppen in; Ctrl+Capslock+H
-
