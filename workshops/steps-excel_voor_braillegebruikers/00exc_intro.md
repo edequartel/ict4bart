@@ -1,7 +1,7 @@
 # Introductie Excel cursus
 
-1. [Introductie Excel 2010 cursus voor docenten](#1-introductie-excel-2010-cursus-voor-docenten)  
-2. [Introductie Excel 2010 cursus voor studenten](#2-introductie-excel-2010-cursus-voor-studenten)  
+1. [Introductie Excel cursus voor docenten](#1-introductie-excel-cursus-voor-docenten)  
+2. [Introductie Excel cursus voor studenten](#2-introductie-excel-cursus-voor-studenten)  
 3. [Opzet van de cursus Excel](#3-opzet-van-de-cursus-excel)  
 4. [Excel en schermleesprogramma’s](#4-excel-en-schermleesprogrammas)  
 
