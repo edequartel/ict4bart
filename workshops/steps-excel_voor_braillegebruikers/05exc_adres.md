@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Cel adressering
+## 5.1. Cel adressering
 
 In Excel worden gegevens in **cellen** geplaatst. Iedere cel heeft een uniek **adres** dat bestaat uit een kolomletter en een rijnummer.  
 Bijvoorbeeld: de cel in **kolom B** en **rij 5** heeft het adres **B5**.
@@ -55,7 +55,7 @@ De prijs per blikje staat in **cel B14**.
 
 ---
 
-## 2. Sneltoetsen – Celadressering
+## 5.2. Sneltoetsen – Celadressering
 
 | Functie                    | Sneltoets             |
 |----------------------------|-----------------------|
@@ -64,6 +64,6 @@ De prijs per blikje staat in **cel B14**.
 
 ---
 
-## 3. Downloads
+## 5.3. Downloads
 
 - **[Werkmap 05 Celadressering](https://www.eduvip.nl/cms/files/Werkmap-05-celadressering.xlsx)**
