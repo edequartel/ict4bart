@@ -1,100 +1,129 @@
-#8.Werkblad beheer
+# 8. Werkblad beheer
 
-1. Werkblad beheer
-2. Sneltoetsen – Werkblad beheer
-3. Downloads
+1. [Werkblad beheer](#1-werkblad-beheer)  
+2. [Sneltoetsen – Werkblad beheer](#2-sneltoetsen--werkblad-beheer)  
+3. [Downloads](#3-downloads)  
 
-##1. Werkblad beheer
-De kolommen van een Excel werkblad hebben standaard een bepaalde breedte. In deze standaard breedte kunnen ongeveer 10 tekens staan. Als een getal of een tekst in een cel langer is dan deze 10 tekens, dan plaatst Excel het deel van de informatie boven de volgende, rechts liggende kolom en cel en kun je toch de hele celinhoud lezen. Maar als de rechts liggende cel ook in gebruik is kan dat niet en wordt de weergave ingekort tot het deel dat wel in de cel past. Als je gebruik maakt van een brailleleesregel en spraak heb je daar niet direct last van omdat in de logische brailleweergave altijd de hele celinhoud wordt weergegeven, maar visueel is een deel van de celinhoud dan niet te zien. Als je wil zien hoe dat er visueel uitziet, moet je de brailleweergave op fysieke weergave zetten.
+---
 
-###Demonstratie
-We gaan dit eens demonstreren met het bestand ‘Werkmap 08 werkbladen beheer.xlsx’. Open dit bestand en ga naar het werkblad ‘Werkbladenbeheer’.
+## 1. Werkblad beheer
 
-Ga vervolgens naar de cel A7. Hierin staat een straatnaam met huisnummer. Dit adres is te lang voor de lengte van de cel. De spraak zal tochhet hele woord voorlezen en als je brailleweergave op de logische of gestructureerde weergave staat, het hele adres ook in braille weergegeven.
+De **kolommen** van een Excel-werkblad hebben een **standaard breedte** waarin ongeveer 10 tekens passen. Wanneer de inhoud van een cel langer is dan de kolombreedte, wordt de tekst afgekapt. Voor visueel beperkte gebruikers is dit in brailleweergave niet direct merkbaar, maar in fysieke weergave kan de afgekorte inhoud zichtbaar worden.
 
-Schakel nu over naar de fysieke of regelmodus. Hierbij krijg je precies te zien wat er ook op het scherm te zien is. Nu krijg je te zien het afgekapte adres en daarnaast de inhoud van cel B7 en dat is de postcode 1338 SX.
+### Demonstratie: Kolombreedte aanpassen
 
-De kolom A is dus te smal voor het adres. Om de kolom breder te maken laat je de focus op de cel A7 staan en ga je naar de optie Kolombreedte AutoAanpassen. Deze optie staat in het start menu onder de optie Opmaak. De sneltoetsen om hier te komen zijn Alt voor het lint, R voor de optie start en O en daarna 2 voor het opmaak menu. Ga met pijl omlaag in het menu en activeer de optie Kolombreedte AutoAanpassen.
+**Download:** [Werkmap 08 Werkbladen beheer](https://www.eduvip.nl/cms/files/Werkmap-08-werkbladen-beheer.xlsx)  
+Open het bestand en ga naar het werkblad **Werkbladenbeheer**.
 
-Ook in fysieke of regelmodus zal nu het hele adres worden weergegeven.
+1. Ga naar **cel A7**.  
+   - Dit adres is langer dan de standaard kolombreedte.  
+   - Schakel over naar de **fysieke modus** in je schermleessoftware om het afgekorte adres te zien.
 
-Het kan natuurlijk zijn dat er verder in de kolom A een cel is met een inhoud die nog meer kolombreedte nodig heeft. Je kunt in zo’n cel het bovenstaande opnieuw uitvoeren en dan zal de kolom nog breder worden. Als je de hele kolom selecteert en de optie Kolombreedte
+2. **Kolombreedte AutoAanpassen**:  
+   - Laat de focus op **cel A7** staan.  
+   - Gebruik de sneltoetsen **Alt, R, O, 2** om de kolombreedte automatisch aan te passen.
 
-AutoAanpassen gebruikt, zal de kolombreedte worden ingesteld op de cel die de meeste tekens als inhoud heeft.
+Als er meerdere lange inhoudscellen in de kolom zijn, selecteer de hele kolom en voer opnieuw **Kolombreedte AutoAanpassen** uit.
 
-###Kolombreedte instellen op cel met meeste tekens
-Het selecteren van een kolom in Excel doe je met de toetsen Ctrl+Spatie. Dat is voor SuperNova ook de combinatie om naar het regelpaneel te gaan. Om deze toch te kunnen gebruiken geeft je eerst de doorgeeftoets en dat is voor SuperNova Ctrl+7.
+---
 
-###Zo doe je dat:
-* Selecteer de kolom; (Ctrl+Spatie)
-* Voer de optie Kolombreedte AutoAanpassen uit; (Alt, R, OO daarna omlaag naar optie Kolombreedte AutoAanpassen en Enter voor bevestigen)
+### Kolombreedte instellen voor getallen
 
-De kolombreedte is nu ingesteld op de cel met langste inhoud.
+Wanneer een kolom te smal is voor een getal, vervangt Excel de inhoud met **#**-tekens.  
+Ga naar **cel D4** in het werkblad **Werkbladenbeheer**.
 
-###Kolombreedte instellen voor getallen
-Als een kolom te smal is voor een tekst dan wordt deze afgekapt, zoals we gezien hebben. Als een kolom te smal is voor een getal, dan is dat problematischer. In dat geval wordt het hele getal vervangen door # (hekje teken). Ga naar de cel D4 van het werkblad ‘Werkbladenbeheer’.
+Pas de kolombreedte aan zoals bij teksten, zodat het getal zichtbaar wordt.
 
-Hierin staat de verkoopprijs van het huis. Om te zorgen dat het getal zichtbaar wordt in plaats van de hekjes ga je op dezelfde manier te werk als de kolombreedte aanpassen aan de lengte van een tekst in een cel.
+---
 
-###Opdracht 08.1
-Stel de breedte van kolom D in het werkblad ‘Werkbladenbeheer’ in op het grootste getal in deze kolom.
+### Opdracht 08.1: Kolombreedte aanpassen
 
-####Zo doe je dat:
-* Zoek in de kolom de cel met de hekjes;
-* Voer de optie Kolombreedte AutoAanpassen uit; (Alt, R, O, 2 daarna omlaag naar optie Kolombreedte AutoAanpassen en Enter voor bevestigen)
-* Controleer of er nog meer cellen zijn in deze kolom met alleen maar hekjes;
-* Als er meer cellen zijn met te grote getallen, dan voer je de optie Kolombreedte AutoAanpassen nog een keer uit totdat de kolombreedte genoeg is voor alle getallen in de kolom.
-* De kolombreedte is nu ingesteld op de cel met het grootste getal.
+Stel de breedte van **kolom D** in op het grootste getal in deze kolom.
 
-##Rijen en kolommen invoegen
-Het kan voorkomen dat je later een lege rij of kolom wil invoegen in je werkblad om nog meer gegevens te kunnen toevoegen.
+#### Stappenplan:
 
-Voor het invoegen van een volledige kolom moet je de kolom rechts van de plek waar je een nieuwe kolom wil invoegen selecteren. Voor het invoegen van een volledige rij moet je de rij onder de plek waar je een nieuwe rij wil invoegen selecteren.
+1. Zoek in de kolom de cel met **#**-tekens.  
+2. Pas **Kolombreedte AutoAanpassen** toe met **Alt, R, O, 2**.  
+3. Controleer of er nog meer cellen zijn met **#**-tekens en pas indien nodig de kolombreedte verder aan.
 
-Bij het invoegen van een kolom of rij worden bestaande kolommen en rijen opgeschoven naar recht of naar onderen. Eventuele formules op het werkblad worden automatische aangepast aan de nieuwe positie van de cellen.
+---
 
-###Opdracht 08.2
-Voeg links van kolom D een kolom toe. Zet in de kolomkop in cel D3 het woord Provincie en vul bij alle adressen de juiste provincie in kolom D.
+## Rijen en kolommen invoegen
 
-####Zo doe je dat:
-* Open het bestand Werkmap 07 en ga naar het werkblad met de naam ‘Werkbladenbeheer’.
-* Zet de celaanwijzer in kolom D
-* Selecteer de kolom D; Ctrl+Spatie (voor SuperNova eerst Ctrl+7)
-* Open het snelmenu; Shift+F10 of toets tweede rechts van spatiebalk
-* Ga naar de optie Invoegen; Pijl omlaag
-* Bevestig met Enter
-* Ga naar cel D3 en geef de kolomkop de naam ‘Provincie’
-* Vul achter ieder adres de juiste provincie in
+Je kunt nieuwe **rijen** of **kolommen** toevoegen om meer gegevens toe te voegen.
 
-###Opdracht 08.3
-Voeg boven rij 6 een rij toe. Zet in de nieuwe rij de je eigen adresgegevens en als verkoopprijs het bedrag 250.000 euro.
+- **Kolom invoegen**: Selecteer de **kolom rechts** van waar je de nieuwe kolom wilt toevoegen.  
+- **Rij invoegen**: Selecteer de **rij onder** waar je de nieuwe rij wilt toevoegen.
 
-####Zo doe je dat:
-* Open het bestand Werkmap 07 en ga naar het werkblad met de naam ‘Werkbladenbeheer’.
-* Zet de celaanwijzer in rij 6
-* Selecteer de rij; Shift+Spatie
-* Open het snelmenu; Shift+F10 of toets tweede rechts van spatiebalk
-* Ga naar de optie Invoegen; Pijl omlaag
-* Bevestig met Enter
-* Vul je eigen adresgegevens in op de ingevoegde rij. Neem als verkoopprijs 250.000 euro.
+Eventuele formules worden automatisch aangepast aan de nieuwe celposities.
 
-Controleer of alles gelukt is. De cel C6 moet je eigen woonplaats bevatten en de cel D6 de provincie waar je in woont.
+---
 
-Stuur het bestand Werkmap 08 Werkbladen beheer.xlsx naar je docent of begeleider.
+### Opdracht 08.2: Kolom toevoegen
 
-##2. Sneltoetsen Werkblad beheer
+Voeg links van **kolom D** een nieuwe kolom in.
 
-###Excel
-* Selecteren van een rij; Shift+Spatie
-* Selecteren van een kolom; Ctrl+Spatie
-* Kolombreedte automatisch instellen; Alt, R, OO, optie Kolombreedte AutoAanpassen
+1. Geef de kolomkop in **cel D3** de naam **Provincie**.  
+2. Vul bij alle adressen de juiste provincie in **kolom D**.
 
-###SuperNova
-* Lijstopties; Capslock+Tab
-* Lijst werkbladen; Capslock+5
+#### Stappenplan:
 
-###Jaws
-* Lijst werkbladen; Ctrl+Shift+s
+1. Zet de celaanwijzer in **kolom D**.  
+2. Selecteer de kolom met **Ctrl + Spatie** (gebruik eerst **Ctrl + 7** bij SuperNova).  
+3. Open het snelmenu met **Shift + F10**.  
+4. Selecteer **Invoegen** met de pijltoetsen en bevestig met **Enter**.  
+5. Ga naar **cel D3** en typ **Provincie**.  
+6. Vul bij elk adres de juiste provincie in **kolom D**.
 
-##Downloads:
-[Werkmap 08 werkbladen beheer](https://www.eduvip.nl/cms/files/Werkmap-08-werkbladen-beheer.xlsx)
+---
+
+### Opdracht 08.3: Rij toevoegen
+
+Voeg boven **rij 6** een nieuwe rij toe.
+
+1. Vul je eigen **adresgegevens** in deze rij.  
+2. Zet in **C6** je woonplaats en in **D6** de provincie waar je woont.  
+3. Voeg in **E6** de verkoopprijs **€ 250.000** toe.
+
+#### Stappenplan:
+
+1. Zet de celaanwijzer in **rij 6**.  
+2. Selecteer de rij met **Shift + Spatie**.  
+3. Open het snelmenu met **Shift + F10**.  
+4. Selecteer **Invoegen** en bevestig met **Enter**.  
+5. Vul je gegevens in op de ingevoegde rij.
+
+**Controleer:** De cel **C6** moet je woonplaats bevatten en **D6** de provincie.
+
+Stuur het bestand **Werkmap 08 Werkbladen beheer.xlsx** naar je docent of begeleider.
+
+---
+
+## 2. Sneltoetsen – Werkblad beheer
+
+### Excel
+
+| Functie                              | Sneltoets            |
+|--------------------------------------|----------------------|
+| Selecteren van een rij               | `Shift + Spatie`     |
+| Selecteren van een kolom             | `Ctrl + Spatie`      |
+| Kolombreedte automatisch instellen    | `Alt, R, O, 2`       |
+
+### SuperNova
+
+| Functie                              | Sneltoets            |
+|--------------------------------------|----------------------|
+| Lijstopties                           | `Capslock + Tab`     |
+| Lijst werkbladen                      | `Capslock + 5`       |
+
+### JAWS
+
+| Functie                              | Sneltoets            |
+|--------------------------------------|----------------------|
+| Lijst werkbladen                      | `Ctrl + Shift + S`   |
+
+---
+
+## 3. Downloads
+
+- **[Werkmap 08 Werkbladen beheer](https://www.eduvip.nl/cms/files/Werkmap-08-werkbladen-beheer.xlsx)**
