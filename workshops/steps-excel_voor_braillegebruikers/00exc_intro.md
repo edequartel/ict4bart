@@ -1,4 +1,4 @@
-#Introductie Excel 2010 cursus
+# Introductie Excel 2010 cursus
 
 1. Introductie Excel 2010 cursus voor docenten
 2. Introductie Excel 2010 cursus voor studenten
