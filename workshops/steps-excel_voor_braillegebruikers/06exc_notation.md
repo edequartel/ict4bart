@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Getalnotatie
+## 6.1. Getalnotatie
 
 In Excel voer je getallen in zonder eenheden zoals **euro's** of **procenten**. Deze eenheden voeg je toe via de **celeigenschappen** met **Ctrl+1**.
 
@@ -14,7 +14,7 @@ In deze opdracht berekenen we de groei van een spaarbedrag door jaarlijkse rente
 
 ---
 
-### Opdracht 06.1: Getalnotaties instellen
+### Opdracht 6.1: Getalnotaties instellen
 
 **Download:** [Werkmap 06 Getalnotaties](https://www.eduvip.nl/cms/files/Werkmap-05-celadressering.xlsx)  
 Verken het rekenblad.
@@ -37,7 +37,7 @@ Verken het rekenblad.
 
 ---
 
-### Opdracht 06.2: Renteberekening
+### Opdracht 6.2: Renteberekening
 
 1. Bereken in **B14** de **rente over het eerste jaar** door **B10** te vermenigvuldigen met **B11**.  
 2. Bereken in **C14** het **totaalbedrag voor het eerste jaar** door het startbedrag en de rente op te tellen.
@@ -91,7 +91,7 @@ Stuur het bestand **Werkmap 06 Getalnotatie.xlsx** naar je docent of trainer.
 
 ---
 
-## 2. Sneltoetsen – Getalnotatie
+## 6.2. Sneltoetsen – Getalnotatie
 
 | Functie                     | Sneltoets             |
 |-----------------------------|-----------------------|
@@ -100,6 +100,6 @@ Stuur het bestand **Werkmap 06 Getalnotatie.xlsx** naar je docent of trainer.
 
 ---
 
-## 3. Downloads
+## 6.3. Downloads
 
 - **[Werkmap 06 Getalnotaties](https://www.eduvip.nl/cms/files/Werkmap-05-celadressering.xlsx)**
