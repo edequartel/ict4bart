@@ -1,141 +1,154 @@
-#4 Doorvoeren gegevens
+# 4. Doorvoeren gegevens
 
-1. Info docent – Doorvoeren gegevens
-2. Onderwerp – Doorvoeren gegevens
-3. Sneltoetsen – Doorvoeren gegevens
-4. Downloads
+1. [Info docent – Doorvoeren gegevens](#1-info-docent--doorvoeren-gegevens)  
+2. [Onderwerp – Doorvoeren gegevens](#2-onderwerp--doorvoeren-gegevens)  
+3. [Sneltoetsen – Doorvoeren gegevens](#3-sneltoetsen--doorvoeren-gegevens)  
+4. [Downloads](#4-downloads)  
 
-##1. Info docent – Doorvoeren gegevens
+---
 
-Automatisch aanvullen en het doorvoeren van gegevens zijn functionaliteiten van Excel om efficiënt cellen te voorzien van informatie.
+## 1. Info docent – Doorvoeren gegevens
 
-Automatisch aanvullen werkt voor spraak- en braillegebruiker op dezelfde manier als voor schermgebruikers (Enter om te bevestigen en Backspace om te negeren), maar het doorvoeren van getallen en reeksen kan voor braille/spraak gebruikers niet met de ‘vulgreep’. Voor het doorvoeren van getallen en reeksen ben je aangewezen op het lint in Excel. In veel gevallen moet je daarvoor een groot aantal toetsaanslagen gebruiken. Om op de juiste plek in het lint te komen kun je de volgende methoden gebruiken:
+**Automatisch aanvullen** en **doorvoeren van gegevens** zijn handige functies in Excel om efficiënt informatie in cellen te plaatsen.
 
-* Alt en pijl links/rechts om naar het startmenu te gaan
-* Tab of Shift+Tab om naar de juiste plek in het menu Start te gaan. Enter om menu ‘Doorvoeren’ te openen
-* Met pijl omlaag om bijvoorbeeld naar de optie, Reeks te gaan. Enter om dialoogvenster te openen
-* Met tabtoets naar juiste optie in het dialoogvenster te gaan
+### Automatisch aanvullen
 
-Een alternatieve manier is met alleen sneltoetsen. Nadeel is dat je al deze toetsen moet onthouden en je minder inzicht krijgt in de samenstelling van het menu.
+Deze functie werkt hetzelfde voor spraak- en braillegebruikers als voor schermgebruikers:
 
-* Alt+R voor menu-start
-* TQ voor menu doorvoeren (GO voor nieuwe versies van Excel)
-* K voor dialoogvenster reeks****
+- **Enter** om de suggestie te bevestigen.  
+- **Backspace** om de suggestie te negeren.
 
-**Afbeelding: Dialoogvenster reeks doorvoeren**
+### Doorvoeren van getallen en reeksen
 
-Het type doorvoeren kan worden gekozen door met de tabtoets door de opties te lopen of door de onderstreepte letter van een opties als sneltoets te gebruiken.
+Voor braille-/spraakgebruikers werkt de **vulgreep** niet. In plaats daarvan gebruik je het lintmenu van Excel.
 
-##2. Onderwerp – Doorvoeren gegevens
+#### Navigeren in het lintmenu
 
-Ook voor het efficiënt invoeren van gegevens in een Excel rekenblad zijn er mogelijkheden om informatie in één cel te plaatsen en deze daarna door te voeren naar andere cellen. Dit kan met de functie Automatische aanvullen en de functie Doorvoeren.
+| Actie                | Toetscombinatie              |
+|----------------------|------------------------------|
+| Naar het startmenu   | `Alt` + Pijltjestoetsen       |
+| Navigeren door het menu | `Tab` of `Shift + Tab`      |
+| Openen menu 'Doorvoeren' | `Enter`                   |
+| Selecteer 'Reeks'    | Pijl omlaag of `K`            |
 
-Bij het doorvoeren kan het gaan om dezelfde informatie die je in meer cellen wil hebben, doorvoeren is dan kopiëren. Ook kan het zijn dat je
-een getal in de eerste cel plaatst en dat je in de volgende cellen dit getal wil laten oplopen met een interval van bijvoorbeeld 5. Het volgende getal is dan 5 hoger.
+Een snellere methode is met alleen sneltoetsen:
 
-Doorvoeren kan ook betekenen dat je in een cel het woord januari plaatst en dat bij doorvoeren automatisch de volgende maanden komen,
-of dat je begint met maandag en er in de volgende cellen de andere dagen van de week komen.
+| Actie                       | Toetscombinatie |
+|-----------------------------|-----------------|
+| Menu Start                  | `Alt + R`       |
+| Doorvoeren menu             | `TQ` (of `GO` voor nieuwe versies) |
+| Openen dialoogvenster 'Reeks' | `K`            |
 
-###Opdracht 04.1
-Download en open het bestand Werkmap 04 Doorvoeren gegevens.xlsx.
+---
 
-Ga naar de cel B4 met inhoud ‘2010’ en voer dit getal door tot cel F4 met een interval van 1. Het laatste getal is dan 2014.
+## 2. Onderwerp – Doorvoeren gegevens
 
-####Zo doe je dat:
-Ga in B4 staan en selecteer tot de cel F4 (met Shift+pijltjestoetsen of met Ctrl+G en opgeven van cellen)
-Ga naar het menu start; Alt+R
-Ga naar doorvoeren; shift-tab tot de menu optie ‘doorvoeren’ of met de sneltoetsen T,Q (GO voor nieuwe versies van Excel)
-Ga naar de optie Reeks; pijl omlaag of met sneltoets k
-Ga naar de interval en zet deze op 1
-Zet doorvoer type op Lineair (hiervoor tab je door het dialoogvenster, en kies je bij Type met de pijltjestoetsen)
-Enter om te bevestigen
+Het **doorvoeren van gegevens** kan gebruikt worden om:
 
-###Opdracht 04.2
+1. **Dezelfde informatie** in meerdere cellen te kopiëren.  
+2. **Reeksen** aan te maken (bijvoorbeeld maanden of getallen met een interval).  
 
-Ga naar de cel A5 met de inhoud ‘januari’ en voer deze cel door naar A16 zodanig dat in deze kolom de maanden van het jaar komen.
+---
 
-###Zo doe je dat:
-Ga in cel A5 staan en selecteer tot de cel A16 (met Shift+pijltjestoetsen of met Ctrl+G en opgeven van cellen)
-Ga naar het menu start; Alt+R
-Ga naar doorvoeren; shift-tab tot de menu optie ‘doorvoeren’ of met de sneltoetsen TQ (GO voor nieuwe versies van Excel)
-Ga naar de optie Reeks; pijl omlaag of met sneltoets k
-Zet doorvoer type op Automatische
-Enter om te bevestigen
+### Opdracht 04.1: Doorvoeren van getallen
 
-###Opdracht 04.3
-We gaan nu de productie aantallen van de Multitool invoeren waarbij we weer gebruikmaken van het doorvoeren van gegevens. We beginnen met de doorvoerfunctie waarbij de inhoud in de doorgevoerde cellen hetzelfde is.
+**Download:** [Werkmap 04 Doorvoeren gegevens.xlsx](https://www.eduvip.nl/cms/files/Werkmap-04-doorvoeren-gegevens.xlsx)
 
-Dit kan weer met de eenvoudige functie die we ook in de vorige werkmap hebben gebruikt en wel de Ctrl+D als je naar beneden wil
+1. Ga naar **cel B4** met inhoud **‘2010’**.  
+2. Voer dit getal door tot **cel F4** met een interval van **1**.  
+   - Het laatste getal moet **2014** zijn.
 
-doorvoeren en Ctrl+R als je naar rechts wil doorvoeren.
+#### Stappenplan:
 
-Voer de inhoud van cel B5 door naar omlaag en naar rechts voor alle maanden en jaren.
+- Selecteer de cellen van **B4** tot **F4** met `Shift + Pijltjestoetsen` of `Ctrl + G`.  
+- Ga naar het **menu Start** met `Alt + R`.  
+- Open het menu **Doorvoeren** met `TQ`.  
+- Selecteer **Reeks** met de pijltoetsen of **K**.  
+- Zet het **interval** op **1** en bevestig met **Enter**.
 
-####Zo doe je dat:
-Ga in cel B5 staan met inhoud ’25’ en selecteer tot cel B16 (dat is de rij van de maand januari)
-Geef Ctrl+D om door te voeren omlaag
-Ga in cel B5 staan met inhoud ’25’ en selecteer tot cel F5 (dat is de kolom van het jaar 2014)
-Geef Ctrl+R om door te voeren naar rechts
+---
 
-###Opdracht 04.4
-We gaan nu doorvoeren met een interval. Dat wil zeggen dat de inhoud van de volgende cel meer of minder wordt met een op te geven verschil.
+### Opdracht 04.2: Doorvoeren van maanden
 
-Laat de productie aantallen van februari van 2010 tot 2014 oplopen met een interval van 1
+1. Ga naar **cel A5** met inhoud **‘januari’**.  
+2. Voer deze cel door naar **A16** om de maanden van het jaar in te vullen.
 
-####Zo doe je dat:
-Ga in cel B6 staan en selecteer tot cel F6
-Ga naar het menu start; Alt+R
-Ga naar doorvoeren; shift-tab tot de menu optie ‘doorvoeren’ of met de sneltoetsen TQ (GO voor nieuwe versies van Excel)
-Ga naar de optie Reeks; pijl omlaag of met sneltoets k
-Zet doorvoer type op Lineair
-Zet interval op 1
-Enter om te bevestigen
-We gaan de inhoud van nog een aantal cellen doorvoeren met een verschillende interval.
-Laat de productie aantallen van maart van 2010 tot 2014 oplopen met een interval van 2
-Laat de productie aantallen van april van 2010 tot 2014 oplopen met een interval van 5
-Laat de productie aantallen van mei van 2010 tot 2014 oplopen met een interval van 10
-Laat de productie aantallen van juni van 2010 tot 2014 oplopen met een interval van 5
-Laat de productie aantallen van juli van 2010 tot 2014 oplopen met een interval van 10
-Laat de productie aantallen van augustus van 2010 tot 2014 oplopen met een interval van 5
-Laat de productie aantallen van september van 2010 tot 2014 oplopen met een interval van 10
-Laat de productie aantallen van oktober van 2010 tot 2014 oplopen met een interval van 5
-Laat de productie aantallen van november van 2010 tot 2014 oplopen met een interval van 10
-Laat de productie aantallen van december van 2010 tot 2014 oplopen met een interval van 5
-Als controle of alles goed gegaan is gaan we alle productie aantallen 2014 optellen in cel F17. Het antwoord is 572.
+#### Stappenplan:
 
-Controleer of de optelling correct is.
+- Selecteer de cellen van **A5** tot **A16**.  
+- Ga naar het **menu Start** met `Alt + R`.  
+- Open het menu **Doorvoeren** met `TQ`.  
+- Kies de optie **Reeks** met de pijltoetsen of **K**.  
+- Zet het **doorvoertype** op **Automatisch** en bevestig met **Enter**.
 
-####Automatisch aanvullen
-Automatische aanvullen is de functie die je veel tegenkomt in een lijst waarbij er een woord in een invulveld verschijnt zodra je de eerste letter of de eerste letters hebt ingetypt. Dit automatisch aanvullen werkt in Excel alleen voor tekst of eventueel een combinatie van tekst met getallen, maar niet voor getallen of data. Nog een andere voorwaarde is dat er minstens één aanliggende cel informatie moet bevatten.
+---
 
-Als je bijvoorbeeld in cel A17 gaat staan en de letter s typt dan verschijnt het woord september als automatisch aanvullen suggestie. Deze aanvulling kun je accepteren met een Enter of negeren met de Backspace. Als er meer woorden in de kolom met dezelfde letter beginnen verschijnt de aanvul suggestie bij een tweede of derde letter.
+### Opdracht 04.3: Doorvoeren van productieaantallen
 
-###Opdracht 04.5
-Type onder de maanden in kolom A nogmaals de namen van de maanden januari tot en met december met behulp van automatisch aanvullen. Begin in cel A17.
+1. Ga naar **cel B5** met inhoud **‘25’**.  
+2. Voer deze waarde door naar **B16** (omlaag) en **F5** (naar rechts).
 
-Controleer of de maanden correct zijn ingevoerd en stuur je bestand 04 Doorvoeren gegevens.xlsx met uitgewerkte opdrachten naar je docent.
+#### Stappenplan:
 
-##3. Sneltoetsen Doorvoeren
-Voor het doorvoeren van formules en gegevens zijn de volgende sneltoetsen van toepassing:
+- Selecteer **B5 t/m B16** en gebruik **Ctrl + D** om omlaag door te voeren.  
+- Selecteer **B5 t/m F5** en gebruik **Ctrl + R** om naar rechts door te voeren.
 
-###Excel
-* Selecteren; Shift+pijltjes toetsen of Ctrl+G en eerste en laatste cel opgeven
-* Kopieren/doorvoeren naar rechts; Ctrl+R
-* Kopiëren/doorvoeren naar omlaag; Ctrl+D
-* Vet maken inhoud van cellen; Ctrl+B
+---
 
-###SuperNova
-* Lezen kolom en rij-koppen; Capslock+H of Num 3
-* Stel rij of kolom in voor lezen van koppen; selecteer gegevens en maak deze vet
-* Schakel automatisch lezen van koppen in; Ctrl+Capslock+H
+### Opdracht 04.4: Doorvoeren met interval
 
-###Jaws
-* Lees kolomkop; INSERT+ALT+SHIFT+C
-* Stel de huidige rij in voor de kolomkoppen; INSERT+ALT+CTRL+C
-* Lees rijkop; INSERT+ALT+SHIFT+R
-* Stel de huidige kolom in voor de rijkoppen; INSERT+ALT+CTRL+R
-* Lees de actieve celcoördinaten; INSERT+C
+1. Ga naar **cel B6** en voer de productieaantallen van februari 2010 t/m 2014 in met een interval van **1**.
 
-##Downloads:
-* [Dialoog Reeks doorvoeren](https://www.eduvip.nl/cms/files/DialoogReeksdoorvoeren.jpg)
-* [Werkmap 04 doorvoeren gegevens](https://www.eduvip.nl/cms/files/Werkmap-04-doorvoeren-gegevens.xlsx)
+#### Stappenplan:
+
+- Selecteer **B6 t/m F6**.  
+- Ga naar het **menu Start** met `Alt + R`.  
+- Open het menu **Doorvoeren** met `TQ`.  
+- Kies de optie **Reeks** met **K**.  
+- Zet het **doorvoertype** op **Lineair** en het **interval** op **1**.  
+- Bevestig met **Enter**.
+
+Voer vervolgens productieaantallen door met verschillende intervallen voor de maanden **maart t/m december**:
+
+| Maand      | Interval |
+|------------|----------|
+| Maart      | 2        |
+| April      | 5        |
+| Mei        | 10       |
+| Juni       | 5        |
+| Juli       | 10       |
+| Augustus   | 5        |
+| September  | 10       |
+| Oktober    | 5        |
+| November   | 10       |
+| December   | 5        |
+
+**Controleer:** De optelling van productieaantallen in **cel F17** moet **572** zijn.
+
+---
+
+### Opdracht 04.5: Automatisch aanvullen
+
+1. Ga naar **cel A17**.  
+2. Typ de namen van de maanden **januari t/m december** met behulp van **automatisch aanvullen**.
+
+**Controleer:** Controleer of de maanden correct zijn ingevoerd.  
+**Stuur:** Stuur je bestand **04 Doorvoeren gegevens.xlsx** met uitgewerkte opdrachten naar je docent.
+
+---
+
+## 3. Sneltoetsen – Doorvoeren gegevens
+
+| Functie                         | Sneltoets            |
+|---------------------------------|----------------------|
+| Selecteren                      | `Shift + Pijltjestoetsen` of `Ctrl + G` |
+| Doorvoeren naar rechts           | `Ctrl + R`           |
+| Doorvoeren naar beneden          | `Ctrl + D`           |
+| Vet maken inhoud van cellen      | `Ctrl + B`           |
+
+### SuperNova
+
+| Functie                         | Sneltoets            |
+|---------------------------------|----------------------|
+| Lezen kolom- en rij-koppen       | `Capslock + H` of `Num 3` |
+| Automatisch lezen van koppen     | `Ctrl + Capslock + H` |
