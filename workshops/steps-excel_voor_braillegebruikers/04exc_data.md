@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Info docent – Doorvoeren gegevens
+## 4.1. Info docent – Doorvoeren gegevens
 
 **Automatisch aanvullen** en **doorvoeren van gegevens** zijn handige functies in Excel om efficiënt informatie in cellen te plaatsen.
 
@@ -41,7 +41,7 @@ Een snellere methode is met alleen sneltoetsen:
 
 ---
 
-## 2. Onderwerp – Doorvoeren gegevens
+## 4.2. Onderwerp – Doorvoeren gegevens
 
 Het **doorvoeren van gegevens** kan gebruikt worden om:
 
@@ -50,7 +50,7 @@ Het **doorvoeren van gegevens** kan gebruikt worden om:
 
 ---
 
-### Opdracht 04.1: Doorvoeren van getallen
+### Opdracht 4.1: Doorvoeren van getallen
 
 **Download:** [Werkmap 04 Doorvoeren gegevens.xlsx](https://www.eduvip.nl/cms/files/Werkmap-04-doorvoeren-gegevens.xlsx)
 
@@ -68,7 +68,7 @@ Het **doorvoeren van gegevens** kan gebruikt worden om:
 
 ---
 
-### Opdracht 04.2: Doorvoeren van maanden
+### Opdracht 4.2: Doorvoeren van maanden
 
 1. Ga naar **cel A5** met inhoud **‘januari’**.  
 2. Voer deze cel door naar **A16** om de maanden van het jaar in te vullen.
@@ -83,7 +83,7 @@ Het **doorvoeren van gegevens** kan gebruikt worden om:
 
 ---
 
-### Opdracht 04.3: Doorvoeren van productieaantallen
+### Opdracht 4.3: Doorvoeren van productieaantallen
 
 1. Ga naar **cel B5** met inhoud **‘25’**.  
 2. Voer deze waarde door naar **B16** (omlaag) en **F5** (naar rechts).
@@ -95,7 +95,7 @@ Het **doorvoeren van gegevens** kan gebruikt worden om:
 
 ---
 
-### Opdracht 04.4: Doorvoeren met interval
+### Opdracht 4.4: Doorvoeren met interval
 
 1. Ga naar **cel B6** en voer de productieaantallen van februari 2010 t/m 2014 in met een interval van **1**.
 
@@ -127,7 +127,7 @@ Voer vervolgens productieaantallen door met verschillende intervallen voor de ma
 
 ---
 
-### Opdracht 04.5: Automatisch aanvullen
+### Opdracht 4.5: Automatisch aanvullen
 
 1. Ga naar **cel A17**.  
 2. Typ de namen van de maanden **januari t/m december** met behulp van **automatisch aanvullen**.
