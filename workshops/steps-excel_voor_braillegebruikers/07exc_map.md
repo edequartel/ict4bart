@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Werkmap beheer
+## 7.1. Werkmap beheer
 
 Een Excel-bestand wordt **werkmap** genoemd. Een werkmap bevat één of meerdere **werkbladen**, vergelijkbaar met tabbladen in een dialoogvenster.  
 Elk werkblad is een grote tabel waarbij de kolommen beginnen met **A** en de rijen met **1**.
@@ -33,9 +33,9 @@ Schermleesprogramma’s bieden lijsten om werkbladen te bekijken en er snel tuss
 
 ---
 
-### Opdracht 07.1: Werkbladen bekijken
+### Opdracht 7.1: Werkbladen bekijken
 
-**Download:** [Werkmap 07 Werkmap beheer](https://www.eduvip.nl/cms/files/Werkmap-07-werkmap-beheer.xlsx)
+**Download:** [Werkmap 7 Werkmap beheer](https://www.eduvip.nl/cms/files/Werkmap-07-werkmap-beheer.xlsx)
 
 1. Gebruik **Ctrl + Page Down** en **Ctrl + Page Up** om door de werkbladen te navigeren.  
 2. Gebruik de lijstopties van je schermleesprogramma om een overzicht van de werkbladen te krijgen:  
@@ -45,7 +45,7 @@ Schermleesprogramma’s bieden lijsten om werkbladen te bekijken en er snel tuss
 
 ---
 
-### Opdracht 07.2: Kosten koper berekenen
+### Opdracht 7.2: Kosten koper berekenen
 
 In deze opdracht bereken je de **‘kosten koper’**, het bedrag dat je naast de koopsom van een huis moet betalen.
 
@@ -73,7 +73,7 @@ De kosten zijn steeds een percentage van de koopsom of het hypotheekbedrag:
 
 ---
 
-### Opdracht 07.3: Werkbladen toevoegen en wijzigen
+### Opdracht 7.3: Werkbladen toevoegen en wijzigen
 
 1. Ga naar het werkblad **Huis kopen**.  
 2. Voeg een nieuw werkblad toe met **Shift + F11**.  
@@ -95,7 +95,7 @@ De kosten zijn steeds een percentage van de koopsom of het hypotheekbedrag:
 
 ---
 
-## 2. Sneltoetsen – Werkmap beheer
+## 7.2. Sneltoetsen – Werkmap beheer
 
 ### Excel
 
@@ -119,6 +119,6 @@ De kosten zijn steeds een percentage van de koopsom of het hypotheekbedrag:
 
 ---
 
-## 3. Downloads
+## 7.3. Downloads
 
 - **[Werkmap 07 Werkmap beheer](https://www.eduvip.nl/cms/files/Werkmap-07-werkmap-beheer.xlsx)**
