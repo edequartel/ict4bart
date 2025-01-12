@@ -7,7 +7,7 @@
 
 ---
 
-## Info docent 02 Basisberekeningen
+## 2.1. Info docent - Basisberekeningen
 
 ### Formules
 
@@ -20,7 +20,7 @@ Voor spraak- en braillegebruikers is de tweede methode eenvoudiger. Gebruik **F2
 
 ---
 
-## Onderwerp 02 Basisberekeningen
+## 2.2. Basisberekeningen
 
 In deze opdracht leer je hoe je basisberekeningen maakt in Excel, waaronder:
 
@@ -34,7 +34,7 @@ Formules beginnen altijd met een **is-gelijkteken (=)**.
 
 ---
 
-### Opdracht 02.1: Basisbewerkingen
+### Opdracht 2.1 Basisbewerkingen
 
 **Download:** [Werkmap 02 Basisberekeningen](https://www.eduvip.nl/cms/files/Werkmap-02-basisberekeningen.xlsx)
 
@@ -54,7 +54,7 @@ Bijvoorbeeld: `=SOM(B9:B12)`
 
 ---
 
-### Opdracht 02.2: SOM-formule
+### Opdracht 2.2 SOM-formule
 
 1. Ga naar cel **B13**.  
 2. Voer de formule in om de cellen **B9** tot **B12** op te tellen:  
@@ -75,7 +75,7 @@ Statistische functies die je leert:
 
 ---
 
-### Opdracht 02.3: Statistische formules
+### Opdracht 2.3 Statistische formules
 
 1. Ga naar cel **B17** en bereken het **gemiddelde** van de cellen **B18:B20**.  
 2. Ga naar cel **C17** en bereken het **maximum** van de cellen **C18:C20**.  
