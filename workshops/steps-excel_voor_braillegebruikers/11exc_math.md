@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Abc formule
+## 11.1. Abc formule
 
 Een **kwadratische vergelijking** kan worden herleid tot de standaardvorm:
 
@@ -49,7 +49,7 @@ Herleiden levert de waarden:
 
 ---
 
-## 2. Inklemmen
+## 11.2. Inklemmen
 
 Bij het **inklemmen van een vergelijking** bepaal je de oplossing door een inschatting te maken en vervolgens een tabel met berekeningen te gebruiken om dichter bij het juiste antwoord te komen.
 
@@ -109,7 +109,7 @@ Maak zelf een tabel met de volgende vergelijkingen:
 
 ---
 
-## 3. Downloads
+## 11.3. Downloads
 
 - [Werkmap 11-1 abc formule](https://www.eduvip.nl/cms/files/Werkmap-11-1-abc-formule.xlsx)  
 - [Werkmap 11-2 Inklemmen](https://www.eduvip.nl/cms/files/Werkmap-11-2-Inklemmen.xlsx)  
