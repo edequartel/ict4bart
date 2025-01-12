@@ -1,4 +1,4 @@
-# 6. Getalnotatie
+no # 6. Getalnotatie
 
 1. [Getalnotatie](#1-getalnotatie)  
 2. [Sneltoetsen – Getalnotatie](#2-sneltoetsen--getalnotatie)  
@@ -78,7 +78,7 @@ Bijvoorbeeld voor **telefoonnummers**. Excel verwijdert automatisch een **0** aa
 
 Getallen kunnen ook als **breuken** worden weergegeven. Voorbeeld: het getal **0,5** kan worden weergegeven als **1/2**.
 
-### Opdracht 06.4: Breuken instellen
+### Opdracht 6.4: Breuken instellen
 
 1. Voer in **A28** het getal **0,25** in.  
 2. Stel de getalnotatie van **A28** in op **Breuk** met maximaal twee cijfers.  
