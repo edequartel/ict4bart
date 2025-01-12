@@ -156,11 +156,11 @@ Voer vervolgens productieaantallen door met verschillende intervallen voor de ma
 Jaws
 | **Functie**                                 | **Sneltoets**              |
 |---------------------------------------------|---------------------------|
-| Lees kolomkop                               | INSERT + ALT + SHIFT + C   |
-| Stel de huidige rij in voor de kolomkoppen  | INSERT + ALT + CTRL + C    |
-| Lees rijkop                                 | INSERT + ALT + SHIFT + R   |
-| Stel de huidige kolom in voor de rijkoppen  | INSERT + ALT + CTRL + R    |
-| Lees de actieve celcoördinaten              | INSERT + C                 |
+| Lees kolomkop                               | `INSERT + ALT + SHIFT + C` |
+| Stel de huidige rij in voor de kolomkoppen  | `INSERT + ALT + CTRL + C`  |
+| Lees rijkop                                 | `INSERT + ALT + SHIFT + R` |
+| Stel de huidige kolom in voor de rijkoppen  | `INSERT + ALT + CTRL + R`  |
+| Lees de actieve celcoördinaten              | `INSERT + C`               |
 
 ## 4.4. Downloads:
 Dialoog Reeks doorvoeren
