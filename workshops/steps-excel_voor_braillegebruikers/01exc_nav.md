@@ -1,64 +1,95 @@
 # Navigeren
 
-1. Info docent – Navigeren
-2. Onderwerp – Navigeren
-3. Sneltoetsen – Navigeren
-4. Downloads
+1. [Info docent – Navigeren](#1-info-docent-navigeren)  
+2. [Onderwerp – Navigeren](#2-onderwerp-navigeren)  
+3. [Sneltoetsen – Navigeren](#3-sneltoetsen-navigeren)  
+4. [Downloads](#4-downloads)  
 
-## 1. Info docent navigeren
-De essentie van het werken met Excel is dat de informatie twee dimensionaal wordt weergegeven, ofwel, de wijze waarop de gegevens onder elkaar in een kolom, dan wel naast elkaar in een rij zijn weergegeven, zijn van belang voor het begrip van het geheel. Gebruikmaken van spraak-uitvoer of braille-uitvoer door een visueel beperkte leerling/student betekent dat je de gegevens van een rekenblad maar in heel kleine brokjes tegelijk te horen krijgt of kunt lezen op de brailleleesregel. In de meeste gevallen de inhoud van één cel per keer of op zijn hoogst van 3 à 4 cellen tegelijk. Uit deze informatie per cel moet inzicht worden verkregen van het gehele rekenblad.
-Om de gebruiker van braille- en spraakuitvoer te helpen bij de oriëntatie op het rekenblad en het verkrijgen van inzicht in de opzet van eenvberekening, wordt er steeds weergegeven in welke rij en kolom de cel-aanwijzer zich bevindt (zie afbeelding hieronder). Daarnaast kan er extra informatie worden weergegeven over het actuele rekenblad en de inhoud van de cel.
+---
 
-Voorbeeld van de informatie die op de brailleleesregel kan worden gelezen:
+## 1. Info docent – Navigeren
 
-**Afbeelding:**
+De essentie van het werken met Excel is dat de informatie tweedimensionaal wordt weergegeven. De wijze waarop de gegevens onder elkaar in een kolom, dan wel naast elkaar in een rij, zijn weergegeven is essentieel voor het begrijpen van het geheel.
 
-In het bovenste gedeelte van de afbeelding is de brailleschermmonitor te zien. Deze monitor geeft de informatie op de brailleleesregel te weer. ‘tbl’ staat voor tabblad, ‘B’ voor de kolom, ‘5’ voor het rijnummer, ‘150’ voor de inhoud van de cel en ‘form’ wordt toegevoegd om aan te geven dat deze cel een formule bevat.
+Visueel beperkte leerlingen en studenten maken gebruik van spraak- of braille-uitvoer. Hierbij krijgen zij slechts kleine brokjes informatie tegelijk te horen of te lezen, vaak slechts de inhoud van één cel per keer. Het verkrijgen van inzicht in het gehele rekenblad is dan een uitdaging.
 
-Voor het navigeren van de cel-aanwijzer over het rekenblad zijn er de bekende toetsen of toetscombinaties:
+Om hierbij te helpen, geeft Excel informatie over de **rij** en **kolom** waarin de **celaanwijzer** zich bevindt. Daarnaast kan aanvullende informatie over de inhoud van de cel worden weergegeven.
 
-###Navigatie sneltoetsen:
+### Voorbeeld brailleleesregel
 
-1. Naar aanliggende cellen; pijl recht/links/omlaag/omhoog
-2. Naar eerste cel (A1); Ctrl+Home
-3. Naar laatste cel van het gebied waarin de cellen met gegevens zich bevinden; Ctrl+End
-4. Naar eerst volgende cel met gegevens; Ctrl+pijl rechts/links/omlaag/omhoog
-5. Naar bepaalde cel; Ctrl+G of F5
+In de braillemonitor kan de volgende informatie worden gelezen:
 
-##2. Onderwerp navigeren
+- **tbl**: Tabblad  
+- **B**: Kolom  
+- **5**: Rij  
+- **150**: Inhoud van de cel  
+- **form**: Cel bevat een formule  
 
-###Opdracht 01 Navigeren
+**Afbeelding: [Braillemonitor met info](https://www.eduvip.nl/cms/files/Braillemonitor-met-info.jpg)**
 
-De eerste opdracht is het leren navigeren over een rekenblad.
+### Navigatie sneltoetsen
 
-####Opdracht 01.1
+| Functie                                        | Toetscombinatie            |
+|------------------------------------------------|----------------------------|
+| Naar aanliggende cellen                        | Pijltjestoetsen             |
+| Naar eerste cel (A1)                           | `Ctrl + Home`              |
+| Naar laatste cel met gegevens                  | `Ctrl + End`               |
+| Naar eerstvolgende cel met gegevens            | `Ctrl + Pijltoets`         |
+| Naar bepaalde cel                              | `Ctrl + G` of `F5`         |
 
-Download en open het Excel bestand: ‘Werkmap 01 Navigeren.xlsx’.
+---
 
-Dit bestand kun je vanaf het voorgaande documentenoverzicht van dit hoofdstuk downloaden. Documenten die van het internet worden gedownload zijn beveiligd en kun je niet lezen of werken. Deze beveiliging opheffen doe je bij bestandsinformatie in het bestandsmenu en ook met de toetsen: Alt, b, i, g.
+## 2. Onderwerp – Navigeren
 
-Na het openen van een Excel bestand staat de celaanwijzer op de cel A1. Dat is de cel linksboven op het rekenblad. Met de pijltjes toetsen kun je naar rechts en omlaag om andere cellen te lezen of te bewerken.
+### Opdracht 01 Navigeren
 
-Ga twee kolommen naar rechts en twee rijen omlaag. Je bent dan aangekomen in cel C3. De inhoud van deze cel is het woord ‘Met’. Zorg dat je brailleweergave in gestructureerde of logische modus staat. In braille en spraak krijg je nu weergegeven: tbl C 3 Met. Ofwel je bent in een tabel, in kolom C rij 3 en de inhoud is ‘Met’. Afhankelijk van andere instelling en het schermleesprogramma dat je gebruikt kan de weergegeven informatie iets afwijken, meer of minder informatie bevatten. Zie hiervoor de pagina over het gebruik van Excel met hulpmiddelen.
+De eerste opdracht richt zich op het leren navigeren door een Excel-rekenblad.
 
-Ga nu naar de volgende cellen en zet alle gevonden woorden in de cellen achter elkaar in je mail of een Word bestand: C3, C5, B8, E9, F9, E3 en A14.
+#### Opdracht 01.1
 
-Stuur de gevonden zin in de mail of in een bijlage naar je docent/begeleider als uitwerking van Opdracht 01 Navigeren.
+**Download en open het Excel-bestand: [Werkmap 01 Navigeren.xlsx](https://www.eduvip.nl/cms/files/Werkmap-01-navigeren.xlsx).**
 
-##3. Sneltoetsen navigeren
+> **Let op:** Documenten die van het internet worden gedownload, zijn vaak beveiligd. Om de beveiliging op te heffen, gebruik je de toetsencombinatie `Alt, B, I, G` of pas je dit aan bij de bestandsinformatie in het bestandsmenu.
 
-* Naar eerste cel (A1); Ctrl+Home
-* Naar laatste cel van het gebied waarin de cellen met gegevens zich bevinden; Ctrl+End
-* Naar eerst volgende cel met gegevens; Ctrl+pijl rechts/links/omlaag/omhoog
-* Naar bepaalde cel; Ctrl+G of F5
-* Opheffen document beveiliging: Alt, b, i, g
-* Naar formulebalk SuperNova is dit:Li Shift+Num 7
-* Naar formulebalk Jaws is dit: Insert+Ctrl+F2
-* Celinhoud aanpassen F2
-* Formule lezen en aanpassen F2
+Na het openen van een Excel-bestand staat de celaanwijzer standaard op **cel A1** (linksboven op het rekenblad). Met de pijltjestoetsen kun je navigeren naar andere cellen.
 
-##Downloads:
+- Ga twee kolommen naar rechts en twee rijen omlaag naar **cel C3**.  
+  De inhoud van deze cel is **'Met'**.  
+  Zorg ervoor dat de brailleweergave in **gestructureerde** of **logische modus** staat. In braille en spraak krijg je de volgende informatie: **"tbl C 3 Met"**.
 
-* [Braillemonitor met info](https://www.eduvip.nl/cms/files/Braillemonitor-met-info.jpg)
-* [Werkmap 01 navigeren](https://www.eduvip.nl/cms/files/Werkmap-01-navigeren.xlsx)
+> Afhankelijk van de instellingen en het schermleesprogramma kan de weergegeven informatie variëren.
 
+### Navigeer naar de volgende cellen en noteer de woorden:
+
+- **C3**  
+- **C5**  
+- **B8**  
+- **E9**  
+- **F9**  
+- **E3**  
+- **A14**
+
+Zet alle gevonden woorden in een Word-document of een e-mail en stuur dit naar je docent of begeleider als uitwerking van **Opdracht 01 Navigeren**.
+
+---
+
+## 3. Sneltoetsen – Navigeren
+
+| Functie                                  | Toetscombinatie                |
+|------------------------------------------|--------------------------------|
+| Naar eerste cel (A1)                     | `Ctrl + Home`                  |
+| Naar laatste cel met gegevens            | `Ctrl + End`                   |
+| Naar eerstvolgende cel met gegevens      | `Ctrl + Pijltoets`             |
+| Naar bepaalde cel                        | `Ctrl + G` of `F5`             |
+| Opheffen documentbeveiliging             | `Alt, B, I, G`                 |
+| Naar formulebalk (SuperNova)             | `Li Shift + Num 7`             |
+| Naar formulebalk (Jaws)                  | `Insert + Ctrl + F2`           |
+| Celinhoud aanpassen                      | `F2`                           |
+| Formule lezen en aanpassen               | `F2`                           |
+
+---
+
+## 4. Downloads
+
+- **[Braillemonitor met info](https://www.eduvip.nl/cms/files/Braillemonitor-met-info.jpg)**  
+- **[Werkmap 01 Navigeren](https://www.eduvip.nl/cms/files/Werkmap-01-navigeren.xlsx)**
