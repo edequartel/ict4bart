@@ -1,49 +1,69 @@
-#5. Cel adressering
+# 5. Cel adressering
 
-1. Celadressering
-2. Sneltoetsen – Celadressering
-3. Downloads
+1. [Celadressering](#1-cel-adressering)  
+2. [Sneltoetsen – Celadressering](#2-sneltoetsen--celadressering)  
+3. [Downloads](#3-downloads)  
 
-##1. Cel adressering
+---
 
-In Excel worden alle gegevens in cellen geplaatst. Iedere cel heeft een adres. Zo heeft bijvoorbeeld de cel in kolom B en rij 5 het adres B5. Bij het maken van berekeningen ga je deze celadressen in de formules zetten om de inhoud van cellen bijvoorbeeld bij elkaar op te tellen of met elkaar te vermenigvuldigen.
+## 1. Cel adressering
 
-Bij het onderwerp ‘doorvoeren van formules’ heb je gezien dat celadressen door Excel automatisch worden aangepast als een formule wordt gekopieerd naar andere cellen. Dit gaan we nog een keer zien in de volgende opdracht.
+In Excel worden gegevens in **cellen** geplaatst. Iedere cel heeft een uniek **adres** dat bestaat uit een kolomletter en een rijnummer.  
+Bijvoorbeeld: de cel in **kolom B** en **rij 5** heeft het adres **B5**.
 
-###Opdracht 05.1
+Bij het maken van berekeningen gebruik je celadressen in formules om de inhoud van cellen bij elkaar op te tellen of te vermenigvuldigen.
 
-Download en open het bestand: Werkmap 05 celadressering.xlsx
+Tijdens het doorvoeren van formules past Excel automatisch de celadressen aan op basis van hun positie. Dit heet **relatieve celadressering**.
 
-Dit rekenblad bestaat uit de verkoopcijfers van chocolade repen en van de verkoop van blikjes cola per week.
+---
 
-* Bepaal in kolom D6 de formule voor de opbrengst van de repen ‘Puur klein’.
-* Voer de formule door tot en met D10 voor de andere repen chocolade.
-* Plaats in cel D11 de formule voor de berekening van de totaalopbrengst van de chocoladerepen.
+### Opdracht 05.1: Relatieve celadressering
 
-De formules in de cellen D7 tot en met D10 zijn automatische aangepast aan de rijen waarin de andere prijzen en aantallen van de repen staan. Dit komt omdat de gebruikte celadressering relatief is. Dat wil zeggen dat de celadressen bij het doorvoeren van een formule mogen worden aangepast aan de rijen of kolommen waarin de formules worden gekopieerd.
+**Download:** [Werkmap 05 Celadressering](https://www.eduvip.nl/cms/files/Werkmap-05-celadressering.xlsx)
 
-* Controleer de automatisch aangepaste formules in de cellen D7 tot en met D10.
+In dit bestand staan de verkoopcijfers van **chocoladerepen** en **blikjes Cola**.
 
-Er zijn ook berekeningen waarbij het niet wenselijk is dat bij het doorvoeren van een formule de celadressen automatisch worden aangepast.
+1. Bepaal in **cel D6** de formule om de opbrengst van **Puur klein** te berekenen.  
+   De formule vermenigvuldigt het aantal verkochte repen met de prijs per reep.  
+2. Voer de formule door naar de cellen **D7** tot en met **D10**.  
+3. Plaats in **cel D11** de formule om de **totaalopbrengst** van alle chocoladerepen te berekenen.
 
-Dan moet er gebruik worden gemaakt van absolute celadressering. Dit wordt uitgewerkt in de volgende opdracht.
+Controleer de automatisch aangepaste formules in **D7** tot en met **D10**. Deze formules zijn aangepast aan de rijen waarin ze zijn gekopieerd.
 
-###Opdracht 05.2
-Vanaf rij 13 is er in dit rekenblad een overzicht te zien van de verkoopcijfers van blikjes Cola over week 1 tot en met 5. In B14 staat de prijs van 1 blikje Cola. Bepaal de formule in C17 voor de berekening van de opbrengst van de verkoop van de Cola.
+---
 
-Bij het doorvoeren van de formule naar de andere weken zal Excel een verkeerde formule gebruiken omdat Excel voor zowel de aantal als de prijs per blikje één cel omlaag gaat. Voor de cel van de aantallen mag de formule wel worden aangepast, maar niet voor de cel van de prijs
+### Absolute celadressering
 
-per blikje Cola. Deze prijs moet gelijk blijven en staat in cel B14. Hiervoor moeten we het celadres B14 in de formule absoluut maken. Die doe je door er een dollarteken voor te plaatsen. 
+In sommige berekeningen wil je dat een celadres **niet automatisch wordt aangepast** bij het doorvoeren van formules. Dit heet **absolute celadressering**.
 
-* Pas de formule in C17 aan door een dollarteken (Shift+4) te plaatsen voor de letter van de kolom en voor het nummer van de rij van het celadres B14.
-* Voer nu de formule voor het berekenen van opbrengst van de Cola door voor alle weken.
-* Bereken in cel C22 de totaalopbrengst van alle weken Cola verkoop.
-* Stuur het rekenblad 05 met uitwerking naar je docent of trainer.
+Door een **dollarteken ($)** toe te voegen vóór de **kolomletter** en/of **rijnummer**, maak je het celadres absoluut.
 
-##2. Sneltoetsen Celadressering en getalnotaties
+---
 
-* Eigenschappen van een cel; Ctrl+1
-* Celadres absoluut maken; $ (dollarteken) plaatsen voor kolomletter en/of rijnummer afhankelijk van of je de rij absoluut wil maken of de kolom, of beide.
+### Opdracht 05.2: Absolute celadressering
 
-##Downloads:
-[Werkmap 05 celadressering](https://www.eduvip.nl/cms/files/Werkmap-05-celadressering.xlsx)
+In het bestand zie je een overzicht van de verkoopcijfers van **blikjes Cola** van **week 1** tot en met **week 5**.  
+De prijs per blikje staat in **cel B14**.
+
+1. Ga naar **cel C17** en bepaal de formule om de opbrengst van **week 1** te berekenen.  
+2. Bij het doorvoeren van de formule past Excel de celadressen automatisch aan. Dit is fout, omdat de **prijs per blikje (B14)** hetzelfde moet blijven.  
+3. Pas de formule in **C17** aan door het celadres **B14** absoluut te maken:  
+   `=$B$14`.
+4. Voer de formule door naar de andere weken.  
+5. Bereken in **cel C22** de **totaalopbrengst** van alle weken.  
+6. Stuur het bestand met uitwerking naar je docent of trainer.
+
+---
+
+## 2. Sneltoetsen – Celadressering
+
+| Functie                    | Sneltoets             |
+|----------------------------|-----------------------|
+| Eigenschappen van een cel   | `Ctrl + 1`            |
+| Celadres absoluut maken     | Plaats **$** (Shift + 4) voor kolomletter en/of rijnummer |
+
+---
+
+## 3. Downloads
+
+- **[Werkmap 05 Celadressering](https://www.eduvip.nl/cms/files/Werkmap-05-celadressering.xlsx)**
