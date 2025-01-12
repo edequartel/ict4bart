@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Sorteren van gegevens
+## 9.1. Sorteren van gegevens
 
 In Excel kun je grote hoeveelheden gegevens opslaan, zoals **verkoopresultaten**, **boekenlijsten** of **adressenlijsten**. Door deze lijsten te **sorteren** en te **filteren** kun je sneller specifieke informatie vinden.
 
@@ -33,7 +33,7 @@ Bij het sorteren kun je kiezen voor **oplopend** (A-Z, 0-9, oud naar nieuw) of *
 
 ---
 
-### Opdracht 09.1: Adressen sorteren op postcode
+### Opdracht 9.1: Adressen sorteren op postcode
 
 **Download:** [Werkmap 09 Sorteren gegevens.xlsx](https://www.eduvip.nl/cms/files/Werkmap-09-sorteren-gegevens.xlsx)
 
@@ -46,7 +46,7 @@ Bij het sorteren kun je kiezen voor **oplopend** (A-Z, 0-9, oud naar nieuw) of *
 
 ---
 
-### Opdracht 09.2: Adressen sorteren op provincie en verkoopprijs
+### Opdracht 9.2: Adressen sorteren op provincie en verkoopprijs
 
 Sorteer de adressen op dezelfde manier:
 
@@ -74,7 +74,7 @@ Je kunt het filtermenu ook openen met de sneltoets **Alt + Pijl omlaag**.
 
 ---
 
-### Opdracht 09.3: Boekenlijst filteren op titel (Z naar A)
+### Opdracht 9.3: Boekenlijst filteren op titel (Z naar A)
 
 1. Ga naar het werkblad **Boeken**.  
 2. Zorg dat de **celaanwijzer** in de lijst staat.  
@@ -85,7 +85,7 @@ Je kunt het filtermenu ook openen met de sneltoets **Alt + Pijl omlaag**.
 
 ---
 
-### Opdracht 09.4: Filteren op leesniveau (A naar Z)
+### Opdracht 9.4: Filteren op leesniveau (A naar Z)
 
 1. Sorteer de boekenlijst op **leesniveau** van **A naar Z**.  
 2. Controleer: **rij 10** moet het leesniveau **AVI 0** bevatten.
@@ -103,7 +103,7 @@ Gebruik hiervoor **Filter** en de optie **Aangepast sorteren**.
 
 ---
 
-### Opdracht 09.5: Boekenlijst sorteren op auteur en leesniveau
+### Opdracht 9.5: Boekenlijst sorteren op auteur en leesniveau
 
 1. Ga naar het werkblad **Boeken**.  
 2. Zorg dat het **filter** aan staat met **CTRL + SHIFT + L**.  
@@ -122,7 +122,7 @@ Gebruik hiervoor **Filter** en de optie **Aangepast sorteren**.
 
 ---
 
-## 2. Sneltoetsen – Sorteren van gegevens
+## 9.2. Sneltoetsen – Sorteren van gegevens
 
 | Functie                              | Sneltoets            |
 |--------------------------------------|----------------------|
@@ -133,6 +133,6 @@ Gebruik hiervoor **Filter** en de optie **Aangepast sorteren**.
 
 ---
 
-## 3. Downloads
+## 9.3. Downloads
 
 - **[Werkmap 09 Sorteren gegevens](https://www.eduvip.nl/cms/files/Werkmap-09-sorteren-gegevens.xlsx)**
