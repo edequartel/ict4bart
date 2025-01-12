@@ -17,7 +17,7 @@ Tijdens het doorvoeren van formules past Excel automatisch de celadressen aan op
 
 ---
 
-### Opdracht 05.1: Relatieve celadressering
+### Opdracht 5.1: Relatieve celadressering
 
 **Download:** [Werkmap 05 Celadressering](https://www.eduvip.nl/cms/files/Werkmap-05-celadressering.xlsx)
 
@@ -40,7 +40,7 @@ Door een **dollarteken ($)** toe te voegen vóór de **kolomletter** en/of **rij
 
 ---
 
-### Opdracht 05.2: Absolute celadressering
+### Opdracht 5.2: Absolute celadressering
 
 In het bestand zie je een overzicht van de verkoopcijfers van **blikjes Cola** van **week 1** tot en met **week 5**.  
 De prijs per blikje staat in **cel B14**.
