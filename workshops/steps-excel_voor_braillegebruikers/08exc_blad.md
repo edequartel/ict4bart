@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Werkblad beheer
+## 8.1. Werkblad beheer
 
 De **kolommen** van een Excel-werkblad hebben een **standaard breedte** waarin ongeveer 10 tekens passen. Wanneer de inhoud van een cel langer is dan de kolombreedte, wordt de tekst afgekapt. Voor visueel beperkte gebruikers is dit in brailleweergave niet direct merkbaar, maar in fysieke weergave kan de afgekorte inhoud zichtbaar worden.
 
@@ -36,7 +36,7 @@ Pas de kolombreedte aan zoals bij teksten, zodat het getal zichtbaar wordt.
 
 ---
 
-### Opdracht 08.1: Kolombreedte aanpassen
+### Opdracht 8.1: Kolombreedte aanpassen
 
 Stel de breedte van **kolom D** in op het grootste getal in deze kolom.
 
@@ -59,7 +59,7 @@ Eventuele formules worden automatisch aangepast aan de nieuwe celposities.
 
 ---
 
-### Opdracht 08.2: Kolom toevoegen
+### Opdracht 8.2: Kolom toevoegen
 
 Voeg links van **kolom D** een nieuwe kolom in.
 
@@ -77,7 +77,7 @@ Voeg links van **kolom D** een nieuwe kolom in.
 
 ---
 
-### Opdracht 08.3: Rij toevoegen
+### Opdracht 8.3: Rij toevoegen
 
 Voeg boven **rij 6** een nieuwe rij toe.
 
@@ -99,7 +99,7 @@ Stuur het bestand **Werkmap 08 Werkbladen beheer.xlsx** naar je docent of begele
 
 ---
 
-## 2. Sneltoetsen – Werkblad beheer
+## 8.2. Sneltoetsen – Werkblad beheer
 
 ### Excel
 
@@ -124,6 +124,6 @@ Stuur het bestand **Werkmap 08 Werkbladen beheer.xlsx** naar je docent of begele
 
 ---
 
-## 3. Downloads
+## 8.3. Downloads
 
 - **[Werkmap 08 Werkbladen beheer](https://www.eduvip.nl/cms/files/Werkmap-08-werkbladen-beheer.xlsx)**
