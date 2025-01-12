@@ -137,7 +137,7 @@ Voer vervolgens productieaantallen door met verschillende intervallen voor de ma
 
 ---
 
-## 3. Sneltoetsen – Doorvoeren gegevens
+## 4.3. Sneltoetsen – Doorvoeren gegevens
 
 | Functie                         | Sneltoets            |
 |---------------------------------|----------------------|
@@ -176,7 +176,8 @@ Stel de huidige rij in voor de kolomkoppen; INSERT+ALT+CTRL+C
 Lees rijkop; INSERT+ALT+SHIFT+R
 Stel de huidige kolom in voor de rijkoppen; INSERT+ALT+CTRL+R
 Lees de actieve celcoördinaten; INSERT+C
-Downloads:
+
+4.4 Downloads:
 Dialoog Reeks doorvoeren
 Werkmap 04 doorvoeren gegevens
 
