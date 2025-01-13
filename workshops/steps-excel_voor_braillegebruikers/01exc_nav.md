@@ -67,7 +67,7 @@ Na het openen van een Excel-bestand staat de celaanwijzer standaard op **cel A1*
 - **E3**  
 - **A14**
 
-Zet alle gevonden woorden in een Word-document of een e-mail en stuur dit naar je docent of begeleider als uitwerking van **Opdracht 01 Navigeren**.
+Zet alle gevonden woorden in een Word-document of een e-mail en stuur dit naar je docent of begeleider als uitwerking van **Opdracht 1.1 Navigeren**.
 
 ---
 
