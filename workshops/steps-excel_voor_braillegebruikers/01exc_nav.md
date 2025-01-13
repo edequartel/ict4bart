@@ -43,7 +43,7 @@ In de braillemonitor kan de volgende informatie worden gelezen:
 
 De eerste opdracht richt zich op het leren navigeren door een Excel-rekenblad.
 
-#### Opdracht 1.1
+### Opdracht 1.1
 
 **Download en open het Excel-bestand: [Werkmap 01 Navigeren.xlsx](https://www.eduvip.nl/cms/files/Werkmap-01-navigeren.xlsx).**
 
