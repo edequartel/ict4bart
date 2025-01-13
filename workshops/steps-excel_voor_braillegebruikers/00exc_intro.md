@@ -15,17 +15,15 @@ Leerlingen en studenten met een visuele beperking hebben hulpmiddelen en special
 
 Op de pagina: [Toegang tot de computer door middel van braille en spraak](http://www.eduvip.nl/toegang-tot-de-computer-door-middel-van-braille-spraak/) van eduVIP.nl wordt de werking van een schermleesprogramma uitgelegd.
 
-### Excel 2010 voor visueel beperkte leerlingen en studenten
+### Excel voor visueel beperkte leerlingen en studenten
 
-Deze cursus Excel 2010 is in het bijzonder bedoeld voor visueel beperkte leerlingen en studenten die op braille en/of spraak zijn aangewezen. Zij moeten Excel volledig met het toetsenbord kunnen gebruiken. Daarnaast richt de cursus zich op de groep die voor hun computertoegang gebruik maken van schermleessoftware en Excel gebruiken als alternatief voor de grafische rekenmachine.
+Deze cursus Excel is in het bijzonder bedoeld voor visueel beperkte leerlingen en studenten die op braille en/of spraak zijn aangewezen. Zij moeten Excel volledig met het toetsenbord kunnen gebruiken. Daarnaast richt de cursus zich op de groep die voor hun computertoegang gebruik maken van schermleessoftware en Excel gebruiken als alternatief voor de grafische rekenmachine.
 
 Op [eduVIP.nl](http://www.eduvip.nl) is een aantal Excel-bestanden beschikbaar dat hiervoor gebruikt kan worden.
 
 ### Ondersteuning docenten
 
 Als ondersteuning van de docenten wordt uitgelegd hoe visueel beperkte gebruikers de verschillende functies van Excel kunnen gebruiken.
-
-Meer informatie: [Excel werkbladen met wiskundige formules](http://www.eduvip.nl/excel-werkbladen-met-wiskundige-formules/).
 
 ---
 
