@@ -20,7 +20,7 @@ Voor spraak- en braillegebruikers is de tweede methode eenvoudiger. Gebruik **F2
 
 ---
 
-## 2.2. Basisberekeningen
+## 2.2 Basisberekeningen
 
 In deze opdracht leer je hoe je basisberekeningen maakt in Excel, waaronder:
 

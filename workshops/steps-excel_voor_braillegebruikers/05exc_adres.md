@@ -17,7 +17,7 @@ Tijdens het doorvoeren van formules past Excel automatisch de celadressen aan op
 
 ---
 
-### Opdracht 5.1: Relatieve celadressering
+### Opdracht 5.1 Relatieve celadressering
 
 **Download:** [Werkmap 05 Celadressering](https://www.eduvip.nl/cms/files/Werkmap-05-celadressering.xlsx)
 
@@ -64,6 +64,6 @@ De prijs per blikje staat in **cel B14**.
 
 ---
 
-## 5.3. Downloads
+## 5.3 Downloads
 
-- **[Werkmap 05 Celadressering](https://www.eduvip.nl/cms/files/Werkmap-05-celadressering.xlsx)**
+- **[Werkmap 5 Celadressering](https://www.eduvip.nl/cms/files/Werkmap-05-celadressering.xlsx)**

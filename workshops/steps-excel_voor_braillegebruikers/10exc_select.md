@@ -9,7 +9,7 @@
 
 ---
 
-## 10.1. Selecteren met de functie Filter
+## 10.1 Selecteren met de functie Filter
 
 Met de **Filterfunctie** kun je in Excel naast sorteren ook **gegevens selecteren** op basis van bepaalde voorwaarden. Bij het selecteren blijven alleen de rijen zichtbaar die voldoen aan de opgegeven voorwaarden. De overige rijen worden verborgen.
 
@@ -31,9 +31,9 @@ Gebruik de **Filterfunctie** door op de kolomkop te gaan staan en **Alt + Pijl o
 
 ---
 
-## 10.2. Gegevens selecteren op één selectievoorwaarde
+## 10.2 Gegevens selecteren op één selectievoorwaarde
 
-### Opdracht 10.1: Adressen selecteren in de provincie Utrecht
+### Opdracht 10.1 Adressen selecteren in de provincie Utrecht
 
 1. Open het bestand **Werkmap 10 selecteren gegevens.xlsx**.  
 2. Ga naar het werkblad **Verkoop**.  
@@ -45,7 +45,7 @@ Gebruik de **Filterfunctie** door op de kolomkop te gaan staan en **Alt + Pijl o
 
 ---
 
-### Opdracht 10.2: Sorteer de adressen op postcode
+### Opdracht 10.2 Sorteer de adressen op postcode
 
 1. Sorteer de geselecteerde adressen in **Utrecht** op **postcode** van **A-Z**.
 
@@ -53,7 +53,7 @@ Gebruik de **Filterfunctie** door op de kolomkop te gaan staan en **Alt + Pijl o
 
 ---
 
-### Opdracht 10.3: Filter wissen
+### Opdracht 10.3 Filter wissen
 
 1. Ga naar de kolomkop **Provincie**.  
 2. Open het **filtermenu** met **Alt + Pijl omlaag**.  
@@ -61,7 +61,7 @@ Gebruik de **Filterfunctie** door op de kolomkop te gaan staan en **Alt + Pijl o
 
 ---
 
-### Opdracht 10.4: Boeken van Paul van Loon selecteren
+### Opdracht 10.4 Boeken van Paul van Loon selecteren
 
 1. Ga naar het werkblad **Boeken**.  
 2. Selecteer de boeken van **Paul van Loon** met de filterfunctie.  
@@ -73,7 +73,7 @@ Gebruik de **Filterfunctie** door op de kolomkop te gaan staan en **Alt + Pijl o
 
 ---
 
-## 10.3. Gegevens selecteren op twee selectievoorwaarden
+## 10.3 Gegevens selecteren op twee selectievoorwaarden
 
 Je kunt gegevens ook selecteren op **twee voorwaarden**, bijvoorbeeld:
 
@@ -100,13 +100,13 @@ Dit doe je door eerst te filteren op de **auteur** en daarna op het **leesniveau
 
 ---
 
-## 10.4. Filteren op de waarde in de geselecteerde cel
+## 10.4 Filteren op de waarde in de geselecteerde cel
 
 Je kunt de lijst snel filteren op de **waarde van een geselecteerde cel**. Dit gaat via het **applicatiemenu**, optie **Filteren**, en daarna **Waarde van de geselecteerde cel gebruiken voor filter**.
 
 ---
 
-### Opdracht 10.6: Filteren op auteur Knegt
+### Opdracht 10.6 Filteren op auteur Knegt
 
 1. Ga naar het werkblad **Boeken**.  
 2. Zoek de auteur **Knegt** met **Ctrl + F**.  
@@ -115,7 +115,7 @@ Je kunt de lijst snel filteren op de **waarde van een geselecteerde cel**. Dit g
 
 ---
 
-## 10.5. Sneltoetsen – Selecteren van gegevens
+## 10.5 Sneltoetsen – Selecteren van gegevens
 
 | Functie                       | Sneltoets           |
 |--------------------------------|---------------------|
@@ -126,6 +126,6 @@ Je kunt de lijst snel filteren op de **waarde van een geselecteerde cel**. Dit g
 
 ---
 
-## 10.6. Downloads
+## 10.6 Downloads
 
 - **[Werkmap 10 selecteren gegevens](https://www.eduvip.nl/cms/files/Werkmap-10-selecteren-gegevens.xlsx)**

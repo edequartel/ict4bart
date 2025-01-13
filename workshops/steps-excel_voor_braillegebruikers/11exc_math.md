@@ -6,7 +6,7 @@
 
 ---
 
-## 11.1. Abc formule
+## 11.1 Abc formule
 
 Een **kwadratische vergelijking** kan worden herleid tot de standaardvorm:
 
@@ -24,7 +24,7 @@ De vergelijking kan worden opgelost met de **abc-formule**, waarbij je de volgen
 
 ---
 
-### Opdracht 11.1: Berekening met de abc-formule
+### Opdracht 11.1 Berekening met de abc-formule
 
 Gegeven is de vergelijking:  
 \[-2x^2 + 4 = -5x + 1\]  
@@ -49,7 +49,7 @@ Herleiden levert de waarden:
 
 ---
 
-## 11.2. Inklemmen
+## 11.2 Inklemmen
 
 Bij het **inklemmen van een vergelijking** bepaal je de oplossing door een inschatting te maken en vervolgens een tabel met berekeningen te gebruiken om dichter bij het juiste antwoord te komen.
 
@@ -66,7 +66,7 @@ Het **snijpunt** van de grafieken wordt bepaald door de waarden van **y₁** en 
 
 ---
 
-### Opdracht 11.2: Snijpunt bepalen
+### Opdracht 11.2 Snijpunt bepalen
 
 1. Download de werkmap **Werkmap 11-2 Inklemmen.xlsx**.  
 2. Bepaal tussen welke twee waarden van **x** de wisseling plaatsvindt in **kolommen D en E**.  
@@ -74,7 +74,7 @@ Het **snijpunt** van de grafieken wordt bepaald door de waarden van **y₁** en 
 
 ---
 
-### Opdracht 11.3: Maak een tabel
+### Opdracht 11.3 Maak een tabel
 
 Maak zelf een tabel met de volgende vergelijkingen:
 
@@ -109,7 +109,7 @@ Maak zelf een tabel met de volgende vergelijkingen:
 
 ---
 
-## 11.3. Downloads
+## 11.3 Downloads
 
 - [Werkmap 11-1 abc formule](https://www.eduvip.nl/cms/files/Werkmap-11-1-abc-formule.xlsx)  
 - [Werkmap 11-2 Inklemmen](https://www.eduvip.nl/cms/files/Werkmap-11-2-Inklemmen.xlsx)  
