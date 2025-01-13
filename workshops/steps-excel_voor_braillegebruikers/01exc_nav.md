@@ -1,4 +1,4 @@
-# 1. Navigeren
+# 1 Navigeren
 
 1. [Info docent – Navigeren](#1-info-docent-navigeren)  
 2. [Onderwerp – Navigeren](#2-onderwerp-navigeren)  
@@ -7,7 +7,7 @@
 
 ---
 
-## 1.1. Info docent – Navigeren
+## 1.1 Info docent – Navigeren
 
 De essentie van het werken met Excel is dat de informatie tweedimensionaal wordt weergegeven. De wijze waarop de gegevens onder elkaar in een kolom, dan wel naast elkaar in een rij, zijn weergegeven is essentieel voor het begrijpen van het geheel.
 
@@ -39,7 +39,7 @@ In de braillemonitor kan de volgende informatie worden gelezen:
 
 ---
 
-## 1.2. Onderwerp – Navigeren
+## 1.2 Onderwerp – Navigeren
 
 ### Opdracht 01 Navigeren
 
@@ -73,7 +73,7 @@ Zet alle gevonden woorden in een Word-document of een e-mail en stuur dit naar j
 
 ---
 
-## 1.3. Sneltoetsen – Navigeren
+## 1.3 Sneltoetsen – Navigeren
 
 | Functie                                  | Toetscombinatie                |
 |------------------------------------------|--------------------------------|
@@ -92,4 +92,4 @@ Zet alle gevonden woorden in een Word-document of een e-mail en stuur dit naar j
 ## 1.4. Downloads
 
 - **[Braillemonitor met info](https://www.eduvip.nl/cms/files/Braillemonitor-met-info.jpg)**  
-- **[Werkmap 01 Navigeren](https://www.eduvip.nl/cms/files/Werkmap-01-navigeren.xlsx)**
+- **[Werkmap 1 Navigeren](https://www.eduvip.nl/cms/files/Werkmap-01-navigeren.xlsx)**
