@@ -41,8 +41,6 @@ In de braillemonitor kan de volgende informatie worden gelezen:
 
 ## 1.2 Onderwerp – Navigeren
 
-### Opdracht 01 Navigeren
-
 De eerste opdracht richt zich op het leren navigeren door een Excel-rekenblad.
 
 #### Opdracht 1.1
