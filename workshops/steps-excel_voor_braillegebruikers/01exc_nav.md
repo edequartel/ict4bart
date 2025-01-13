@@ -1,6 +1,6 @@
 # 1 Navigeren
 
-1. [Info docent – Navigeren](#1.1-info-docent - navigeren)  
+1. [Info docent – Navigeren](#1.1-Info-docent-navigeren)  
 2. [Onderwerp – Navigeren](#1.2-onderwerp-navigeren)  
 3. [Sneltoetsen – Navigeren](#1.3-sneltoetsen-navigeren)  
 4. [Downloads](#1.4-downloads)  
