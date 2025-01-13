@@ -1,9 +1,9 @@
 # 1 Navigeren
 
-1. [Info docent – Navigeren](#1-info-docent-navigeren)  
-2. [Onderwerp – Navigeren](#2-onderwerp-navigeren)  
-3. [Sneltoetsen – Navigeren](#3-sneltoetsen-navigeren)  
-4. [Downloads](#4-downloads)  
+1. [Info docent – Navigeren](#1.1-info-docent-navigeren)  
+2. [Onderwerp – Navigeren](#1.2-onderwerp-navigeren)  
+3. [Sneltoetsen – Navigeren](#1.3-sneltoetsen-navigeren)  
+4. [Downloads](#1.4-downloads)  
 
 ---
 
@@ -87,7 +87,7 @@ Zet alle gevonden woorden in een Word-document of een e-mail en stuur dit naar j
 
 ---
 
-## 1.4. Downloads
+## 1.4 Downloads
 
 - **[Braillemonitor met info](https://www.eduvip.nl/cms/files/Braillemonitor-met-info.jpg)**  
 - **[Werkmap 1 Navigeren](https://www.eduvip.nl/cms/files/Werkmap-01-navigeren.xlsx)**
