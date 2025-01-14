@@ -16,7 +16,7 @@ Waarbij **a ≠ 0**.
 
 De vergelijking kan worden opgelost met de **abc-formule**, waarbij je de volgende waarden berekent:
 
-- **D** (Discriminant)  
+- **D** (Discriminant [b^2+4ac])  
 - **Nulpunten**  
 - **Top**  
 
@@ -28,6 +28,7 @@ De vergelijking kan worden opgelost met de **abc-formule**, waarbij je de volgen
 
 Gegeven is de vergelijking:  
 \[-2x^2 + 4 = -5x + 1\]  
+\[-2x^2 + 5x +3=0\]  
 
 Herleiden levert de waarden:  
 - **a = -2**  

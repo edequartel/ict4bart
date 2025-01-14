@@ -26,7 +26,7 @@ Voor braille-/spraakgebruikers werkt de **vulgreep** niet. In plaats daarvan geb
 
 | Actie                | Toetscombinatie              |
 |----------------------|------------------------------|
-| Naar het startmenu   | `Alt` + Pijltjestoetsen       |
+| Naar het startmenu   | `Alt` + `Pijltjestoetsen`       |
 | Navigeren door het menu | `Tab` of `Shift + Tab`      |
 | Openen menu 'Doorvoeren' | `Enter`                   |
 | Selecteer 'Reeks'    | Pijl omlaag of `K`            |
@@ -52,7 +52,7 @@ Het **doorvoeren van gegevens** kan gebruikt worden om:
 
 ### Opdracht 4.1 Doorvoeren van getallen
 
-**Download:** [Werkmap 04 Doorvoeren gegevens.xlsx](https://www.eduvip.nl/cms/files/Werkmap-04-doorvoeren-gegevens.xlsx)
+**Download:** [Werkmap 4 Doorvoeren gegevens.xlsx](https://www.eduvip.nl/cms/files/Werkmap-04-doorvoeren-gegevens.xlsx)
 
 1. Ga naar **cel B4** met inhoud **‘2010’**.  
 2. Voer dit getal door tot **cel F4** met een interval van **1**.  
@@ -62,7 +62,7 @@ Het **doorvoeren van gegevens** kan gebruikt worden om:
 
 - Selecteer de cellen van **B4** tot **F4** met `Shift + Pijltjestoetsen` of `Ctrl + G`.  
 - Ga naar het **menu Start** met `Alt + R`.  
-- Open het menu **Doorvoeren** met `TQ`.  
+- Open het menu **Doorvoeren** met `TQ` (of `GO` voor nieuwe versies).  
 - Selecteer **Reeks** met de pijltoetsen of **K**.  
 - Zet het **interval** op **1** en bevestig met **Enter**.
 
@@ -77,9 +77,9 @@ Het **doorvoeren van gegevens** kan gebruikt worden om:
 
 - Selecteer de cellen van **A5** tot **A16**.  
 - Ga naar het **menu Start** met `Alt + R`.  
-- Open het menu **Doorvoeren** met `TQ`.  
+- Open het menu **Doorvoeren** met `TQ` (of `GO` voor nieuwe versies).  
 - Kies de optie **Reeks** met de pijltoetsen of **K**.  
-- Zet het **doorvoertype** op **Automatisch** en bevestig met **Enter**.
+- Zet het **doorvoertype** op **Automatisch** `alt+o`  en bevestig met **Enter**.
 
 ---
 
@@ -103,7 +103,7 @@ Het **doorvoeren van gegevens** kan gebruikt worden om:
 
 - Selecteer **B6 t/m F6**.  
 - Ga naar het **menu Start** met `Alt + R`.  
-- Open het menu **Doorvoeren** met `TQ`.  
+- Open het menu **Doorvoeren** met `TQ` (of `GO` voor nieuwe versies).   
 - Kies de optie **Reeks** met **K**.  
 - Zet het **doorvoertype** op **Lineair** en het **interval** op **1**.  
 - Bevestig met **Enter**.
@@ -133,7 +133,7 @@ Voer vervolgens productieaantallen door met verschillende intervallen voor de ma
 2. Typ de namen van de maanden **januari t/m december** met behulp van **automatisch aanvullen**.
 
 **Controleer:** Controleer of de maanden correct zijn ingevoerd.  
-**Stuur:** Stuur je bestand **04 Doorvoeren gegevens.xlsx** met uitgewerkte opdrachten naar je docent.
+
 
 ---
 
@@ -153,7 +153,8 @@ Voer vervolgens productieaantallen door met verschillende intervallen voor de ma
 | Lezen kolom- en rij-koppen       | `Capslock + H` of `Num 3` |
 | Automatisch lezen van koppen     | `Ctrl+ Capslock + H` |
 
-Jaws
+### Jaws
+
 | **Functie**                                 | **Sneltoets**              |
 |---------------------------------------------|---------------------------|
 | Lees kolomkop                               | `INSERT + ALT + SHIFT + C` |
@@ -163,5 +164,5 @@ Jaws
 | Lees de actieve celcoördinaten              | `INSERT + C`               |
 
 ## 4.4. Downloads
-[Dialoog Reeks doorvoeren](https://www.eduvip.nl/cms/files/DialoogReeksdoorvoeren.jpg)
-[Werkmap 04 doorvoeren gegevens](werkmap)
+* [Dialoog Reeks doorvoeren](https://www.eduvip.nl/cms/files/DialoogReeksdoorvoeren.jpg)
+* [Werkmap 4 Doorvoeren gegevens.xlsx](https://www.eduvip.nl/cms/files/Werkmap-04-doorvoeren-gegevens.xlsx)

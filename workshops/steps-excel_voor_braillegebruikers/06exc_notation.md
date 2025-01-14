@@ -16,7 +16,7 @@ In deze opdracht berekenen we de groei van een spaarbedrag door jaarlijkse rente
 
 ### Opdracht 6.1 Getalnotaties instellen
 
-**Download:** [Werkmap 06 Getalnotaties](https://www.eduvip.nl/cms/files/Werkmap-05-celadressering.xlsx)  
+**Download:** [Werkmap 6 Getalnotaties](https://www.eduvip.nl/cms/files/Werkmap-06-getalnotaties.xlsx)  
 Verken het rekenblad.
 
 1. Ga naar **cel B10** en stel de getalnotatie in op **Financieel** met twee decimalen en het **Euroteken**.
@@ -41,7 +41,6 @@ Verken het rekenblad.
 
 1. Bereken in **B14** de **rente over het eerste jaar** door **B10** te vermenigvuldigen met **B11**.  
 2. Bereken in **C14** het **totaalbedrag voor het eerste jaar** door het startbedrag en de rente op te tellen.
-
 3. Bereken in **B15** de **rente over het tweede jaar** door het totaalbedrag van het eerste jaar te vermenigvuldigen met het rentepercentage.  
 4. Bereken in **C15** het **totaalbedrag voor het tweede jaar** door het totaalbedrag van het eerste jaar en de rente van het tweede jaar op te tellen.
 
@@ -87,7 +86,7 @@ Getallen kunnen ook als **breuken** worden weergegeven. Voorbeeld: het getal **0
 
 **Controleer:** Hoe wordt het resultaat weergegeven?
 
-Stuur het bestand **Werkmap 06 Getalnotatie.xlsx** naar je docent of trainer.
+Stuur het bestand **Werkmap 6 Getalnotatie.xlsx** naar je docent of trainer.
 
 ---
 
@@ -96,10 +95,10 @@ Stuur het bestand **Werkmap 06 Getalnotatie.xlsx** naar je docent of trainer.
 | Functie                     | Sneltoets             |
 |-----------------------------|-----------------------|
 | Eigenschappen van een cel    | `Ctrl + 1`            |
-| Celadres absoluut maken      | Plaats **$** (Shift + 4) voor kolomletter en/of rijnummer |
+| Celadres absoluut maken      | Plaats **$** (`Shift` + `4)` voor kolomletter en/of rijnummer |
 
 ---
 
 ## 6.3 Downloads
 
-- **[Werkmap 06 Getalnotaties](https://www.eduvip.nl/cms/files/Werkmap-05-celadressering.xlsx)**
+- **[Werkmap 6 Getalnotaties](https://www.eduvip.nl/cms/files/Werkmap-06-getalnotaties.xlsx)**

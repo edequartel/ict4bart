@@ -40,7 +40,7 @@ Bij het sorteren kun je kiezen voor **oplopend** (A-Z, 0-9, oud naar nieuw) of *
 1. Open het bestand **Werkmap 09 Sorteren gegevens.xlsx**.  
 2. Ga naar het werkblad **Verkoop**.  
 3. Zorg dat de **celaanwijzer** in **kolom B** (postcodes) staat.  
-4. Open het **snelmenu** met **Shift + F10**.  
+4. Open het **snelmenu** met  + `Shift + F10`,`T`, `S` of
 5. Selecteer **Sorteren** met de pijltoetsen en druk op **Enter**.  
 6. Kies de optie **Sorteren van A naar Z** en bevestig met **Enter**.
 
@@ -69,7 +69,7 @@ Je kunt het filtermenu ook openen met de sneltoets **Alt + Pijl omlaag**.
 
 #### Tips:
 
-- Filter inschakelen: **ALT + E, T** of **CTRL + SHIFT + L**.  
+- Filter inschakelen: **ALT + E, RI** of **CTRL + SHIFT + L**.  
 - Filter uitschakelen: gebruik dezelfde sneltoets.
 
 ---
@@ -128,7 +128,7 @@ Gebruik hiervoor **Filter** en de optie **Aangepast sorteren**.
 |--------------------------------------|----------------------|
 | Snelmenu openen                      | **Shift + F10**      |
 | Sorteren op huidige kolom            | **Snelmenu-toets, Sorteren** |
-| Filter in-/uitschakelen              | **ALT + E, T** of **CTRL + SHIFT + L** |
+| Filter in-/uitschakelen              | **ALT + E, RI** of **CTRL + SHIFT + L** |
 | Filtermenu openen                    | **Alt + Pijl omlaag** |
 
 ---

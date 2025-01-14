@@ -19,7 +19,7 @@ Tijdens het doorvoeren van formules past Excel automatisch de celadressen aan op
 
 ### Opdracht 5.1 Relatieve celadressering
 
-**Download:** [Werkmap 05 Celadressering](https://www.eduvip.nl/cms/files/Werkmap-05-celadressering.xlsx)
+**Download:** [Werkmap 5 Celadressering](https://www.eduvip.nl/cms/files/Werkmap-05-celadressering.xlsx)
 
 In dit bestand staan de verkoopcijfers van **chocoladerepen** en **blikjes Cola**.
 
@@ -51,16 +51,18 @@ De prijs per blikje staat in **cel B14**.
    `=$B$14`.
 4. Voer de formule door naar de andere weken.  
 5. Bereken in **cel C22** de **totaalopbrengst** van alle weken.  
-6. Stuur het bestand met uitwerking naar je docent of trainer.
 
 ---
 
 ## 5.2. Sneltoetsen – Celadressering
 
 | Functie                    | Sneltoets             |
+| Celadres absoluut maken     | `Plaats $ (Shift + 4) voor kolomletter en/of rijnummer` |
+
+<!--
 |----------------------------|-----------------------|
 | Eigenschappen van een cel   | `Ctrl + 1`            |
-| Celadres absoluut maken     | Plaats **$** (Shift + 4) voor kolomletter en/of rijnummer |
+-->
 
 ---
 

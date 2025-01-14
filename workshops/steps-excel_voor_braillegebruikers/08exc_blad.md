@@ -12,16 +12,16 @@ De **kolommen** van een Excel-werkblad hebben een **standaard breedte** waarin o
 
 ### Demonstratie: Kolombreedte aanpassen
 
-**Download:** [Werkmap 08 Werkbladen beheer](https://www.eduvip.nl/cms/files/Werkmap-08-werkbladen-beheer.xlsx)  
+**Download:** [Werkmap 8 Werkbladen beheer](https://www.eduvip.nl/cms/files/Werkmap-08-werkbladen-beheer.xlsx)  
 Open het bestand en ga naar het werkblad **Werkbladenbeheer**.
 
 1. Ga naar **cel A7**.  
    - Dit adres is langer dan de standaard kolombreedte.  
-   - Schakel over naar de **fysieke modus** in je schermleessoftware om het afgekorte adres te zien.
+   - Schakel over naar de **fysieke modus** `ctrl+shift+9 `in je schermleessoftware om het afgekorte adres te zien.
 
 2. **Kolombreedte AutoAanpassen**:  
    - Laat de focus op **cel A7** staan.  
-   - Gebruik de sneltoetsen **Alt, R, O, 2** om de kolombreedte automatisch aan te passen.
+   - Gebruik de sneltoetsen `Alt`, `R`, `OO`, `M` om de kolombreedte automatisch aan te passen.
 
 Als er meerdere lange inhoudscellen in de kolom zijn, selecteer de hele kolom en voer opnieuw **Kolombreedte AutoAanpassen** uit.
 
@@ -43,7 +43,7 @@ Stel de breedte van **kolom D** in op het grootste getal in deze kolom.
 #### Stappenplan:
 
 1. Zoek in de kolom de cel met **#**-tekens.  
-2. Pas **Kolombreedte AutoAanpassen** toe met **Alt, R, O, 2**.  
+2. Pas **Kolombreedte AutoAanpassen** toe met `Alt`, `R`, `OO`, `M`.  
 3. Controleer of er nog meer cellen zijn met **#**-tekens en pas indien nodig de kolombreedte verder aan.
 
 ---
@@ -95,8 +95,6 @@ Voeg boven **rij 6** een nieuwe rij toe.
 
 **Controleer:** De cel **C6** moet je woonplaats bevatten en **D6** de provincie.
 
-Stuur het bestand **Werkmap 08 Werkbladen beheer.xlsx** naar je docent of begeleider.
-
 ---
 
 ## 8.2 Sneltoetsen – Werkblad beheer
@@ -107,7 +105,7 @@ Stuur het bestand **Werkmap 08 Werkbladen beheer.xlsx** naar je docent of begele
 |--------------------------------------|----------------------|
 | Selecteren van een rij               | `Shift + Spatie`     |
 | Selecteren van een kolom             | `Ctrl + Spatie`      |
-| Kolombreedte automatisch instellen    | `Alt, R, O, 2`       |
+| Kolombreedte automatisch instellen    | `Alt, R, OO, M`       |
 
 ### SuperNova
 

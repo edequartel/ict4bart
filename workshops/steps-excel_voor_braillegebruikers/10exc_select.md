@@ -119,7 +119,7 @@ Je kunt de lijst snel filteren op de **waarde van een geselecteerde cel**. Dit g
 
 | Functie                       | Sneltoets           |
 |--------------------------------|---------------------|
-| Filter inschakelen             | **ALT + E, T** of **Ctrl + Shift + L** |
+| Filter inschakelen             | **ALT + E, RI** of **Ctrl + Shift + L** |
 | Filtermenu openen              | **Alt + Pijl omlaag** |
 | Snelmenu openen                | **Shift + F10**     |
 | Sorteren op huidige kolom      | **Snelmenu, optie sorteren** |

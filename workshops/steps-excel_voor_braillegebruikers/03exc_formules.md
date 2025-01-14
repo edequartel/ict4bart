@@ -77,11 +77,12 @@ Het begrijpen van tabelkoppen is belangrijk om de betekenis van een cel te achte
 Om kolom- en rijkoppen te lezen in SuperNova:
 
 1. **Maak de koppen vet** – Dit maakt ze herkenbaar voor het schermleesprogramma.  
-2. **Handmatig lezen:**  
-   - **Caps Lock + H**  
-   - **Num 3** (meerdere keren indrukken)  
-3. **Automatisch lezen inschakelen:**  
-   - **Ctrl + Caps Lock + H**
+
+| **Functie**                                   | **Toetscombinatie**      |
+|-----------------------------------------------|--------------------------|
+| Handmatig lezen - Navigeer door koppen        | `Caps Lock + H`        |
+| + meerdere keren indrukken voor meer details | `Num 3`              |
+| Automatisch lezen inschakelen                 |`Ctrl + Caps Lock + H` |
 
 ---
 
@@ -108,7 +109,7 @@ Om kolom- en rijkoppen te lezen in SuperNova:
 
 | Functie                        | Toetscombinatie     |
 |--------------------------------|---------------------|
-| Selecteren                     | `Shift + Pijltoetsen` of `Ctrl + G` |
+| Selecteren                     | `Shift + Pijltoetsen` |
 | Doorvoeren naar rechts          | `Ctrl + R`          |
 | Doorvoeren naar beneden         | `Ctrl + D`          |
 | Vet maken inhoud van cellen     | `Ctrl + B`          |

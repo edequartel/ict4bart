@@ -82,10 +82,10 @@ De kosten zijn steeds een percentage van de koopsom of het hypotheekbedrag:
 #### Stappenplan voor naam wijzigen:
 
 1. Ga op het tabblad **Blad1** staan.  
-2. Open de menubalk **Start** met **Alt + R**.  
-3. Tab naar de optie **Opmaak** (gebruik **Shift + Tab** voor snellere navigatie).  
+2. Open de menubalk **Start** met `alt + R`.
+3. Tab naar de optie **Opmaak** `OO`(gebruik **Shift + Tab** voor snellere navigatie).  
 4. Open de optie **Opmaak** met **Enter**.  
-5. Ga naar **Naam wijzigen** en bevestig met **Enter**.  
+5. Ga naar **Naam wijzigen** `n` bevestig met **Enter**.  
 6. Typ de nieuwe naam **Sneltoetsen** en bevestig met **Enter**.
 
 #### Verzamel sneltoetsen:
@@ -102,7 +102,7 @@ De kosten zijn steeds een percentage van de koopsom of het hypotheekbedrag:
 | Functie                     | Sneltoets            |
 |-----------------------------|----------------------|
 | Nieuw werkblad invoegen      | `Shift + F11`        |
-| Werkbladnaam wijzigen        | **Menu Start** → **Opmaak** → **Naam wijzigen** |
+| Werkbladnaam wijzigen        | Menu Start `alt+r` → Opmaak `OO` → Naam wijzigen `N` |
 
 ### SuperNova
 
