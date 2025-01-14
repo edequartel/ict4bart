@@ -60,8 +60,8 @@ Bij het **inklemmen van een vergelijking** bepaal je de oplossing door een insch
 
 Gegeven zijn de volgende vergelijkingen:
 
-- **y₁ = 2x² + x** (parabool)  
-- **y₂ = 2x + 2** (rechte lijn)  
+- **y1= 2x^2 + x** (parabool)  
+- **y2 = 2x + 2** (rechte lijn)  
 
 Het **snijpunt** van de grafieken wordt bepaald door de waarden van **y₁** en **y₂** te berekenen voor verschillende waarden van **x**. Het snijpunt is waar de y-waarden wisselen tussen **y₁** en **y₂**.
 
@@ -79,8 +79,8 @@ Het **snijpunt** van de grafieken wordt bepaald door de waarden van **y₁** en 
 
 Maak zelf een tabel met de volgende vergelijkingen:
 
-- **y₁ = 4x² + x**  
-- **y₂ = 3x + 3**  
+- **y1 = 4x^2 + x**  
+- **y1 = 3x + 3**  
 
 #### Stappenplan:
 
