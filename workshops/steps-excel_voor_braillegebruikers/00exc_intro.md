@@ -106,9 +106,14 @@ Met het Dolphin “Lijstprogramma” kun je lijsten oproepen:
 | Functie                             | Toetscombinatie        |
 |-------------------------------------|------------------------|
 | Breedsprakigheid instellen          | `CAPS LOCK + =`        |
-| Lees formulebalk                    | `Li Shift + NUM 7`     |
-| Breng focus naar de formulebalk     | `Li Shift + NUM`       |
-| Meer informatie over de focus       | `Li Shift + NUM 0`     |
+| *Lees formulebalk*                    | `Li Shift + NUM 7`     |
+| *Breng focus naar de formulebalk*     | `Li Shift + NUM`       |
+| *Meer informatie over de focus*      | `Li Shift + NUM 0`     |
+
+* CTRL+t, toon formule
+* F2, wijzig inhoud
+* CTRL+enter, wijzig maar blijf in cel
+* SHIFT+f11, nieuw tabblad
 
 ---
 
