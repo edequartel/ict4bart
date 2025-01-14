@@ -13,7 +13,7 @@
 
 Leerlingen en studenten met een visuele beperking hebben hulpmiddelen en speciale software om de computer te kunnen bedienen. Als het beeldscherm niet of niet voldoende kan worden waargenomen, gebruiken zij hulpmiddelen zoals de brailleleesregel en/of de synthetische spraak als alternatieve uitvoer van de computer. Braille en spraakuitvoer worden daarbij aangestuurd door een schermleesprogramma. Veel gebruikte schermleesprogramma’s in Nederland zijn **SuperNova**, **Jaws** en **NVDA**.
 
-Op de pagina: [Toegang tot de computer door middel van braille en spraak](http://www.eduvip.nl/toegang-tot-de-computer-door-middel-van-braille-spraak/) van eduVIP.nl wordt de werking van een schermleesprogramma uitgelegd.
+Op de pagina: [Toegang tot de computer door middel van braille en spraak](http://www.eduvip.nl/cms/files/Toegang-tot-de-computer-door-middel-van-braille_spraak_vervolg_01.doc) van eduVIP.nl wordt de werking van een schermleesprogramma uitgelegd.
 
 ### Excel voor visueel beperkte leerlingen en studenten
 
