@@ -67,7 +67,7 @@ Na het openen van een Excel-bestand staat de celaanwijzer standaard op **cel A1*
 - **E3**  
 - **A14**
 
-Zet alle gevonden woorden in een Word-document of een e-mail en stuur dit naar je docent of begeleider als uitwerking van **Opdracht 1.1 Navigeren**.
+Zet alle gevonden woorden in een Word-document als uitwerking van **Opdracht 1.1 Navigeren**.
 
 ---
 
@@ -80,7 +80,7 @@ Zet alle gevonden woorden in een Word-document of een e-mail en stuur dit naar j
 | Naar eerstvolgende cel met gegevens      | `Ctrl + Pijltoets`             |
 | Naar bepaalde cel                        | `Ctrl + G` of `F5`             |
 | Opheffen documentbeveiliging             | `Alt, B, I, G`                 |
-| Naar formulebalk (SuperNova)             | `Li Shift + Num 7`             |
+|*Naar formulebalk (SuperNova)*           | `Li Shift + Num 7`             |
 | Naar formulebalk (Jaws)                  | `Insert + Ctrl + F2`           |
 | Celinhoud aanpassen                      | `F2`                           |
 | Formule lezen en aanpassen               | `F2`                           |

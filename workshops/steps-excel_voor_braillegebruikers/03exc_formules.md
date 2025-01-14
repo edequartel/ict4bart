@@ -39,7 +39,7 @@ In de Excel-bestand **‘Werkmap 03 doorvoeren formules.xlsx’** staat een over
 
 #### Opdracht 3.1
 
-1. **Download en open:** [Werkmap 03 doorvoeren formules.xlsx](https://www.eduvip.nl/cms/files/Tabelkoppen.jpg)  
+1. **Download en open:** [Werkmap 3 doorvoeren formules.xlsx](https://www.eduvip.nl/cms/files/Werkmap-03-doorvoeren-formules.xlsx)  
 2. Verken het overzicht van gasverbruik en bekijk waar de gegevens beginnen en eindigen.
 
 #### Opdracht 3.2
@@ -136,4 +136,4 @@ Om kolom- en rijkoppen te lezen in SuperNova:
 ## 3.4. Downloads
 
 - **[Tabelkoppen](https://www.eduvip.nl/cms/files/Tabelkoppen.jpg)**  
-- **[Werkmap 03 doorvoeren formules](https://www.eduvip.nl/cms/files/Tabelkoppen.jpg)**
+- **[Werkmap 03 doorvoeren formules.xlsx](https://www.eduvip.nl/cms/files/Werkmap-03-doorvoeren-formules.xlsx)** 

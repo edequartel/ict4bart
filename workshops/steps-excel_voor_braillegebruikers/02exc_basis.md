@@ -81,9 +81,10 @@ Statistische functies die je leert:
 2. Ga naar cel **C17** en bereken het **maximum** van de cellen **C18:C20**.  
 3. Ga naar cel **D17** en bereken het **minimum** van de cellen **D18:D20**.  
 4. Ga naar cel **E17** en bereken het **aantal** getallen in de cellen **E18:E20**.  
-5. Bepaal in **F21** het aantal cellen met een getal in het gebied **B18:E20**.
 
-**Stuur je uitwerking van opdracht 02.3 naar je leerkracht of trainer.**
+<!--5. 
+Bepaal in **F21** het aantal cellen met een getal in het gebied **B18:E20**.
+-->
 
 ---
 
