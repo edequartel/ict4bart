@@ -69,6 +69,13 @@
 
 * [handleiding vraagbaak](vipdesk/phpbbhandleiding.md)
 
+## 5 Vergroting
+
+### Zoomtext
+
+* [les 1 zoomtext](zoomtext/les1-zoomtext.md)
+* [les 2 profiel](zoomtext/les2-profiel.)
+
 <!--
 ![IMAGEW VRAAGBAAK](pictures/vraagbaakqr.PNG)
 -->

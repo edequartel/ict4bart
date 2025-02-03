@@ -31,7 +31,7 @@ In de braillemonitor kan de volgende informatie worden gelezen:
 
 | Functie                                        | Toetscombinatie            |
 |------------------------------------------------|----------------------------|
-| Naar aanliggende cellen                        | Pijltjestoetsen             |
+| Naar aanliggende cellen                        | Pijltjestoetsen            |
 | Naar eerste cel (A1)                           | `Ctrl + Home`              |
 | Naar laatste cel met gegevens                  | `Ctrl + End`               |
 | Naar eerstvolgende cel met gegevens            | `Ctrl + Pijltoets`         |
