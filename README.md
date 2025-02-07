@@ -73,6 +73,7 @@
 
 ### Zoomtext
 
+* [sneltoetsen](zoomtext/sneltoetsenzoomtext.md)
 * [les 1 zoomtext](zoomtext/les1-zoomtext.md)
 * [les 2 profiel](zoomtext/les2-profiel.)
 

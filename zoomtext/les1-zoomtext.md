@@ -20,16 +20,10 @@ Om vergroting in ZoomText te starten:
   - **Zoom vergroten**: `Caps Lock + Pijl omhoog`  
   - **Zoom verkleinen**: `Caps Lock + Pijl omlaag`  
 
-### 🔄 **Zoomniveau aanpassen**
-- **Fijne aanpassingen**: Gebruik `Caps Lock + Pijl links` of `Caps Lock + Pijl rechts` om de zoom precies af te stellen.
-- **Terug naar standaardgrootte**: Druk op `Caps Lock + Enter`.
-
 ### 🎨 **Zichtbaarheid verbeteren**
 - **Kleurcontrast wijzigen**: `Caps Lock + C`
 - **Focusversterking inschakelen**: `Caps Lock + F`
-- **Cursorversterking inschakelen**: `Caps Lock + U`
 
----
 
 ## 🗣️ **2. Spraakfuncties gebruiken**
 ### 🔊 **Spraak inschakelen**
