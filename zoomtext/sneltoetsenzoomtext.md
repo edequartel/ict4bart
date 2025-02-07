@@ -20,7 +20,7 @@ Deze sneltoetsen worden gebruikt om de vergrotingsfuncties te bedienen.
 | Cursor verbeteren Aan/Uit | `CAPS LOCK+R` |
 | Focus verbeteren Aan/Uit | `CAPS LOCK+F` |
 | Aanwijzer verbeteren Aan/Uit | `CAPS LOCK+P` |
-| Smart Invert verbeteren Aan/Uit | `CAPS LOCK+I` |
+| ?? Smart Invert verbeteren Aan/Uit | `CAPS LOCK+I` |
 | Afvlakking (Smoothing Mode) | `CAPS LOCK+X` |
 | Schakel tussen Zoom en 1x | `CAPS LOCK+ENTER` |
 | Inzoomen | `CAPS LOCK+PIJL OMHOOG` |
@@ -34,7 +34,7 @@ Druk en laat **CAPS LOCK+SPATIEBALK** los en druk vervolgens op de toetsen hiero
 
 | **Opdracht** | **Gelaagde toets** |
 |-------------|-------------------|
-| Vergrotingsopdrachten | `CAPS LOCK+SPATIEBALK, M` |
+| ?? Vergrotingsopdrachten | `CAPS LOCK+SPATIEBALK, M` |
 | Kleuren verbeteren Aan/Uit | `C` |
 | Cursor verbeteren Aan/Uit | `R` |
 | Focus verbeteren Aan/Uit | `F` |
