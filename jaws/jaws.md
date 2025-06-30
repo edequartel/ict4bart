@@ -1,10 +1,10 @@
 # JAWS 
 
-* [Notities](notes.md)
+* [Notities!](notes.md)
 
 ## Links
 
-* [JAWS - basis](jaws/jawsbasis.md)
+* [JAWS - basis](jawsbasis.md)
 * [JAWS - afkortingen ](jawsafkortingen.md)
 * [JAWS - basiscursus](JAWSbasiscursus.md)
 * [JAWS - navigatiesneltoetsen](navigatiesneltoetsen.md)
