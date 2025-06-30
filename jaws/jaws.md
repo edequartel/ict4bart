@@ -4,8 +4,8 @@
 
 ## Links
 
-* [JAWS - basis](jawsbasis.md)
-* [JAWS - afkortingen ](jawsafkortingen.md)
-* [JAWS - basiscursus](JAWSbasiscursus.md)
-* [JAWS - navigatiesneltoetsen](navigatiesneltoetsen.md)
-* [JAWS - hotkeys](jawshotkeys.md)
+* [basis](jawsbasis.md)
+* [afkortingen](jawsafkortingen.md)
+* [basiscursus](JAWSbasiscursus.md)
+* [navigatiesneltoetsen](navigatiesneltoetsen.md)
+* [hotkeys](jawshotkeys.md)
