@@ -28,7 +28,7 @@
 * [Browser Chrome](internet/browsers.md)
 * [Casus Wikipedia](internet/wikipedia.md)
 * [Casus Youtube](internet/youtube.md)
-* [Surfen op het internet met JAWS](https://tinyurl.com/web4bart)
+* [Surfen op het internet met JAWS](https://www.tastenbraille.com/webcourse/index.htm)
 
 ### 3.3 Office
 
