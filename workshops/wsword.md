@@ -5,9 +5,7 @@
 ### 1. Word starten en sluiten
 Met Word kan je teksten lezen, maar ook zelf teksten maken en opslaan. Om dit te kunnen doen moet je eerst het programma Word starten.
 
-### 
-
-**Opdracht**
+### **Opdracht**
 
 Start Word. Typ een regel tekst. Sluit Word weer.
 
@@ -23,12 +21,9 @@ Start Word. Typ een regel tekst. Sluit Word weer.
 8. Ga met PIJL RECHTS naar de knop Niet opslaan, en druk ENTER.
 9. Nu is Word gesloten. Je tekst is niet bewaard.
 
-**Opdracht**
+### **Opdracht**
 
-Start Word maar typ nu GEEN tekst. Als je daarna Word sluit, krijg je dan ook de vraag of je het document wilt bewaren?
-
-#### 
- ####
+Start Word maar typ nu GEEN tekst. Als je daarna Word sluit, krijg je dan ook de vraag of je het document wilt bewaren? 
 
 #### 1.1. Sneltoetsen
 Startmenu, WINDOWSTOETS
@@ -109,11 +104,11 @@ Onder het lint staat het documentvenster. In dit grote venster kun je je tekst t
 Boven het document staat een liniaal met cijfers. Onder het document staat een brede balk. Dit is de statusbalk. Hier vind je aan de linkerkant informatie over je document, zoals op welke pagina je werkt. Helemaal rechts op de statusbalk staan knoppen op waarmee je de weergave op je scherm kunt aanpassen, zoals het groter weergeven van de tekst.
 
 ### 3. Titelbalk en statusbalk opvragen
+
 **Sneltoetsen**
 
 Statusbalk opvragen, F6, daarna weer terug met SHIFT + F6
 
-### 
 
 **Sneltoetsen Supernova**
 
@@ -123,7 +118,6 @@ Titelbalk opvragen (laptop), CAPSLOCK + PAGE UP of CAPSLOCK + B
 
 Statusbalk opvrage, NUMERIEK 2
 
-### 
 
 **Sneltoetsen Jaws**
 
@@ -131,7 +125,6 @@ Titelbalk opvragen, Insert + T
 
 Statusbalk opvragen, Insert + PageDown
 
-### 
 
 **Sneltoetsen NVDA**
 
