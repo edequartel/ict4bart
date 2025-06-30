@@ -22,7 +22,7 @@
 
 * [Navigeren in Windows](windows/navigereninwindows.md)
 * [Verkenner](windows/explorer.md)
-* [Windows](windows/windows.md)
+<!--* [Windows](windows/windows.md)-->
 
 ### 3.2 Internet
 
@@ -61,9 +61,10 @@
 
 * [lijst met links](vipDesk/links.md)
 
-### Podcasts
+<!--### Podcasts
 
 * [podcasts](podcasts/podcasts.md)
+* -->
 
 ### Vraagbaak
 

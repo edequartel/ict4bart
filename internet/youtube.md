@@ -35,6 +35,7 @@ www.tinyurl.com/bio4bart
 | TAB                     | om meer knoppen te zien                         |
 | ENTER of SPATIEBALK     | Activeren                                           |
 | CTRL+HOME               | Focus naar bovenkant van de pagina gaan               |
+| B | Door de knoppen heen gaan van youtube |
 
 ### Sneltoetsen Youtube zonder virtuele cursor
 
