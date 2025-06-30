@@ -2,12 +2,13 @@
 # Wikipedia
 
 ### Casus Wikipedia
+
 | sneltoets | betekenis |
 |---|---|
 | ctrl+l| adres balk |
 |**www.wikipedia.nl**||
 |**www.wikikids.nl**||
-|e>enter|invoerveld|
+|e > enter|invoerveld|
 |||
 ||voer veld in wat je leuk vindt|
 |voer interesse in| biologie|
