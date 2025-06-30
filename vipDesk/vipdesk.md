@@ -1,4 +1,4 @@
-# vipDesk
+# vipDesk depreciated!!
 
 ## tinyurl.com/vipdeskbart
 
