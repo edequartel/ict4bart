@@ -1,10 +1,12 @@
 # NVDA Handleidng 2021-1
 
+<!--
 - [aantekeningen](notesNVDA.html)
 - [algemeen](generalNVDA.md)
 - [outlook](outlookNVDA.md)
 - [Sneltoetskaart NVDA](SneltoetskaartNVDA.pdf)
-- [overzicht commando's](https://www.eduvip.nl/VSOdigitaal/ictbart/keycommands.html)
+- [overzicht commando's](https://www.eduvi
+-->
 
 Inhoudsopgave
 -------------
