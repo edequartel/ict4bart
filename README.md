@@ -12,6 +12,7 @@
 
 ## 2 iOS VoiceOver
 
+* [instellen iphone op voiceover drie keer klikken](ios/driekeerklikken.md)
 * [basis gestures](ios/iosbasis.md)
 * [voiceover braille](ios/ios.md)
 
