@@ -45,6 +45,11 @@
 * [Kickstart](msword/kickstart.md)
 
 
+#### 3.3.3 Verkenner
+
+* [Document maken](verkenner/makenvandocument.md)
+
+
 ### 3.3.3 Outlook
 
 * [Outlook](outlook/outlook.md)
