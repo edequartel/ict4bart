@@ -1,6 +1,6 @@
 # Maken van document
 
-1. linker alt
+1. linker alt (nieuw knop)
 2. enter (opent een menu)
 3. pijl(en) naar beneden
 4. ga naar gewenste bestand (microsoft word-document)

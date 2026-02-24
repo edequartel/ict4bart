@@ -21,7 +21,7 @@
 ### 3.1 Windows
 
 * [Navigeren in Windows](windows/navigereninwindows.md)
-* [Verkenner](windows/explorer.md)
+
 <!--* [Windows](windows/windows.md)-->
 
 ### 3.2 Internet
@@ -45,8 +45,9 @@
 * [Kickstart](msword/kickstart.md)
 
 
-#### 3.3.3 Verkenner
+#### 3.3.3 Verkenner/OneDrive
 
+* [Verkenner](windows/explorer.md)
 * [Document maken](verkenner/makenvandocument.md)
 
 
