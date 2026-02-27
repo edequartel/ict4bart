@@ -1,10 +1,14 @@
 # ict4vip (v1.1)
 
 ## Teksten
+
+### 6l/10-30/25r
+
+* [regen](teksten/regen.md)
  
-### lc/8l/30-40/15z
+### 8l/30-40/15z
  
-* [lente ](teksten/lente.md)
+* [lente](teksten/lente.md)
 
 
 ## 1 Schermlezers
