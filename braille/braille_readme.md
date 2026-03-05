@@ -17,7 +17,9 @@
 
 ## Braille Curriculum
 
-* [Revalidatie Braille](H4 Revalidatie braille.pdf)
+* [H4 Revalidatie Braille](H4 Revalidatie braille.pdf)
+* [H4 Bijlage revaliatie Braille](H4 bijlage Revalidatie braille.pdf)
+* [H7 Werken met de leesregel](H7 Werken met de leesregel.pdf)
 
 ## JAWS
 
