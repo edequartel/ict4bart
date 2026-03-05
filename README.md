@@ -1,15 +1,9 @@
 # ict4vip (v1.1)
 
-## Teksten
 
-### 6l/10-30/25r
+## 0 Brailleles
 
-* [regen](teksten/regen.md)
- 
-### 8l/30-40/15z
- 
-* [lente](teksten/lente.md)
-
+* [Brailleles](braille/braille_readme.md)
 
 ## 1 Schermlezers
 
