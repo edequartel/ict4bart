@@ -1,17 +1,24 @@
 # Brailleles
 
+## Algemeen
+
+* [Keuzes maken](keuzesmaken.md)
+
+## Lessen
 * [Planning](planning.md)
 * [Teksten](teksten.md)
 
+
+<!--
 ## BrailleStudio
 
 * [BrailleStudio](https://edequartel.github.io/BrailleStudio/)
-
+-->
 
 ## Braille Curriculum
 
-* [revalidatie Braille](H4 Revalidatie braille.pdf)
+* [Revalidatie Braille](H4 Revalidatie braille.pdf)
 
 ## JAWS
 
-* [jaws instellingen/toetsen](toetsen.md)
+* [Jaws instellingen/toetsen](toetsen.md)
