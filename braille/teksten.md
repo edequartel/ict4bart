@@ -1,13 +1,14 @@
 ## Teksten
 
-* l woordlengte
-* 10-30 regellegte
+* k woordlengte
+* l 10-30 regellengte
 * r aantal regels
 
-### 6l/10-30/25r
+### k:12/l:30-40/r:40 (Kirsty)
 
-* [regen](teksten/regen.md)
- 
-### 8l/30-40/15r
- 
-* [lente](teksten/lente.md)
+1. [carry slee pijnstillers](teksten/pijnstillers.md)
+
+
+### k:12/l:30-40/r:40 met hoofdletters (Merlin)
+
+1. [bananino en bananito](teksten/bananinobananito.md)
