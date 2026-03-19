@@ -7,7 +7,7 @@
 | 3e uur | —       | —                                         | —        | —                                         | —                                    |
 | 4e uur | —       | —                                         | —        | —                                         | Tala (Manon) MEN/LOB                 |
 | 5e uur | —       | Kirsty (15 min) + Merlin (15 min) (Gerda) FRA | —        | —                                     | —                                    |
-| 6e uur | —       | —                                         | —        | Kirsty + Merlin (Gerda, einde uur) WIS    | —                                    |
+| 6e uur | —       | —                                         | —        | Kirsty + Merlin (Gerda, einde uur) BES    | —                                    |
 
 INSTRUCTIEMOMENT
 
