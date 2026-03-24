@@ -6,7 +6,7 @@ paardrijden is een echte sport.
 je traint je lijf en ook je balans.
 je zit op een paard en stuurt hem.
 dat vraagt kracht en goed gevoel.
-je moet recht en rustig blijven zit.
+je moet recht en rustig blijven zitten.
 je benen en romp werken steeds mee.
 zo houd je goed even wicht en rust.
 dat kost veel oefen en veel geduld.
