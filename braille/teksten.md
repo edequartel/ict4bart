@@ -7,10 +7,13 @@
 ### k:12/l:30-40/r:40 (Kirsty)
 
 1. [carry slee pijnstillers](teksten/pijnstillers.md)
-2. [vakantie](vakantie.md)
-3. [paardrijden](paardrijden.md)
+2. [vakantie](teksten/vakantie.md)
+3. [paardrijden](teksten/paardrijden.md)
+4. [bananino en bananito](teksten/bananinobananito.md)
+5. [capibara](teksten/capibari.md)
 
 
 ### k:12/l:30-40/r:40 met hoofdletters (Merlin)
+4. [wolven](teksten/wolven.md)
+5. [op vakantie in Zuid-Afrika](teksten/zuidafrika.md)
 
-1. [bananino en bananito](teksten/bananinobananito.md)
