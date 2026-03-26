@@ -5,6 +5,10 @@
 
 * [Brailleles](braille/braille_readme.md)
 
+## Spiekbrief
+
+* [Spiekbrief JAWS](jaws/spiekbrief.md)
+
 ## 1 Schermlezers
 
 * [JAWS](jaws/jaws.md)
